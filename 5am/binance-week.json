@@ -1,0 +1,344 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": {
+        "body": {
+            "data": {
+                "gainerList": [
+                    {
+                        "id": 7527,
+                        "name": "LTCDOWN",
+                        "symbol": "LTCDOWN",
+                        "slug": "ltcdown",
+                        "rank": 3334,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.96436740951908,
+                            "priceChange1h": -0.04756355,
+                            "priceChange24h": 0.37787904,
+                            "priceChange7d": 9961216.11047636,
+                            "priceChange30d": 3377015.5091931,
+                            "volume24h": 220681.22303005
+                        }
+                    },
+                    {
+                        "id": 7525,
+                        "name": "UNIDOWN",
+                        "symbol": "UNIDOWN",
+                        "slug": "unidown",
+                        "rank": 2982,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.86862414940552,
+                            "priceChange1h": -4.12403253,
+                            "priceChange24h": -5.8667772,
+                            "priceChange7d": 9568696.58638362,
+                            "priceChange30d": 1816152.68462477,
+                            "volume24h": 745882.4966228
+                        }
+                    },
+                    {
+                        "id": 10185,
+                        "name": "Moonlana",
+                        "symbol": "MOLA",
+                        "slug": "moonlana",
+                        "rank": 2975,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00154598587644,
+                            "priceChange1h": 3.0721139,
+                            "priceChange24h": -24.36440289,
+                            "priceChange7d": 721.65904376,
+                            "priceChange30d": 2017.78562495,
+                            "volume24h": 757124.48091879
+                        }
+                    },
+                    {
+                        "id": 11042,
+                        "name": "NFTBooks",
+                        "symbol": "NFTBS",
+                        "slug": "nftbooks",
+                        "rank": 3091,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.518e-11,
+                            "priceChange1h": 2.31148419,
+                            "priceChange24h": 129.51676069,
+                            "priceChange7d": 523.84608889,
+                            "priceChange30d": 0.0,
+                            "volume24h": 488469.09661554
+                        }
+                    },
+                    {
+                        "id": 10817,
+                        "name": "Ryoshi Token",
+                        "symbol": "RYOSHI",
+                        "slug": "ryoshi-token",
+                        "rank": 2905,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.427156e-08,
+                            "priceChange1h": 40.39114953,
+                            "priceChange24h": -78.47241357,
+                            "priceChange7d": 516.6019563,
+                            "priceChange30d": 709.81663827,
+                            "volume24h": 995802.60134237
+                        }
+                    },
+                    {
+                        "id": 10329,
+                        "name": "TasteNFT",
+                        "symbol": "TASTE",
+                        "slug": "tastenft",
+                        "rank": 2730,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.771455e-08,
+                            "priceChange1h": -2.85150748,
+                            "priceChange24h": -16.47287746,
+                            "priceChange7d": 446.4316796,
+                            "priceChange30d": 6595.88115335,
+                            "volume24h": 3297725.95431013
+                        }
+                    },
+                    {
+                        "id": 11255,
+                        "name": "Orica",
+                        "symbol": "ORI",
+                        "slug": "orica",
+                        "rank": 2752,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.65071949746743,
+                            "priceChange1h": 0.53279492,
+                            "priceChange24h": 20.66208932,
+                            "priceChange7d": 443.07394492,
+                            "priceChange30d": 0.0,
+                            "volume24h": 2664747.43913563
+                        }
+                    },
+                    {
+                        "id": 11254,
+                        "name": "Minifootball",
+                        "symbol": "MINIFOOTBALL",
+                        "slug": "minifootball",
+                        "rank": 2640,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.0365e-10,
+                            "priceChange1h": -13.59771453,
+                            "priceChange24h": 55.0353273,
+                            "priceChange7d": 406.7626703,
+                            "priceChange30d": 0.0,
+                            "volume24h": 12069205.19672064
+                        }
+                    },
+                    {
+                        "id": 9491,
+                        "name": "Smaugs NFT",
+                        "symbol": "SMG",
+                        "slug": "smaugs-nft",
+                        "rank": 973,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.27307549340356,
+                            "priceChange1h": 7.04762318,
+                            "priceChange24h": 0.40355998,
+                            "priceChange7d": 405.21303952,
+                            "priceChange30d": 660.23517654,
+                            "volume24h": 2031466.10018903
+                        }
+                    },
+                    {
+                        "id": 9780,
+                        "name": "Snowball",
+                        "symbol": "SNOB",
+                        "slug": "snowball-finance",
+                        "rank": 2674,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.39605810793981,
+                            "priceChange1h": -4.5740812,
+                            "priceChange24h": 106.54685126,
+                            "priceChange7d": 404.28350725,
+                            "priceChange30d": 531.45055179,
+                            "volume24h": 7280451.01270225
+                        }
+                    }
+                ],
+                "loserList": [
+                    {
+                        "id": 10471,
+                        "name": "Bitcoin Networks",
+                        "symbol": "BTCN",
+                        "slug": "bitcoin-networks",
+                        "rank": 2901,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00773922600448,
+                            "priceChange1h": 2.49198514,
+                            "priceChange24h": -40.94306614,
+                            "priceChange7d": -98.40680086,
+                            "priceChange30d": -99.07546285,
+                            "volume24h": 1025073.76699673
+                        }
+                    },
+                    {
+                        "id": 5560,
+                        "name": "Idea Chain Coin",
+                        "symbol": "ICH",
+                        "slug": "idea-chain-coin",
+                        "rank": 3341,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.27793676710881,
+                            "priceChange1h": 0.54924658,
+                            "priceChange24h": -19.46950708,
+                            "priceChange7d": -90.84274997,
+                            "priceChange30d": -87.86498821,
+                            "volume24h": 216315.69695264
+                        }
+                    },
+                    {
+                        "id": 9075,
+                        "name": "Bafi Finance",
+                        "symbol": "BAFI",
+                        "slug": "bafi-finance",
+                        "rank": 3535,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.25552868428915,
+                            "priceChange1h": -0.0164754,
+                            "priceChange24h": 12.45947621,
+                            "priceChange7d": -79.58639138,
+                            "priceChange30d": -25.97095389,
+                            "volume24h": 133389.0462083
+                        }
+                    },
+                    {
+                        "id": 6096,
+                        "name": "3X Short Cosmos Token",
+                        "symbol": "ATOMBEAR",
+                        "slug": "3x-short-cosmos-token",
+                        "rank": 3673,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.9369602e-07,
+                            "priceChange1h": -13.29008558,
+                            "priceChange24h": -49.10114789,
+                            "priceChange7d": -77.72690584,
+                            "priceChange30d": -93.71224986,
+                            "volume24h": 84778.61532213
+                        }
+                    },
+                    {
+                        "id": 11236,
+                        "name": "Crypto Puffs",
+                        "symbol": "PUFFS",
+                        "slug": "crypto-puffs",
+                        "rank": 3270,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00053865082681,
+                            "priceChange1h": -10.37012045,
+                            "priceChange24h": -61.76412111,
+                            "priceChange7d": -74.00412974,
+                            "priceChange30d": 0.0,
+                            "volume24h": 270064.22942162
+                        }
+                    },
+                    {
+                        "id": 11161,
+                        "name": "CheCoin",
+                        "symbol": "CHECOIN",
+                        "slug": "checoin",
+                        "rank": 3364,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.657728627e-05,
+                            "priceChange1h": -0.09036357,
+                            "priceChange24h": -30.44490347,
+                            "priceChange7d": -68.39433824,
+                            "priceChange30d": 0.0,
+                            "volume24h": 204369.6850025
+                        }
+                    },
+                    {
+                        "id": 10715,
+                        "name": "AirCoin",
+                        "symbol": "AIR",
+                        "slug": "air",
+                        "rank": 3009,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.76907e-09,
+                            "priceChange1h": -0.37028339,
+                            "priceChange24h": -2.39231679,
+                            "priceChange7d": -62.70409561,
+                            "priceChange30d": 799.08921143,
+                            "volume24h": 664275.23353632
+                        }
+                    },
+                    {
+                        "id": 7625,
+                        "name": "gAsp",
+                        "symbol": "GASP",
+                        "slug": "gasp",
+                        "rank": 3554,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.06196935451872,
+                            "priceChange1h": 1.963802,
+                            "priceChange24h": -47.64199162,
+                            "priceChange7d": -61.52639231,
+                            "priceChange30d": -79.29858732,
+                            "volume24h": 123567.71331056
+                        }
+                    },
+                    {
+                        "id": 11235,
+                        "name": "BUMooN",
+                        "symbol": "BUMN",
+                        "slug": "bumoon",
+                        "rank": 3567,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 9.23258e-09,
+                            "priceChange1h": -8.6701529,
+                            "priceChange24h": -27.36388934,
+                            "priceChange7d": -60.81319438,
+                            "priceChange30d": 0.0,
+                            "volume24h": 123142.77870388
+                        }
+                    },
+                    {
+                        "id": 10937,
+                        "name": "SafeCap Token",
+                        "symbol": "SFC",
+                        "slug": "safecap-token",
+                        "rank": 3203,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00320098586383,
+                            "priceChange1h": -3.0523716,
+                            "priceChange24h": -30.40902855,
+                            "priceChange7d": -59.64210454,
+                            "priceChange30d": -91.35263155,
+                            "volume24h": 314560.4239338
+                        }
+                    }
+                ]
+            },
+            "status": {
+                "timestamp": "2021-08-21T16:45:58.736Z",
+                "error_code": "0",
+                "error_message": "SUCCESS",
+                "elapsed": "14",
+                "credit_count": 0
+            }
+        },
+        "success": true
+    },
+    "success": true
+}

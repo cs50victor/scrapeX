@@ -1,0 +1,164 @@
+{
+    "listings": [
+        {
+            "name": "Regencell Bioscience Holdings Ltd",
+            "symbol": "RGC",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "19.16",
+            "percentageChange": 204.13,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$12.86 in the past 24 hours.\nMarketValue: $242222731\nVolume: 10298619\nTurn Over Rate: 81.46%\nYear-High: $26.70\nYear-Low: $6.00\nLowest-Price Today:$6.00\nHighest-Price Today: $26.70."
+        },
+        {
+            "name": "Flora Growth Corp.",
+            "symbol": "FLGC",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "12.68",
+            "percentageChange": 43.93,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$3.87 in the past 24 hours.\nMarketValue: $532861188\nVolume: 38008961\nTurn Over Rate: 90.45%\nYear-High: $21.45\nYear-Low: $2.850\nLowest-Price Today:$9.30\nHighest-Price Today: $12.97."
+        },
+        {
+            "name": "GeoVax Labs",
+            "symbol": "GOVX",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "5.71",
+            "percentageChange": 32.79,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.41 in the past 24 hours.\nMarketValue: $36131178\nVolume: 103636313\nTurn Over Rate: 1637.82%\nYear-High: $10.98\nYear-Low: $2.560\nLowest-Price Today:$5.32\nHighest-Price Today: $7.50."
+        },
+        {
+            "name": "DatChat, Inc.",
+            "symbol": "DATS",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "6.20",
+            "percentageChange": 26.02,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.28 in the past 24 hours.\nMarketValue: $100685842\nVolume: 7906797\nTurn Over Rate: 48.69%\nYear-High: $6.30\nYear-Low: $3.310\nLowest-Price Today:$4.520\nHighest-Price Today: $6.30."
+        },
+        {
+            "name": "Pixelworks",
+            "symbol": "PXLW",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "4.450",
+            "percentageChange": 25.0,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.890 in the past 24 hours.\nMarketValue: $233332265\nVolume: 11578698\nTurn Over Rate: 22.08%\nYear-High: $4.670\nYear-Low: $1.847\nLowest-Price Today:$3.690\nHighest-Price Today: $4.480."
+        },
+        {
+            "name": "View Inc",
+            "symbol": "VIEW",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "4.410",
+            "percentageChange": 22.16,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.800 in the past 24 hours.\nMarketValue: $1012433299\nVolume: 4063547\nTurn Over Rate: 1.77%\nYear-High: $13.31\nYear-Low: $3.450\nLowest-Price Today:$3.470\nHighest-Price Today: $4.430."
+        },
+        {
+            "name": "Accelerate",
+            "symbol": "AXDX",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "6.51",
+            "percentageChange": 19.23,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.05 in the past 24 hours.\nMarketValue: $400356504\nVolume: 674258\nTurn Over Rate: 1.1%\nYear-High: $15.60\nYear-Low: $5.35\nLowest-Price Today:$5.35\nHighest-Price Today: $6.60."
+        },
+        {
+            "name": "Leju Holdings",
+            "symbol": "LEJU",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "1.590",
+            "percentageChange": 18.66,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.250 in the past 24 hours.\nMarketValue: $216896040\nVolume: 214154\nTurn Over Rate: 0.16%\nYear-High: $3.970\nYear-Low: $1.320\nLowest-Price Today:$1.340\nHighest-Price Today: $1.610."
+        },
+        {
+            "name": "Spero",
+            "symbol": "SPRO",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "15.46",
+            "percentageChange": 18.65,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$2.43 in the past 24 hours.\nMarketValue: $496990254\nVolume: 417310\nTurn Over Rate: 1.3%\nYear-High: $23.64\nYear-Low: $8.50\nLowest-Price Today:$12.76\nHighest-Price Today: $15.55."
+        },
+        {
+            "name": "Organovo Holdings",
+            "symbol": "ONVO",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "7.15",
+            "percentageChange": 17.6,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.07 in the past 24 hours.\nMarketValue: $62243309\nVolume: 366775\nTurn Over Rate: 4.21%\nYear-High: $23.92\nYear-Low: $6.02\nLowest-Price Today:$6.05\nHighest-Price Today: $7.50."
+        }
+    ]
+}

@@ -1,0 +1,344 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": {
+        "body": {
+            "data": {
+                "gainerList": [
+                    {
+                        "id": 10064,
+                        "name": "World of Waves",
+                        "symbol": "WOW",
+                        "slug": "world-of-waves",
+                        "rank": 3292,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00203309042258,
+                            "priceChange1h": -0.41887447,
+                            "priceChange24h": 8.23985591,
+                            "priceChange7d": -12.71682716,
+                            "priceChange30d": 1336152911.6831849,
+                            "volume24h": 246164.64390558
+                        }
+                    },
+                    {
+                        "id": 7527,
+                        "name": "LTCDOWN",
+                        "symbol": "LTCDOWN",
+                        "slug": "ltcdown",
+                        "rank": 3334,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.96436740951908,
+                            "priceChange1h": -0.04756355,
+                            "priceChange24h": 0.37787904,
+                            "priceChange7d": 9961216.11047636,
+                            "priceChange30d": 3377015.5091931,
+                            "volume24h": 220681.22303005
+                        }
+                    },
+                    {
+                        "id": 7525,
+                        "name": "UNIDOWN",
+                        "symbol": "UNIDOWN",
+                        "slug": "unidown",
+                        "rank": 2982,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.86862414940552,
+                            "priceChange1h": -4.12403253,
+                            "priceChange24h": -5.8667772,
+                            "priceChange7d": 9568696.58638362,
+                            "priceChange30d": 1816152.68462477,
+                            "volume24h": 745882.4966228
+                        }
+                    },
+                    {
+                        "id": 7988,
+                        "name": "Zugacoin",
+                        "symbol": "SZCB",
+                        "slug": "zugacoin",
+                        "rank": 3003,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 202852.49234603837,
+                            "priceChange1h": 9.38126941,
+                            "priceChange24h": 6.20145932,
+                            "priceChange7d": 45.24300566,
+                            "priceChange30d": 274692.57597294,
+                            "volume24h": 808150.39847156
+                        }
+                    },
+                    {
+                        "id": 9457,
+                        "name": "Shield Network",
+                        "symbol": "SHIELDNET",
+                        "slug": "shield-network",
+                        "rank": 3433,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.27474208e-05,
+                            "priceChange1h": -2.0723465,
+                            "priceChange24h": -5.44266761,
+                            "priceChange7d": -4.01041696,
+                            "priceChange30d": 19051.49107236,
+                            "volume24h": 170260.71210927
+                        }
+                    },
+                    {
+                        "id": 10329,
+                        "name": "TasteNFT",
+                        "symbol": "TASTE",
+                        "slug": "tastenft",
+                        "rank": 2730,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.771455e-08,
+                            "priceChange1h": -2.85150748,
+                            "priceChange24h": -16.47287746,
+                            "priceChange7d": 446.4316796,
+                            "priceChange30d": 6595.88115335,
+                            "volume24h": 3297725.95431013
+                        }
+                    },
+                    {
+                        "id": 6958,
+                        "name": "Alchemy Pay",
+                        "symbol": "ACH",
+                        "slug": "alchemy-pay",
+                        "rank": 241,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.09473500948638,
+                            "priceChange1h": 3.06862623,
+                            "priceChange24h": 17.61138862,
+                            "priceChange7d": 3.63383454,
+                            "priceChange30d": 6418.77060923,
+                            "volume24h": 221513889.04091293
+                        }
+                    },
+                    {
+                        "id": 10721,
+                        "name": "TacoCat Token",
+                        "symbol": "TCT",
+                        "slug": "tacocat-token",
+                        "rank": 3093,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 5.20563939e-06,
+                            "priceChange1h": -5.79951209,
+                            "priceChange24h": -7.50820656,
+                            "priceChange7d": -0.70600162,
+                            "priceChange30d": 4587.158985,
+                            "volume24h": 482363.58513833
+                        }
+                    },
+                    {
+                        "id": 8351,
+                        "name": "OptionRoom",
+                        "symbol": "ROOM",
+                        "slug": "optionroom",
+                        "rank": 1437,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.17992202360279,
+                            "priceChange1h": -1.53746735,
+                            "priceChange24h": 5.69552599,
+                            "priceChange7d": -1.69876461,
+                            "priceChange30d": 3458.26788141,
+                            "volume24h": 111899.14620059
+                        }
+                    },
+                    {
+                        "id": 4842,
+                        "name": "Folgory Coin",
+                        "symbol": "FLG",
+                        "slug": "folgory-coin",
+                        "rank": 272,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 9.86479311613246,
+                            "priceChange1h": 0.68346994,
+                            "priceChange24h": 1.71670512,
+                            "priceChange7d": 7.43248767,
+                            "priceChange30d": 2096.55508626,
+                            "volume24h": 1386060.94753965
+                        }
+                    }
+                ],
+                "loserList": [
+                    {
+                        "id": 4955,
+                        "name": "CAPITAL X CELL",
+                        "symbol": "CXC",
+                        "slug": "capital-x-cell",
+                        "rank": 3281,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.03812443829354,
+                            "priceChange1h": 4.38747932,
+                            "priceChange24h": -3.4827403,
+                            "priceChange7d": 2.67531964,
+                            "priceChange30d": -99.198158,
+                            "volume24h": 254135.9446024
+                        }
+                    },
+                    {
+                        "id": 10471,
+                        "name": "Bitcoin Networks",
+                        "symbol": "BTCN",
+                        "slug": "bitcoin-networks",
+                        "rank": 2901,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00773922600448,
+                            "priceChange1h": 2.49198514,
+                            "priceChange24h": -40.94306614,
+                            "priceChange7d": -98.40680086,
+                            "priceChange30d": -99.07546285,
+                            "volume24h": 1025073.76699673
+                        }
+                    },
+                    {
+                        "id": 5413,
+                        "name": "3x Short XRP Token",
+                        "symbol": "XRPBEAR",
+                        "slug": "3x-short-xrp-token",
+                        "rank": 3007,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.6743432e-07,
+                            "priceChange1h": -0.47017538,
+                            "priceChange24h": 1.7101271,
+                            "priceChange7d": -15.3307046,
+                            "priceChange30d": -94.38996211,
+                            "volume24h": 693238.63126223
+                        }
+                    },
+                    {
+                        "id": 6096,
+                        "name": "3X Short Cosmos Token",
+                        "symbol": "ATOMBEAR",
+                        "slug": "3x-short-cosmos-token",
+                        "rank": 3673,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.9369602e-07,
+                            "priceChange1h": -13.29008558,
+                            "priceChange24h": -49.10114789,
+                            "priceChange7d": -77.72690584,
+                            "priceChange30d": -93.71224986,
+                            "volume24h": 84778.61532213
+                        }
+                    },
+                    {
+                        "id": 7529,
+                        "name": "SXPDOWN",
+                        "symbol": "SXPDOWN",
+                        "slug": "sxpdown",
+                        "rank": 2841,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.1879274742003,
+                            "priceChange1h": -2.29638388,
+                            "priceChange24h": 0.88012993,
+                            "priceChange7d": -16.90708656,
+                            "priceChange30d": -93.05259941,
+                            "volume24h": 1358355.31948405
+                        }
+                    },
+                    {
+                        "id": 7002,
+                        "name": "XRPDOWN",
+                        "symbol": "XRPDOWN",
+                        "slug": "xrpdown",
+                        "rank": 2683,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.0018792045962,
+                            "priceChange1h": -1.15418504,
+                            "priceChange24h": 7.01586823,
+                            "priceChange7d": -13.19313623,
+                            "priceChange30d": -92.39197897,
+                            "volume24h": 6333001.70556384
+                        }
+                    },
+                    {
+                        "id": 7006,
+                        "name": "DOTDOWN",
+                        "symbol": "DOTDOWN",
+                        "slug": "dotdown",
+                        "rank": 2694,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00111571518891,
+                            "priceChange1h": -1.93123591,
+                            "priceChange24h": -9.29173526,
+                            "priceChange7d": -56.85828996,
+                            "priceChange30d": -92.30542429,
+                            "volume24h": 5486836.5838647
+                        }
+                    },
+                    {
+                        "id": 7419,
+                        "name": "DAOFi",
+                        "symbol": "DAOFI",
+                        "slug": "daofi",
+                        "rank": 3912,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00791645638103,
+                            "priceChange1h": 1.78378508,
+                            "priceChange24h": 15.16559055,
+                            "priceChange7d": 68.68564646,
+                            "priceChange30d": -91.43172152,
+                            "volume24h": 54232.26737154
+                        }
+                    },
+                    {
+                        "id": 10937,
+                        "name": "SafeCap Token",
+                        "symbol": "SFC",
+                        "slug": "safecap-token",
+                        "rank": 3203,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00320098586383,
+                            "priceChange1h": -3.0523716,
+                            "priceChange24h": -30.40902855,
+                            "priceChange7d": -59.64210454,
+                            "priceChange30d": -91.35263155,
+                            "volume24h": 314560.4239338
+                        }
+                    },
+                    {
+                        "id": 7787,
+                        "name": "JSB FOUNDATION",
+                        "symbol": "JSB",
+                        "slug": "jsb-foundation",
+                        "rank": 3543,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.09626173133025,
+                            "priceChange1h": -1.83290752,
+                            "priceChange24h": 6.13193688,
+                            "priceChange7d": -19.9413486,
+                            "priceChange30d": -89.97322175,
+                            "volume24h": 125981.09695249
+                        }
+                    }
+                ]
+            },
+            "status": {
+                "timestamp": "2021-08-21T16:45:58.827Z",
+                "error_code": "0",
+                "error_message": "SUCCESS",
+                "elapsed": "10",
+                "credit_count": 0
+            }
+        },
+        "success": true
+    },
+    "success": true
+}

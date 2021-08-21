@@ -1,0 +1,164 @@
+{
+    "listings": [
+        {
+            "name": "Green Shiba Inu (new)",
+            "symbol": "GINUX",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10414.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 7.8164492e-06,
+            "percentageChange": 214.8,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $913004.7\n.Percentage Changes:\n Hour: 15.95039%\n Day: 214.79904%\n Week: 152.78737%\n Month: -11.49617%"
+        },
+        {
+            "name": "Lydia Finance",
+            "symbol": "LYD",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11191.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.03184654491654,
+            "percentageChange": 142.85,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $213800.99\n.Percentage Changes:\n Hour: -0.50659%\n Day: 142.85257%\n Week: 238.91899%\n Month: 0.0%"
+        },
+        {
+            "name": "NFTBooks",
+            "symbol": "NFTBS",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11042.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 3.518e-11,
+            "percentageChange": 129.52,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $488469.1\n.Percentage Changes:\n Hour: 2.31148%\n Day: 129.51676%\n Week: 523.84609%\n Month: 0.0%"
+        },
+        {
+            "name": "Cryptonovae",
+            "symbol": "YAE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9149.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.08036567544425,
+            "percentageChange": 119.11,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1780821.42\n.Percentage Changes:\n Hour: 1.09888%\n Day: 119.10752%\n Week: 141.33291%\n Month: 151.95876%"
+        },
+        {
+            "name": "Avaware",
+            "symbol": "AVE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11293.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 1.19791385877708,
+            "percentageChange": 114.37,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $2414753.56\n.Percentage Changes:\n Hour: -1.49531%\n Day: 114.36728%\n Week: 0.0%\n Month: 0.0%"
+        },
+        {
+            "name": "Penguin Finance",
+            "symbol": "PEFI",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10818.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 2.09260405206559,
+            "percentageChange": 108.26,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $13338963.02\n.Percentage Changes:\n Hour: -2.01322%\n Day: 108.25717%\n Week: 402.07945%\n Month: 345.94915%"
+        },
+        {
+            "name": "Snowball",
+            "symbol": "SNOB",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9780.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 1.39605810793981,
+            "percentageChange": 106.55,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $7280451.01\n.Percentage Changes:\n Hour: -4.57408%\n Day: 106.54685%\n Week: 404.28351%\n Month: 531.45055%"
+        },
+        {
+            "name": "BarbecueSwap Finance",
+            "symbol": "BBQ",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10443.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.24694013957707,
+            "percentageChange": 99.97,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $553246.87\n.Percentage Changes:\n Hour: -1.15488%\n Day: 99.97333%\n Week: 329.13725%\n Month: 161.67302%"
+        },
+        {
+            "name": "E-coin Finance",
+            "symbol": "ECOIN",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10159.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 2.95152e-09,
+            "percentageChange": 96.69,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $186747.59\n.Percentage Changes:\n Hour: 0.4345%\n Day: 96.68532%\n Week: 2.7541%\n Month: -8.15794%"
+        },
+        {
+            "name": "Franklin",
+            "symbol": "FLY",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9120.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.05524506392409,
+            "percentageChange": 94.46,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $5619035.41\n.Percentage Changes:\n Hour: 39.81341%\n Day: 94.46%\n Week: 84.17342%\n Month: 40.92317%"
+        }
+    ]
+}

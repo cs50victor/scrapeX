@@ -1,1 +1,0 @@
-#Always use classes/functions
