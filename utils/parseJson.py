@@ -73,7 +73,7 @@ def parseCoinbase():
         print(payload[load]["symbol"],payload[load]["consistency"])
     """
 
-    with open("5am/res/stable-crypto.json", "w") as outputFile:
+    with open("5am/res/safe-crypto.json", "w") as outputFile:
         json.dump({"listings":[payload[stock] for stock in payload]}, outputFile, indent = 4, ensure_ascii=False)
 
 def parseBinance():
@@ -113,5 +113,5 @@ def parseBinance():
                 payload[stock["symbol"]]=listing        
         count+=1
 
-    with open("5am/res/unstable-crypto.json", "w") as outputFile:
+    with open("5am/res/risky-crypto.json", "w") as outputFile:
         json.dump({"listings":[payload[stock] for stock in payload]}, outputFile, indent = 4, ensure_ascii=False)

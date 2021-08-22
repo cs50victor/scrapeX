@@ -16,6 +16,9 @@ make predictions
 advanced youtube/tiktok/ analytics/thumbnails for fictional character growth
 ``` 
 
+## openinsider.com
+- Deep fucking value
+> https://www.youtube.com/watch?v=2Zus6SyQhW4
 
 ```
 windows
@@ -24,12 +27,14 @@ activate env before using it = ./env/Scripts/activate
 
 deactivate env = deactivate 
 ```
-> Return json from api
-> Search for ready made ones on github
-> Use cloud functions amd cors
-> PyPy / Cython - C#/C++
-> Rotate proxies and vpn
-> Multi-threading / Concurrency
+## Steps to replicate go fiber server
+- go mod init {name of project / or github repo url}
+- go get -u github.com/gofiber/fiber/v2
+- setup server.go
+  - make sure all python files executed in go server have string names
+- go run server.go
+
+
 
 ```
 https://twitter.com/testdrivenio/status/1411719953762328577

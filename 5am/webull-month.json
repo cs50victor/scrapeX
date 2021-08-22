@@ -41,9 +41,9 @@
                 "high": "12.97",
                 "low": "9.30",
                 "vibrateRatio": "0.4154",
+                "pprice": "12.65",
                 "pchange": "-0.03",
-                "pchRatio": "-0.0024",
-                "pprice": "12.65"
+                "pchRatio": "-0.0024"
             },
             "values": {
                 "tickerId": 950180950,
@@ -88,9 +88,9 @@
                 "high": "20.00",
                 "low": "15.15",
                 "vibrateRatio": "0.2811",
+                "pprice": "15.61",
                 "pchange": "0.06",
-                "pchRatio": "0.0039",
-                "pprice": "15.61"
+                "pchRatio": "0.0039"
             },
             "values": {
                 "tickerId": 950176676,
@@ -136,9 +136,9 @@
                 "high": "25.98",
                 "low": "22.34",
                 "vibrateRatio": "0.1574",
+                "pprice": "25.99",
                 "pchange": "0.32",
-                "pchRatio": "0.0125",
-                "pprice": "25.99"
+                "pchRatio": "0.0125"
             },
             "values": {
                 "tickerId": 950131471,
@@ -184,9 +184,9 @@
                 "high": "13.58",
                 "low": "11.62",
                 "vibrateRatio": "0.1614",
+                "pprice": "12.18",
                 "pchange": "0.22",
-                "pchRatio": "0.0184",
-                "pprice": "12.18"
+                "pchRatio": "0.0184"
             },
             "values": {
                 "tickerId": 925418652,
@@ -231,9 +231,9 @@
                 "high": "32.70",
                 "low": "30.00",
                 "vibrateRatio": "0.0883",
+                "pprice": "30.5999",
                 "pchange": "-0.34",
-                "pchRatio": "-0.0110",
-                "pprice": "30.5999"
+                "pchRatio": "-0.0110"
             },
             "values": {
                 "tickerId": 913303752,
@@ -278,9 +278,9 @@
                 "high": "14.50",
                 "low": "13.80",
                 "vibrateRatio": "0.0506",
+                "pprice": "13.89",
                 "pchange": "0.05",
-                "pchRatio": "0.0036",
-                "pprice": "13.89"
+                "pchRatio": "0.0036"
             },
             "values": {
                 "tickerId": 950175045,
@@ -326,9 +326,9 @@
                 "high": "32.29",
                 "low": "31.60",
                 "vibrateRatio": "0.0219",
+                "pprice": "32.27",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "32.27"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 925305494,
@@ -373,9 +373,9 @@
                 "high": "26.70",
                 "low": "6.00",
                 "vibrateRatio": "3.175",
+                "pprice": "15.43",
                 "pchange": "-3.73",
-                "pchRatio": "-0.1947",
-                "pprice": "15.43"
+                "pchRatio": "-0.1947"
             },
             "values": {
                 "tickerId": 950182577,
@@ -421,9 +421,9 @@
                 "high": "21.44",
                 "low": "19.64",
                 "vibrateRatio": "0.0895",
+                "pprice": "20.47",
                 "pchange": "0.28",
-                "pchRatio": "0.0139",
-                "pprice": "20.47"
+                "pchRatio": "0.0139"
             },
             "values": {
                 "tickerId": 925194354,
@@ -469,9 +469,9 @@
                 "high": "3.690",
                 "low": "3.100",
                 "vibrateRatio": "0.1879",
+                "pprice": "3.51",
                 "pchange": "0.000",
-                "pchRatio": "0.0000",
-                "pprice": "3.51"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 925401987,
@@ -517,9 +517,9 @@
                 "high": "29.16",
                 "low": "27.50",
                 "vibrateRatio": "0.0626",
+                "pprice": "28.89",
                 "pchange": "0.19",
-                "pchRatio": "0.0066",
-                "pprice": "28.89"
+                "pchRatio": "0.0066"
             },
             "values": {
                 "tickerId": 913254715,
@@ -565,9 +565,9 @@
                 "high": "6.28",
                 "low": "5.81",
                 "vibrateRatio": "0.0812",
+                "pprice": "6.10",
                 "pchange": "0.20",
-                "pchRatio": "0.0339",
-                "pprice": "6.10"
+                "pchRatio": "0.0339"
             },
             "values": {
                 "tickerId": 950174696,
@@ -613,9 +613,9 @@
                 "high": "364.13",
                 "low": "344.34",
                 "vibrateRatio": "0.0567",
+                "pprice": "351.00",
                 "pchange": "-1.28",
-                "pchRatio": "-0.0036",
-                "pprice": "351.00"
+                "pchRatio": "-0.0036"
             },
             "values": {
                 "tickerId": 950184639,
@@ -660,9 +660,9 @@
                 "high": "9.58",
                 "low": "8.95",
                 "vibrateRatio": "0.0633",
+                "pprice": "9.26",
                 "pchange": "-0.05",
-                "pchRatio": "-0.0054",
-                "pprice": "9.26"
+                "pchRatio": "-0.0054"
             },
             "values": {
                 "tickerId": 913253663,
@@ -708,9 +708,9 @@
                 "high": "208.60",
                 "low": "192.51",
                 "vibrateRatio": "0.0830",
+                "pprice": "196.00",
                 "pchange": "0.36",
-                "pchRatio": "0.0018",
-                "pprice": "196.00"
+                "pchRatio": "0.0018"
             },
             "values": {
                 "tickerId": 950177837,
@@ -756,9 +756,9 @@
                 "high": "18.91",
                 "low": "18.49",
                 "vibrateRatio": "0.0226",
+                "pprice": "18.85",
                 "pchange": "-0.01",
-                "pchRatio": "-0.0005",
-                "pprice": "18.85"
+                "pchRatio": "-0.0005"
             },
             "values": {
                 "tickerId": 950129176,
@@ -804,9 +804,9 @@
                 "high": "7.68",
                 "low": "6.79",
                 "vibrateRatio": "0.1319",
+                "pprice": "7.70",
                 "pchange": "0.23",
-                "pchRatio": "0.0308",
-                "pprice": "7.70"
+                "pchRatio": "0.0308"
             },
             "values": {
                 "tickerId": 913254570,
@@ -852,9 +852,9 @@
                 "high": "70.69",
                 "low": "68.00",
                 "vibrateRatio": "0.0389",
+                "pprice": "68.50",
                 "pchange": "-0.61",
-                "pchRatio": "-0.0088",
-                "pprice": "68.50"
+                "pchRatio": "-0.0088"
             },
             "values": {
                 "tickerId": 950186899,
@@ -900,9 +900,9 @@
                 "high": "6.85",
                 "low": "6.31",
                 "vibrateRatio": "0.0875",
+                "pprice": "6.87",
                 "pchange": "0.26",
-                "pchRatio": "0.0393",
-                "pprice": "6.87"
+                "pchRatio": "0.0393"
             },
             "values": {
                 "tickerId": 925418477,
@@ -948,9 +948,9 @@
                 "high": "207.44",
                 "low": "197.29",
                 "vibrateRatio": "0.0504",
+                "pprice": "206.38",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "206.38"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 950144758,
@@ -995,9 +995,9 @@
                 "high": "50.98",
                 "low": "45.77",
                 "vibrateRatio": "0.1129",
+                "pprice": "49.75",
                 "pchange": "0.33",
-                "pchRatio": "0.0067",
-                "pprice": "49.75"
+                "pchRatio": "0.0067"
             },
             "values": {
                 "tickerId": 950183495,
@@ -1043,9 +1043,9 @@
                 "high": "31.99",
                 "low": "28.82",
                 "vibrateRatio": "0.1073",
+                "pprice": "31.81",
                 "pchange": "-0.07",
-                "pchRatio": "-0.0022",
-                "pprice": "31.81"
+                "pchRatio": "-0.0022"
             },
             "values": {
                 "tickerId": 950179452,
@@ -1091,9 +1091,9 @@
                 "high": "14.58",
                 "low": "13.46",
                 "vibrateRatio": "0.0861",
+                "pprice": "14.10",
                 "pchange": "0.19",
-                "pchRatio": "0.0137",
-                "pprice": "14.10"
+                "pchRatio": "0.0137"
             },
             "values": {
                 "tickerId": 913257452,
@@ -1138,9 +1138,9 @@
                 "high": "26.80",
                 "low": "25.61",
                 "vibrateRatio": "0.0460",
+                "pprice": "26.09",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "26.09"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 950186334,
@@ -1186,9 +1186,9 @@
                 "high": "4.480",
                 "low": "3.690",
                 "vibrateRatio": "0.2219",
+                "pprice": "4.51",
                 "pchange": "0.060",
-                "pchRatio": "0.0135",
-                "pprice": "4.51"
+                "pchRatio": "0.0135"
             },
             "values": {
                 "tickerId": 913324149,
@@ -1233,9 +1233,9 @@
                 "high": "7.08",
                 "low": "6.65",
                 "vibrateRatio": "0.0622",
+                "pprice": "6.83",
                 "pchange": "-0.16",
-                "pchRatio": "-0.0229",
-                "pprice": "6.83"
+                "pchRatio": "-0.0229"
             },
             "values": {
                 "tickerId": 913431441,
@@ -1281,9 +1281,9 @@
                 "high": "22.47",
                 "low": "21.48",
                 "vibrateRatio": "0.0456",
+                "pprice": "22.22",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "22.22"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 913254377,
@@ -1329,9 +1329,9 @@
                 "high": "47.95",
                 "low": "45.10",
                 "vibrateRatio": "0.0603",
+                "pprice": "47.01",
                 "pchange": "-0.89",
-                "pchRatio": "-0.0186",
-                "pprice": "47.01"
+                "pchRatio": "-0.0186"
             },
             "values": {
                 "tickerId": 913255732,
@@ -1377,9 +1377,9 @@
                 "high": "8.62",
                 "low": "7.72",
                 "vibrateRatio": "0.1133",
+                "pprice": "8.60",
                 "pchange": "0.06",
-                "pchRatio": "0.0070",
-                "pprice": "8.60"
+                "pchRatio": "0.0070"
             },
             "values": {
                 "tickerId": 913917856,
@@ -1425,9 +1425,9 @@
                 "high": "20.57",
                 "low": "19.85",
                 "vibrateRatio": "0.0362",
+                "pprice": "19.95",
                 "pchange": "-0.24",
-                "pchRatio": "-0.0119",
-                "pprice": "19.95"
+                "pchRatio": "-0.0119"
             },
             "values": {
                 "tickerId": 913255815,
@@ -1471,9 +1471,9 @@
                 "high": "35.46",
                 "low": "33.29",
                 "vibrateRatio": "0.0619",
+                "pprice": "33.28",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "33.28"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 950185315,
@@ -1519,9 +1519,9 @@
                 "high": "15.22",
                 "low": "15.20",
                 "vibrateRatio": "0.0013",
+                "pprice": "15.20",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "15.20"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 913303892,
@@ -1567,9 +1567,9 @@
                 "high": "4.160",
                 "low": "3.650",
                 "vibrateRatio": "0.1406",
+                "pprice": "4.11",
                 "pchange": "0.090",
-                "pchRatio": "0.0224",
-                "pprice": "4.11"
+                "pchRatio": "0.0224"
             },
             "values": {
                 "tickerId": 913255912,
@@ -1615,9 +1615,9 @@
                 "high": "61.78",
                 "low": "57.97",
                 "vibrateRatio": "0.0647",
+                "pprice": "62.89",
                 "pchange": "2.51",
-                "pchRatio": "0.0416",
-                "pprice": "62.89"
+                "pchRatio": "0.0416"
             },
             "values": {
                 "tickerId": 913256090,
@@ -1663,9 +1663,9 @@
                 "high": "6.80",
                 "low": "6.21",
                 "vibrateRatio": "0.0923",
+                "pprice": "6.64",
                 "pchange": "-0.08",
-                "pchRatio": "-0.0119",
-                "pprice": "6.64"
+                "pchRatio": "-0.0119"
             },
             "values": {
                 "tickerId": 913254273,
@@ -1709,9 +1709,9 @@
                 "high": "12.79",
                 "low": "12.37",
                 "vibrateRatio": "0.0325",
+                "pprice": "11.1401",
                 "pchange": "-1.22",
-                "pchRatio": "-0.0987",
-                "pprice": "11.1401"
+                "pchRatio": "-0.0987"
             },
             "values": {
                 "tickerId": 950185318,
@@ -1757,9 +1757,9 @@
                 "high": "1.950",
                 "low": "1.760",
                 "vibrateRatio": "0.1061",
+                "pprice": "1.96",
                 "pchange": "0.020",
-                "pchRatio": "0.0103",
-                "pprice": "1.96"
+                "pchRatio": "0.0103"
             },
             "values": {
                 "tickerId": 913254183,
@@ -1805,9 +1805,9 @@
                 "high": "60.93",
                 "low": "58.49",
                 "vibrateRatio": "0.0418",
+                "pprice": "60.62",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "60.62"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 950177657,
@@ -1853,9 +1853,9 @@
                 "high": "36.18",
                 "low": "32.37",
                 "vibrateRatio": "0.1198",
+                "pprice": "35.99",
                 "pchange": "0.73",
-                "pchRatio": "0.0207",
-                "pprice": "35.99"
+                "pchRatio": "0.0207"
             },
             "values": {
                 "tickerId": 913253512,
@@ -1901,9 +1901,9 @@
                 "high": "35.16",
                 "low": "32.26",
                 "vibrateRatio": "0.0857",
+                "pprice": "34.10",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "34.10"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 925302783,
@@ -1949,9 +1949,9 @@
                 "high": "12.80",
                 "low": "11.70",
                 "vibrateRatio": "0.0950",
+                "pprice": "12.68",
                 "pchange": "0.00",
-                "pchRatio": "0.0000",
-                "pprice": "12.68"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 925293492,
@@ -1997,9 +1997,9 @@
                 "high": "29.09",
                 "low": "28.66",
                 "vibrateRatio": "0.0150",
+                "pprice": "28.90",
                 "pchange": "0.04",
-                "pchRatio": "0.0014",
-                "pprice": "28.90"
+                "pchRatio": "0.0014"
             },
             "values": {
                 "tickerId": 950158958,
@@ -2045,9 +2045,9 @@
                 "high": "10.44",
                 "low": "8.56",
                 "vibrateRatio": "0.2144",
+                "pprice": "8.90",
                 "pchange": "0.09",
-                "pchRatio": "0.0102",
-                "pprice": "8.90"
+                "pchRatio": "0.0102"
             },
             "values": {
                 "tickerId": 913323870,
@@ -2092,9 +2092,9 @@
                 "high": "3.250",
                 "low": "2.720",
                 "vibrateRatio": "0.1619",
+                "pprice": "2.76",
                 "pchange": "0.010",
-                "pchRatio": "0.0036",
-                "pprice": "2.76"
+                "pchRatio": "0.0036"
             },
             "values": {
                 "tickerId": 913430557,
@@ -2139,9 +2139,9 @@
                 "high": "23.01",
                 "low": "21.60",
                 "vibrateRatio": "0.0621",
+                "pprice": "22.50",
                 "pchange": "-0.15",
-                "pchRatio": "-0.0066",
-                "pprice": "22.50"
+                "pchRatio": "-0.0066"
             },
             "values": {
                 "tickerId": 913256052,
@@ -2186,9 +2186,9 @@
                 "high": "2.700",
                 "low": "2.350",
                 "vibrateRatio": "0.1378",
+                "pprice": "2.59",
                 "pchange": "-0.010",
-                "pchRatio": "-0.0038",
-                "pprice": "2.59"
+                "pchRatio": "-0.0038"
             },
             "values": {
                 "tickerId": 950136125,
@@ -2234,9 +2234,9 @@
                 "high": "8.60",
                 "low": "7.97",
                 "vibrateRatio": "0.0812",
+                "pprice": "8.26",
                 "pchange": "0.20",
-                "pchRatio": "0.0248",
-                "pprice": "8.26"
+                "pchRatio": "0.0248"
             },
             "values": {
                 "tickerId": 950145229,
@@ -2281,9 +2281,9 @@
                 "high": "3.500",
                 "low": "3.100",
                 "vibrateRatio": "0.1250",
+                "pprice": "3.36",
                 "pchange": "0.020",
-                "pchRatio": "0.0060",
-                "pprice": "3.36"
+                "pchRatio": "0.0060"
             },
             "values": {
                 "tickerId": 925402184,
@@ -2328,9 +2328,9 @@
                 "high": "3.150",
                 "low": "2.930",
                 "vibrateRatio": "0.0746",
+                "pprice": "3.26",
                 "pchange": "0.220",
-                "pchRatio": "0.0724",
-                "pprice": "3.26"
+                "pchRatio": "0.0724"
             },
             "values": {
                 "tickerId": 925337792,
@@ -2375,9 +2375,9 @@
                 "high": "3.090",
                 "low": "2.884",
                 "vibrateRatio": "0.0695",
+                "pprice": "3.01",
                 "pchange": "0.000",
-                "pchRatio": "0.0000",
-                "pprice": "3.01"
+                "pchRatio": "0.0000"
             },
             "values": {
                 "tickerId": 913324109,

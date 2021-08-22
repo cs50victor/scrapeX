@@ -1,6 +1,6 @@
 import time, json
 from utils.makeRequests import MakeRequest
-from utils.parseJson import parseWebul,parseCoinbase,parseBinance
+from utils.parseJson import parseWebull,parseCoinbase,parseBinance
 import concurrent.futures
 
 apis = [
@@ -33,13 +33,13 @@ def parseJson(api):
     
     return
 
+def getNewJson():
+    start = time.perf_counter()
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        executor.map(parseJson, apis)
+    parseWebull()
+    parseCoinbase()
+    parseBinance()
+    end = time.perf_counter() - start
 
-start = time.perf_counter()
-with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(parseJson, apis)
-parseWebull()
-parseCoinbase()
-parseBinance()
-end = time.perf_counter() - start
-
-print("Execution Time: ", end)
+    return f"\nExecution Time: {end}"

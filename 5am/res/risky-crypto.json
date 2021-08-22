@@ -1,0 +1,164 @@
+{
+    "listings": [
+        {
+            "name": "Ryoshi Token",
+            "symbol": "RYOSHI",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10817.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 3.368959e-08,
+            "percentageChange": 241.63,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $451649.3\n.Percentage Changes:\n Hour: -13.23396%\n Day: 241.62982%\n Week: 1076.71911%\n Month: 1903.21004%"
+        },
+        {
+            "name": "Life Token",
+            "symbol": "LTN",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9534.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 3.0014322e-07,
+            "percentageChange": 208.36,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $511594.96\n.Percentage Changes:\n Hour: 1.36981%\n Day: 208.3626%\n Week: 988.13542%\n Month: 345.60871%"
+        },
+        {
+            "name": "Insight Protocol",
+            "symbol": "INX",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5840.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.00465358912138,
+            "percentageChange": 187.71,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $318149.61\n.Percentage Changes:\n Hour: -7.96622%\n Day: 187.71%\n Week: 500.04761%\n Month: 777.9168%"
+        },
+        {
+            "name": "Jade Currency",
+            "symbol": "JADE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5025.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.38617642339831,
+            "percentageChange": 182.0,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $2533220.58\n.Percentage Changes:\n Hour: -19.58536%\n Day: 182.00275%\n Week: 382.43072%\n Month: 3291.52825%"
+        },
+        {
+            "name": "Empire Token",
+            "symbol": "EMPIRE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10613.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.0012812786204,
+            "percentageChange": 143.86,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $74582.99\n.Percentage Changes:\n Hour: -14.5957%\n Day: 143.86392%\n Week: 119.99%\n Month: 158.90363%"
+        },
+        {
+            "name": "TakoDefi",
+            "symbol": "TAKO",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9369.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.34682823330581,
+            "percentageChange": 127.38,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $489016.46\n.Percentage Changes:\n Hour: 13.14474%\n Day: 127.38435%\n Week: 396.90463%\n Month: 0.0%"
+        },
+        {
+            "name": "NFTBooks",
+            "symbol": "NFTBS",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11042.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 6.215e-11,
+            "percentageChange": 114.91,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1808972.25\n.Percentage Changes:\n Hour: -15.72455%\n Day: 114.91406%\n Week: 1092.95868%\n Month: 0.0%"
+        },
+        {
+            "name": "SOAR.FI",
+            "symbol": "SOAR",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8240.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.30493542287999,
+            "percentageChange": 111.37,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $168720.37\n.Percentage Changes:\n Hour: 0.88259%\n Day: 111.37123%\n Week: 96.8034%\n Month: 327.3417%"
+        },
+        {
+            "name": "ARCS",
+            "symbol": "ARX",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5005.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.07166464451113,
+            "percentageChange": 106.72,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $5859438.83\n.Percentage Changes:\n Hour: -0.71116%\n Day: 106.72346%\n Week: 144.91103%\n Month: 273.50519%"
+        },
+        {
+            "name": "Ispolink",
+            "symbol": "ISP",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9865.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.00184479733875,
+            "percentageChange": 93.14,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $4496337.2\n.Percentage Changes:\n Hour: -19.86105%\n Day: 93.13993%\n Week: 96.11854%\n Month: 182.3921%"
+        }
+    ]
+}
