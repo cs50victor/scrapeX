@@ -6,6 +6,7 @@
 
 # Get dependencies
 go get -u github.com/gofiber/fiber/v2
+go get -u github.com/gofiber/fiber/v2/middleware/logger
 
 # Build the binary
 go build -o application application.go
