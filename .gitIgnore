@@ -152,3 +152,7 @@ cython_debug/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
