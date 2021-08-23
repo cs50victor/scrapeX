@@ -1,1 +1,1 @@
-web: application.go
+web: heroku

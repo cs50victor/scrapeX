@@ -1,6 +1,7 @@
 package main
 
 import (
+	"os"
 	"fmt"
 	"log"
 	"os/exec"
@@ -31,8 +32,12 @@ func main() {
 	app.Get("/safe-crypto", safeCypto)
 	app.Get("/risky-crypto", riskyCypto)
 
+	port := os.Getenv("PORT")
+	if os.Getenv("PORT") == ""{
+		port = "3000"
+	}
     // handle server starting error
-    log.Fatal(app.Listen(":3000"))
+    log.Fatal(app.Listen(":" +port))
 }
 
 func hello(c *fiber.Ctx) error {
