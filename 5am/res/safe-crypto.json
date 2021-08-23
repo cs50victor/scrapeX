@@ -1,164 +1,164 @@
 {
     "listings": [
         {
-            "name": "Alchemy Pay",
-            "symbol": "ACH",
-            "image": "https://dynamic-assets.coinbase.com/eaffb50de85cd341216489c007bd1b1c70f6946b7a0fc163b20028aa0aba71fb21052273dcfa952b848f75cc795e399a086c38977b80fad92e56c692a9479024/asset_icons/5792632d842b5a46c9fc49950f628f38cad41c40658478381922265507f41a62.png",
-            "buyHere": [
-                "Coinbase"
-            ],
-            "price": "0.115505",
-            "percentageChange": 34.03,
-            "backers": [
-                "Coinbase"
-            ],
-            "consistency": 4,
-            "reason": "----",
-            "moreInfo": "This stock was launched 2 weeks ago\nDescription: ACH is an Ethereum token that powers Alchemy Pay, a platform that enables payments using a wide variety of fiat and cryptocurrencies. Fees are paid using the ACH token and users can earn ACH rewards for purchases.\nMarket-Cap: $353731337.61\nVolume(24hrs): $369386502.63\nCirculating Supply: $310797738068.86\n.Percentage Changes:\n Hour: 9.13982%\n Day: 34.03286%\n Week: 35.38262%\n Month: 7688.62953%\n Day: 297.51555%\n All Time: 297.51555%"
-        },
-        {
             "name": "Loopring",
             "symbol": "LRC",
             "image": "https://dynamic-assets.coinbase.com/6259b40ca0e8008de354ea33ac2a094333148a47093dbe356af3a5fe03b84e381aba3452ecaf10f6b94dec95b696bfa11bb22a849f15f2cf70730c898257495b/asset_icons/54b8302daf535ac77f7d434e3c04b46746550026fa42787b44ce4bbb2e8d5f8a.png",
             "buyHere": [
                 "Coinbase"
             ],
-            "price": "0.4746",
-            "percentageChange": 21.27,
+            "price": "0.5215",
+            "percentageChange": 46.3,
             "backers": [
                 "Coinbase"
             ],
             "consistency": 4,
             "reason": "----",
-            "moreInfo": "This stock was launched 11 months ago\nDescription: Loopring is an Ethereum token that describes itself as “an open-sourced, audited, and non-custodial exchange protocol.” It aims to allow anyone to build non-custodial, order book-based exchanges on Ethereum by leveraging zero-knowledge proofs.\nMarket-Cap: $594520676.66\nVolume(24hrs): $225879928.44\nCirculating Supply: $131881250369.23\n.Percentage Changes:\n Hour: 22.66736%\n Day: 21.27056%\n Week: 45.0489%\n Month: 134.13912%\n Day: 142.64653%\n All Time: 299.31344%"
+            "moreInfo": "This stock was launched 11 months ago\nDescription: Loopring is an Ethereum token that describes itself as “an open-sourced, audited, and non-custodial exchange protocol.” It aims to allow anyone to build non-custodial, order book-based exchanges on Ethereum by leveraging zero-knowledge proofs.\nMarket-Cap: $687366328.82\nVolume(24hrs): $1550763032.07\nCirculating Supply: $132033486135.45\n.Percentage Changes:\n Hour: 0.73586%\n Day: 46.30198%\n Week: 59.87124%\n Month: 147.27359%\n Day: 174.37269%\n All Time: 397.59076%"
         },
         {
-            "name": "UMA",
-            "symbol": "UMA",
-            "image": "https://dynamic-assets.coinbase.com/b8b3766b7258165a2ccbb94ef0ca866d9c0a32e5c5a2de17857f617af2147b0ddad2d6515a5c6e5f35ef6a0c2a1e13e382d9755cdc313f5a63ec381e4111bc38/asset_icons/a3067c1067816be8a36697fad879f799afb71e44541aa49837b1a56f98b63ce8.png",
+            "name": "Alchemy Pay",
+            "symbol": "ACH",
+            "image": "https://dynamic-assets.coinbase.com/eaffb50de85cd341216489c007bd1b1c70f6946b7a0fc163b20028aa0aba71fb21052273dcfa952b848f75cc795e399a086c38977b80fad92e56c692a9479024/asset_icons/5792632d842b5a46c9fc49950f628f38cad41c40658478381922265507f41a62.png",
             "buyHere": [
                 "Coinbase"
             ],
-            "price": "13.868",
-            "percentageChange": 5.68,
+            "price": "0.128567",
+            "percentageChange": 22.43,
             "backers": [
                 "Coinbase"
             ],
             "consistency": 4,
             "reason": "----",
-            "moreInfo": "This stock was launched 12 months ago\nDescription: UMA is an Ethereum token that describes itself as “an open-source protocol that allows developers to design and create their own financial contracts and synthetic assets.” The protocol’s name comes from the team’s goal of creating universal market access (UMA).\nMarket-Cap: $866601961.63\nVolume(24hrs): $157183533.99\nCirculating Supply: $6250735441.64\n.Percentage Changes:\n Hour: -2.0375%\n Day: 5.6813%\n Week: 16.09879%\n Month: 72.70237%\n Day: 121.06145%\n All Time: 873.08637%"
+            "moreInfo": "This stock was launched 2 weeks ago\nDescription: ACH is an Ethereum token that powers Alchemy Pay, a platform that enables payments using a wide variety of fiat and cryptocurrencies. Fees are paid using the ACH token and users can earn ACH rewards for purchases.\nMarket-Cap: $394604348.14\nVolume(24hrs): $447811703.66\nCirculating Supply: $310797738068.86\n.Percentage Changes:\n Hour: -3.75126%\n Day: 22.42546%\n Week: 58.12728%\n Month: 8608.77464%\n Day: 342.46899%\n All Time: 342.46899%"
         },
         {
-            "name": "Filecoin",
-            "symbol": "FIL",
-            "image": "https://dynamic-assets.coinbase.com/2bbc4131cbc45d77e1732e3f733c6d80a2bc9e514e85344cb517d59660b79e5b7377ed5e28a924f5ed750ef2c1b0718d3ef3f2504a6b0a1f6efd3d789ebf71bd/asset_icons/da7c0257d0caecc0e09e6fdd7e37c8eb23f7688329c58affd2157147f0529573.png",
+            "name": "Dash",
+            "symbol": "DASH",
+            "image": "https://dynamic-assets.coinbase.com/666dcae79d8896d18a69b5354bfa95bd6d8eef206863281e2acd9a12f14b21726624450a5bc39287b9b380ec2dfa47f51ba6b3b01bd61a5630c53c0654f92c64/asset_icons/b68ce7819b9a02aeceb2454040f8b09dda0a9faf2df70755789d089de668051a.png",
             "buyHere": [
                 "Coinbase"
             ],
-            "price": "76.9094",
-            "percentageChange": 4.0,
+            "price": "278.563",
+            "percentageChange": 17.08,
             "backers": [
                 "Coinbase"
             ],
             "consistency": 4,
             "reason": "----",
-            "moreInfo": "This stock was launched 8 months ago\nDescription: Filecoin (FIL) is a cryptocurrency that powers the Filecoin network, a decentralized peer-to-peer file storage network that aims to let anyone store, retrieve, and host digital information. FIL tokens are used as payment for these services and as an economic incentive to ensure files are stored reliably over time.\nMarket-Cap: $7556296945.17\nVolume(24hrs): $1078828517.46\nCirculating Supply: $9864630300.0\n.Percentage Changes:\n Hour: -0.41084%\n Day: 3.99581%\n Week: 5.98968%\n Month: 66.34131%\n Day: 317.10457%\n All Time: 569.88999%"
+            "moreInfo": "This stock was launched 2 years ago\nDescription: Dash is a cryptocurrency with optional speed and privacy features. Its unique network architecture consists of both regular miners and privileged machines called Masternodes.\nMarket-Cap: $2865055412.13\nVolume(24hrs): $702777966.04\nCirculating Supply: $1029292195.54\n.Percentage Changes:\n Hour: 1.37066%\n Day: 17.07711%\n Week: 28.94107%\n Month: 96.04549%\n Day: 204.17449%\n All Time: 130131.09037%"
         },
         {
-            "name": "Waves",
-            "symbol": "WAVES",
-            "image": "https://dynamic-assets.coinbase.com/0e47d3ab6e601aae0d75c4d44613681f5bbe88022a4deb0787aa4af8875b731140ebaa6c0853dabf5596bc80450c23ccb06f1feecaa809c26224809ecbf6e396/asset_icons/1f8489bb280fb0a0fd643c1161312ba49655040e9aaaced5f9ad3eeaf868eadc.png",
+            "name": "Amp",
+            "symbol": "AMP",
+            "image": "https://dynamic-assets.coinbase.com/bb20ad4d12ad6f01bcb9710f483c2f57d7903fecd905c65976a646f6cdcb7e955b8989588f334fcb42e0443755e0981e143fbf2d773ffd129669b09001109711/asset_icons/04f4966ed65a1d02c272ac9bc14d15ffcc8b4b0037ed819c53ea6d61cb859cb9.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "0.06565",
+            "percentageChange": 16.31,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 months ago\nDescription: Amp is an Ethereum token that aims to “collateralize payments on the Flexa Network, making them instant and secure.” If a BTC or ETH payment fails due to unconfirmed or long transaction times “the Amp collateral can instead be liquidated to cover losses” while the vendor receives payment in fiat, potentially providing greater assurances to both parties.\nMarket-Cap: $2850369897.56\nVolume(24hrs): $97839405.61\nCirculating Supply: $4222770218600.0\n.Percentage Changes:\n Hour: 2.92198%\n Day: 16.30582%\n Week: 8.8512%\n Month: 48.73917%\n Day: 589.35398%\n All Time: 589.35398%"
+        },
+        {
+            "name": "Avalanche",
+            "symbol": "AVAX",
+            "image": "https://dynamic-assets.coinbase.com/2428ab04158c059b32c3f544ed10027e6bf13ce1cec8410db74b4a8c7868689e1ce3ed4d3cc425e4b61602bd040d55489d20ca2d738c58feb1d90f7f43d2fd19/asset_icons/8f3e8c5a793cc9bb2bc2f8c4d54b4b2038838ccc7765746c7200ff74d67f163d.png",
             "buyHere": [
                 "not on Coinbase"
             ],
-            "price": "26.08571894010352",
-            "percentageChange": 3.73,
+            "price": "49.66330365824406",
+            "percentageChange": 15.72,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: None\nMarket-Cap: $8559717121.50\nVolume(24hrs): $1585496634.42\nCirculating Supply: $17367356915.37\n.Percentage Changes:\n Hour: 0.66522%\n Day: 15.71672%\n Week: 163.99986%\n Month: 358.63139%\n Day: 395.52412%\n All Time: 971.9151%"
+        },
+        {
+            "name": "Gitcoin",
+            "symbol": "GTC",
+            "image": "https://dynamic-assets.coinbase.com/29e8f9e8fdb2c5b057eb88e522d4610bc130c9a25fff5a60dad5f304c3cbd1f7e9dee0bce5820ca2f4b7e0d4f1ba5e6184f1ce2cd78c67cc208e468d14468758/asset_icons/f1bd892ac41a8927d5923aa08163f7476799f1e0d78732e19790435079281e15.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "9.618",
+            "percentageChange": 14.07,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 months ago\nDescription: Gitcoin (GTC) is an Ethereum token that enables community governance of the Gitcoin platform. The platform is designed to fund and coordinate open source development by novel means such as quadratic funding. As of June 2021, Gitcoin has facilitated over $21 million in grants and bounties for open source developers.\nMarket-Cap: $136899061.04\nVolume(24hrs): $43223068.52\nCirculating Supply: $1419820172.57\n.Percentage Changes:\n Hour: 0.39687%\n Day: 14.06903%\n Week: 3.5786%\n Month: 63.80076%\n Day: 215.79222%\n All Time: 215.79222%"
+        },
+        {
+            "name": "SKALE",
+            "symbol": "SKL",
+            "image": "https://dynamic-assets.coinbase.com/3315e1fa2ce490fd33b1fb53f6c461cda0eb53a60c5ce9951858da803fc2f93840dc11abd573262aa033cf152c3294ed1d722334c895621e2ad500d323d211b4/asset_icons/4a2915c4374f0a2f50bd851396f368d2c442706abe07707906ca35d8bb403812.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "0.3734",
+            "percentageChange": 13.19,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 5 months ago\nDescription: SKALE (SKL) is an Ethereum token that powers the Skale Network, which describes itself as “an Ethereum-compatible network with a leaderless consensus designed to run on an uncapped number of independent nodes.” Nodes on the Skale Network provide resources to multiple decentralized elastic blockchains. The SKL token grants a right to participate as a network validator, stake as a delegator, or access a share of the network’s resources as a developer.\nMarket-Cap: $452607717.45\nVolume(24hrs): $193633280.73\nCirculating Supply: $121310028800.0\n.Percentage Changes:\n Hour: -1.6333%\n Day: 13.18514%\n Week: 9.25841%\n Month: 90.42009%\n Day: 833.31894%\n All Time: 833.31894%"
+        },
+        {
+            "name": "Mask Network",
+            "symbol": "MASK",
+            "image": "https://dynamic-assets.coinbase.com/98af4f0ca847c5ffb13deba6aafd1ab08c7f9688f5fc9a16869cb97f654e11a6581c780c5aaf3ea07d09b4c6768ae7abf103fdd3e36e9142741392d11477fdcd/asset_icons/26a7e1c723556ebcf97cd1d237d08b77690d8d6dbce80fea63cfcd33629d47f0.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "7.33",
+            "percentageChange": 12.75,
             "backers": [
                 "Coinbase"
             ],
             "consistency": 3,
             "reason": "----",
-            "moreInfo": "This stock was launched None\nDescription: Waves is a cryptocurrency that describes itself as a “decentralized blockchain platform focusing on custom blockchain tokens operations.”\nMarket-Cap: $2765275039.29\nVolume(24hrs): $366963530.34\nCirculating Supply: $10596571000.0\n.Percentage Changes:\n Hour: -3.17714%\n Day: 3.73127%\n Week: -0.44708%\n Month: 104.9698%\n Day: 666.44185%\n All Time: 3294.14287%"
+            "moreInfo": "This stock was launched 1 month ago\nDescription: Mask Network enables users of popular social media platforms to send cryptocurrency, interact with decentralized applications, and share encrypted content. MASK token holders can vote on ecosystem initiatives via a decentralized autonomous organization called MaskDAO.\nMarket-Cap: $123533553.17\nVolume(24hrs): $80252663.43\nCirculating Supply: $1683018435.59\n.Percentage Changes:\n Hour: 0.27322%\n Day: 12.74962%\n Week: 4.48527%\n Month: 126.16207%\n Day: -92.51427%\n All Time: -92.51427%"
         },
         {
-            "name": "Cardano",
-            "symbol": "ADA",
-            "image": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
+            "name": "Orchid",
+            "symbol": "OXT",
+            "image": "https://dynamic-assets.coinbase.com/22b24ad9886150535671f158ccb0dd9d12089803728551c998e17e0f503484e9c38f3e8735354b5e622753684f040488b08d55b8ef5fef51592680f0c572bdfe/asset_icons/023010d790b9b1f47bc285802eafeab3d83c4de2029fe808d59935fbc54cdd7c.png",
             "buyHere": [
                 "Coinbase"
             ],
-            "price": "2.5811",
-            "percentageChange": 3.62,
-            "backers": [
-                "Coinbase"
-            ],
-            "consistency": 4,
-            "reason": "----",
-            "moreInfo": "This stock was launched 5 months ago\nDescription: Cardano (ADA) is a blockchain platform built on a proof-of-stake consensus protocol (called Ouroboros) that validates transactions without high energy costs. Development on Cardano uses the Haskell programming language, which is described as enabling Cardano “to pursue evidence-based development for unparalleled security and stability.” The blockchain’s native token, ADA, is named after the 19th century mathematician, Ada Lovelace. \nMarket-Cap: $82324950671.75\nVolume(24hrs): $5779757280.97\nCirculating Supply: $3214311677016.7\n.Percentage Changes:\n Hour: -0.58545%\n Day: 3.62316%\n Week: 17.6922%\n Month: 120.96612%\n Day: 1960.3369%\n All Time: 14773.14237%"
-        },
-        {
-            "name": "Augur",
-            "symbol": "REP",
-            "image": "https://dynamic-assets.coinbase.com/4ff758b0e7221284dd912b1bf8b35b56766a32c1b91307eb562e15e19ca68d253bc7ac83b818bcf237c1d72365fb5dd2994ecf2b437d678d612cf86596a0736c/asset_icons/bc09823603c6f5bafc30291b79302ebdda6eba1c49bf21ad076e0f887a56643e.png",
-            "buyHere": [
-                "Coinbase"
-            ],
-            "price": "29.23",
-            "percentageChange": 3.29,
-            "backers": [
-                "Coinbase"
-            ],
-            "consistency": 4,
-            "reason": "----",
-            "moreInfo": "This stock was launched 2 years ago\nDescription: Augur’s Reputation token (REP) is an Ethereum token designed for reporting and disputing the outcome of events on online prediction markets. Reporters are rewarded for reporting the outcome of events correctly.\nMarket-Cap: $319880000.00\nVolume(24hrs): $121708392.22\nCirculating Supply: $1100000000.0\n.Percentage Changes:\n Hour: -2.43658%\n Day: 3.28854%\n Week: 2.99507%\n Month: 52.47783%\n Day: 6.63991%\n All Time: 1888.71948%"
-        },
-        {
-            "name": "0x",
-            "symbol": "ZRX",
-            "image": "https://dynamic-assets.coinbase.com/3d0b1dc2a70acb73379c2d35a1e641f4438702ce8e4a4855b5514ad2758e3f520797d3ae7a9aa675d683188302e4d09c801a5195d89382d4296933dd72217717/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png",
-            "buyHere": [
-                "Coinbase"
-            ],
-            "price": "1.088625",
-            "percentageChange": 3.14,
-            "backers": [
-                "Coinbase"
-            ],
-            "consistency": 4,
-            "reason": "----",
-            "moreInfo": "This stock was launched 3 years ago\nDescription: ZRX is an Ethereum token that is used to power the 0x protocol. The protocol itself is designed to allow Ethereum tokens to be traded at a low cost directly from your wallet.\nMarket-Cap: $916249700.69\nVolume(24hrs): $115621268.10\nCirculating Supply: $84534160178.95\n.Percentage Changes:\n Hour: -0.97409%\n Day: 3.13556%\n Week: 1.74722%\n Month: 71.14162%\n Day: 49.47952%\n All Time: 947.13742%"
-        },
-        {
-            "name": "Civic",
-            "symbol": "CVC",
-            "image": "https://dynamic-assets.coinbase.com/4b2384d50867dc6984a4fd96e62548f1a1a86c9bb4f90ed93b2a8795238c53f7c67768ddda5860a24fdfbf4e041b8fe16d32fdc2e893da131024c57f019821e3/asset_icons/748af2ecb578424b712a0498ec4653bd336db3d462479496f376e5e958df08db.png",
-            "buyHere": [
-                "Coinbase"
-            ],
-            "price": "0.35541516525332",
-            "percentageChange": 3.13,
-            "backers": [
-                "Coinbase"
-            ],
-            "consistency": 4,
-            "reason": "----",
-            "moreInfo": "This stock was launched 10 months ago\nDescription: Civic (CVC) is an Ethereum token used to power Civic’s identity verification protocol. Users who verify their information through Civic can then securely share both their info and the verification with service providers, reducing the need to constantly re-verify their identity. In return for this convenience, service providers may provide users and verifiers with CVC.\nMarket-Cap: $236915591.07\nVolume(24hrs): $70476927.82\nCirculating Supply: $67000000000.0\n.Percentage Changes:\n Hour: -0.96716%\n Day: 3.13046%\n Week: 5.06703%\n Month: 80.14952%\n Day: 638.96229%\n All Time: 107.4678%"
-        },
-        {
-            "name": "Keep Network",
-            "symbol": "KEEP",
-            "image": "https://dynamic-assets.coinbase.com/b7a0005f0bdd62224358b16e93c4cd2fcb8d560bf9afd710017064ca85229af794e970137362d7f4126cc185a7269eedd47be68673d6a0f6ed0e147d9b601115/asset_icons/3474b5bcd374d3ca62783bbb359724b389a610e5301ac57b9877df1d4fa5f938.png",
-            "buyHere": [
-                "Coinbase"
-            ],
-            "price": "0.4054",
-            "percentageChange": 2.42,
+            "price": "0.446",
+            "percentageChange": 11.49,
             "backers": [
                 "Coinbase"
             ],
             "consistency": 3,
             "reason": "----",
-            "moreInfo": "This stock was launched 2 months ago\nDescription: KEEP is an Ethereum token that powers the Keep Network, a platform that aims to bridge public blockchains and private data. One of Keep Network’s first products is an Ethereum token that represents 1 Bitcoin, called tBTC. Keep Network enables users to deposit Bitcoin and redeem tokenized tBTC, which can then be used in the Ethereum ecosystem without centralized intermediaries. \nMarket-Cap: $232249190.96\nVolume(24hrs): $37226247.75\nCirculating Supply: $57501656589.22\n.Percentage Changes:\n Hour: -1.95841%\n Day: 2.42038%\n Week: 3.31408%\n Month: 70.50358%\n Day: -59.9477%\n All Time: -36.74508%"
+            "moreInfo": "This stock was launched 1 year ago\nDescription: Orchid (OXT) is an Ethereum token that powers the Orchid network, a peer-to-peer privacy tool that includes a decentralized VPN and other features designed to give users more control over their Internet connection. OXT can be used to pay for bandwidth or staked by bandwidth providers in order to operate a node.\nMarket-Cap: $308254984.39\nVolume(24hrs): $266358800.08\nCirculating Supply: $69069008377.47\n.Percentage Changes:\n Hour: -2.70447%\n Day: 11.48649%\n Week: 12.93998%\n Month: 49.96638%\n Day: -12.54902%\n All Time: 26.41723%"
+        },
+        {
+            "name": "Monero",
+            "symbol": "XMR",
+            "image": "https://dynamic-assets.coinbase.com/a353373ccecedb0e8b6f51ed78db22fbe0167d63d129b15963407f71392c052ae5f2ffd5fbaa6e976da86b73987a335462022f5f54ec559360683ddb8da3da96/asset_icons/a6f13081ab7468290003b49b78fc383614e113700a151a4f9794c556f5c3ca9a.png",
+            "buyHere": [
+                "not on Coinbase"
+            ],
+            "price": "325.8109050213557",
+            "percentageChange": 11.43,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: Monero is a cryptocurrency focused on privacy. Transactions on the Monero blockchain can’t be tracked or traced. Monero uses a proof of work consensus algorithm to issue new coins and secure transactions.\nMarket-Cap: $5861902108.27\nVolume(24hrs): $338587709.41\nCirculating Supply: $1797859837.91\n.Percentage Changes:\n Hour: 1.50263%\n Day: 11.4321%\n Week: 19.61495%\n Month: 64.85796%\n Day: 256.80823%\n All Time: 15785.15607%"
         }
     ]
 }

@@ -1,164 +1,164 @@
 {
     "listings": [
         {
-            "name": "Ryoshi Token",
-            "symbol": "RYOSHI",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10817.png",
+            "name": "Uniswap Finance",
+            "symbol": "UNFI",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7840.png",
             "buyHere": [
                 "Binance / Uniswap"
             ],
-            "price": 3.368959e-08,
-            "percentageChange": 241.63,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 1,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $451649.3\n.Percentage Changes:\n Hour: -13.23396%\n Day: 241.62982%\n Week: 1076.71911%\n Month: 1903.21004%"
-        },
-        {
-            "name": "Life Token",
-            "symbol": "LTN",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9534.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 3.0014322e-07,
-            "percentageChange": 208.36,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 1,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $511594.96\n.Percentage Changes:\n Hour: 1.36981%\n Day: 208.3626%\n Week: 988.13542%\n Month: 345.60871%"
-        },
-        {
-            "name": "Insight Protocol",
-            "symbol": "INX",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5840.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.00465358912138,
-            "percentageChange": 187.71,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 1,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $318149.61\n.Percentage Changes:\n Hour: -7.96622%\n Day: 187.71%\n Week: 500.04761%\n Month: 777.9168%"
-        },
-        {
-            "name": "Jade Currency",
-            "symbol": "JADE",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5025.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.38617642339831,
-            "percentageChange": 182.0,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 1,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $2533220.58\n.Percentage Changes:\n Hour: -19.58536%\n Day: 182.00275%\n Week: 382.43072%\n Month: 3291.52825%"
-        },
-        {
-            "name": "Empire Token",
-            "symbol": "EMPIRE",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10613.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.0012812786204,
-            "percentageChange": 143.86,
+            "price": 0.06420430989398,
+            "percentageChange": 170.3,
             "backers": [
                 "Binance"
             ],
             "consistency": 0,
             "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $74582.99\n.Percentage Changes:\n Hour: -14.5957%\n Day: 143.86392%\n Week: 119.99%\n Month: 158.90363%"
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $441328.89\n.Percentage Changes:\n Hour: 0.68062%\n Day: 170.30042%\n Week: 193.95432%\n Month: 254.71482%"
         },
         {
-            "name": "TakoDefi",
-            "symbol": "TAKO",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9369.png",
+            "name": "XeniosCoin",
+            "symbol": "XNC",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5060.png",
             "buyHere": [
                 "Binance / Uniswap"
             ],
-            "price": 0.34682823330581,
-            "percentageChange": 127.38,
+            "price": 4.10633291193689,
+            "percentageChange": 150.42,
             "backers": [
                 "Binance"
             ],
             "consistency": 0,
             "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $489016.46\n.Percentage Changes:\n Hour: 13.14474%\n Day: 127.38435%\n Week: 396.90463%\n Month: 0.0%"
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $86605.32\n.Percentage Changes:\n Hour: 1.46649%\n Day: 150.41603%\n Week: 156.12485%\n Month: 208.21057%"
         },
         {
-            "name": "NFTBooks",
-            "symbol": "NFTBS",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/11042.png",
+            "name": "WAXE",
+            "symbol": "WAXE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8136.png",
             "buyHere": [
                 "Binance / Uniswap"
             ],
-            "price": 6.215e-11,
-            "percentageChange": 114.91,
+            "price": 447.07862036993845,
+            "percentageChange": 145.64,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $14827801.03\n.Percentage Changes:\n Hour: 4.90795%\n Day: 145.64331%\n Week: 137.59128%\n Month: 235.62169%"
+        },
+        {
+            "name": "KelVPN",
+            "symbol": "KEL",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9261.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.0382042130842,
+            "percentageChange": 144.23,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $694519.45\n.Percentage Changes:\n Hour: -7.2681%\n Day: 144.22919%\n Week: 194.54545%\n Month: 244.76276%"
+        },
+        {
+            "name": "WAX",
+            "symbol": "WAXP",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.43833352572302,
+            "percentageChange": 135.8,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1670414064.52\n.Percentage Changes:\n Hour: 1.07672%\n Day: 135.79724%\n Week: 130.54242%\n Month: 226.93503%"
+        },
+        {
+            "name": "YaySwap",
+            "symbol": "YAY",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10104.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.30098197299408,
+            "percentageChange": 122.71,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $524258.7\n.Percentage Changes:\n Hour: 27.71919%\n Day: 122.71%\n Week: 139.75009%\n Month: 505.42326%"
+        },
+        {
+            "name": "Scry.info",
+            "symbol": "DDD",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2428.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.00708788175467,
+            "percentageChange": 117.64,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $574508.49\n.Percentage Changes:\n Hour: 7.8393%\n Day: 117.63897%\n Week: 89.21009%\n Month: 152.45615%"
+        },
+        {
+            "name": "BinaryX",
+            "symbol": "BNX",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9891.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 10.99517422891724,
+            "percentageChange": 105.37,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $3128510.64\n.Percentage Changes:\n Hour: -6.9809%\n Day: 105.37294%\n Week: 122.42733%\n Month: 233.77925%"
+        },
+        {
+            "name": "BSClaunch",
+            "symbol": "BSL",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10036.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.19657515271114,
+            "percentageChange": 97.99,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1531137.76\n.Percentage Changes:\n Hour: 5.0775%\n Day: 97.98699%\n Week: 88.71818%\n Month: 667.37647%"
+        },
+        {
+            "name": "Treat DAO",
+            "symbol": "TREAT",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8808.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 12.5041504518365,
+            "percentageChange": 93.45,
             "backers": [
                 "Binance"
             ],
             "consistency": 1,
             "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1808972.25\n.Percentage Changes:\n Hour: -15.72455%\n Day: 114.91406%\n Week: 1092.95868%\n Month: 0.0%"
-        },
-        {
-            "name": "SOAR.FI",
-            "symbol": "SOAR",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8240.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.30493542287999,
-            "percentageChange": 111.37,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 0,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $168720.37\n.Percentage Changes:\n Hour: 0.88259%\n Day: 111.37123%\n Week: 96.8034%\n Month: 327.3417%"
-        },
-        {
-            "name": "ARCS",
-            "symbol": "ARX",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5005.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.07166464451113,
-            "percentageChange": 106.72,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 0,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $5859438.83\n.Percentage Changes:\n Hour: -0.71116%\n Day: 106.72346%\n Week: 144.91103%\n Month: 273.50519%"
-        },
-        {
-            "name": "Ispolink",
-            "symbol": "ISP",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9865.png",
-            "buyHere": [
-                "Binance / Uniswap"
-            ],
-            "price": 0.00184479733875,
-            "percentageChange": 93.14,
-            "backers": [
-                "Binance"
-            ],
-            "consistency": 0,
-            "reason": "----",
-            "moreInfo": "More Pricing Details:\nVolume(24hrs): $4496337.2\n.Percentage Changes:\n Hour: -19.86105%\n Day: 93.13993%\n Week: 96.11854%\n Month: 182.3921%"
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $2659255.62\n.Percentage Changes:\n Hour: 4.19438%\n Day: 93.44954%\n Week: 938.6619%\n Month: 1188.06694%"
         }
     ]
 }
