@@ -16,9 +16,9 @@ func main() {
 	output, err := cmd.Output()
 
 	if err != nil {
-		fmt.Printf("python file execution error: %s",err.Error())
+		fmt.Printf("Python file execution error: %s",err.Error())
 	}else{
-		fmt.Printf("python file output \n\n%s",output)
+		fmt.Printf("Python file output \n\n%s",output)
 	}
 	
 	app := fiber.New()
