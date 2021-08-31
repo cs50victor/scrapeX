@@ -1,0 +1,344 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": {
+        "body": {
+            "data": {
+                "gainerList": [
+                    {
+                        "id": 8784,
+                        "name": "NFTL Token",
+                        "symbol": "NFTL",
+                        "slug": "nftl-token",
+                        "rank": 2911,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.03881651475822,
+                            "priceChange1h": -11.38398406,
+                            "priceChange24h": 306.78443546,
+                            "priceChange7d": 573.91904253,
+                            "priceChange30d": 441.88743363,
+                            "volume24h": 1145964.54541049
+                        }
+                    },
+                    {
+                        "id": 5523,
+                        "name": "Aragon Court",
+                        "symbol": "ANJ",
+                        "slug": "aragon-court",
+                        "rank": 461,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.55356916796705,
+                            "priceChange1h": -1.17606795,
+                            "priceChange24h": 239.99738682,
+                            "priceChange7d": 356.79899533,
+                            "priceChange30d": 833.61108681,
+                            "volume24h": 245708.1513401
+                        }
+                    },
+                    {
+                        "id": 1677,
+                        "name": "Etheroll",
+                        "symbol": "DICE",
+                        "slug": "etheroll",
+                        "rank": 3376,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 5.27133358402373,
+                            "priceChange1h": -0.29494617,
+                            "priceChange24h": 197.93616472,
+                            "priceChange7d": 176.55693894,
+                            "priceChange30d": 370.82791559,
+                            "volume24h": 187649.15651202
+                        }
+                    },
+                    {
+                        "id": 2627,
+                        "name": "TokenPay",
+                        "symbol": "TPAY",
+                        "slug": "tokenpay",
+                        "rank": 1334,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.16234773327815,
+                            "priceChange1h": -7.45878759,
+                            "priceChange24h": 141.3623208,
+                            "priceChange7d": 92.56852518,
+                            "priceChange30d": 237.63959675,
+                            "volume24h": 173850.73011543
+                        }
+                    },
+                    {
+                        "id": 7249,
+                        "name": "Yearn Finance Passive Income",
+                        "symbol": "YFPI",
+                        "slug": "yearn-finance-passive-income",
+                        "rank": 3121,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 39.7069431427265,
+                            "priceChange1h": -0.44471451,
+                            "priceChange24h": 126.59794428,
+                            "priceChange7d": 304.95179716,
+                            "priceChange30d": 554.15500441,
+                            "volume24h": 448242.61077504
+                        }
+                    },
+                    {
+                        "id": 1669,
+                        "name": "Humaniq",
+                        "symbol": "HMQ",
+                        "slug": "humaniq",
+                        "rank": 1662,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00690493341667,
+                            "priceChange1h": -30.45849509,
+                            "priceChange24h": 120.1878985,
+                            "priceChange7d": -1.71262341,
+                            "priceChange30d": -4.05048319,
+                            "volume24h": 56080.25121227
+                        }
+                    },
+                    {
+                        "id": 9344,
+                        "name": "1MillionNFTs",
+                        "symbol": "1MIL",
+                        "slug": "1millionnfts",
+                        "rank": 1955,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.68513958739148,
+                            "priceChange1h": -3.70166875,
+                            "priceChange24h": 117.0614998,
+                            "priceChange7d": 158.58996818,
+                            "priceChange30d": 244.84054617,
+                            "volume24h": 1442126.64191148
+                        }
+                    },
+                    {
+                        "id": 5792,
+                        "name": "Bananatok",
+                        "symbol": "BNA",
+                        "slug": "bananatok",
+                        "rank": 3742,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.03133918561673,
+                            "priceChange1h": 4.94462073,
+                            "priceChange24h": 115.62927426,
+                            "priceChange7d": -19.25209812,
+                            "priceChange30d": 160.11731656,
+                            "volume24h": 66197.79184646
+                        }
+                    },
+                    {
+                        "id": 6248,
+                        "name": "Coalculus",
+                        "symbol": "COAL",
+                        "slug": "coalculus",
+                        "rank": 3625,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.02333992569327,
+                            "priceChange1h": 0.23590441,
+                            "priceChange24h": 112.57130782,
+                            "priceChange7d": 13.5692317,
+                            "priceChange30d": 230.52651596,
+                            "volume24h": 90205.15583265
+                        }
+                    },
+                    {
+                        "id": 7778,
+                        "name": "Metis",
+                        "symbol": "MTS",
+                        "slug": "metis",
+                        "rank": 3293,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.01662672416335,
+                            "priceChange1h": -0.32610536,
+                            "priceChange24h": 109.16597188,
+                            "priceChange7d": -23.03339847,
+                            "priceChange30d": 100.23940522,
+                            "volume24h": 247973.00846059
+                        }
+                    }
+                ],
+                "loserList": [
+                    {
+                        "id": 6801,
+                        "name": "TriumphX",
+                        "symbol": "TRIX",
+                        "slug": "triumphx",
+                        "rank": 2430,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00333126048986,
+                            "priceChange1h": -2.98122851,
+                            "priceChange24h": -91.76055844,
+                            "priceChange7d": -56.58074578,
+                            "priceChange30d": 14.02424491,
+                            "volume24h": 94144.85457628
+                        }
+                    },
+                    {
+                        "id": 11257,
+                        "name": "Republic of Dogs",
+                        "symbol": "ROD",
+                        "slug": "republic-of-dogs",
+                        "rank": 3320,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.1663e-10,
+                            "priceChange1h": -0.19817438,
+                            "priceChange24h": -85.60044119,
+                            "priceChange7d": -95.27239264,
+                            "priceChange30d": 0.0,
+                            "volume24h": 224170.69626201
+                        }
+                    },
+                    {
+                        "id": 11429,
+                        "name": "Tundra Token",
+                        "symbol": "TUNDRA",
+                        "slug": "tundra-token",
+                        "rank": 2761,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 499.1004324088085,
+                            "priceChange1h": -31.21598782,
+                            "priceChange24h": -69.00422605,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 3047729.36271661
+                        }
+                    },
+                    {
+                        "id": 11463,
+                        "name": "Husky Avax",
+                        "symbol": "HUSKY",
+                        "slug": "husky-avax",
+                        "rank": 2933,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 4.536132e-08,
+                            "priceChange1h": 0.26624291,
+                            "priceChange24h": -62.96399545,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 965722.19439758
+                        }
+                    },
+                    {
+                        "id": 10818,
+                        "name": "Penguin Finance",
+                        "symbol": "PEFI",
+                        "slug": "penguin-finance",
+                        "rank": 2711,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.52630983863961,
+                            "priceChange1h": -1.69224257,
+                            "priceChange24h": -49.7769129,
+                            "priceChange7d": -27.20756245,
+                            "priceChange30d": 290.49529552,
+                            "volume24h": 5710959.93522839
+                        }
+                    },
+                    {
+                        "id": 5234,
+                        "name": "Metaverse Dualchain Network Architecture",
+                        "symbol": "DNA",
+                        "slug": "metaverse-dualchain-network-architecture",
+                        "rank": 699,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.0012780463905,
+                            "priceChange1h": 2.40269672,
+                            "priceChange24h": -49.37134854,
+                            "priceChange7d": 87.90559864,
+                            "priceChange30d": 82.90303492,
+                            "volume24h": 1066157.34690135
+                        }
+                    },
+                    {
+                        "id": 11459,
+                        "name": "My DeFi Legends",
+                        "symbol": "DLEGENDS",
+                        "slug": "my-defi-legends",
+                        "rank": 2719,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00465777065123,
+                            "priceChange1h": 28.71282645,
+                            "priceChange24h": -47.92505149,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 5121858.76128333
+                        }
+                    },
+                    {
+                        "id": 11403,
+                        "name": "Flourish Coin",
+                        "symbol": "FLRS",
+                        "slug": "flourish-coin",
+                        "rank": 3330,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 7.0225e-10,
+                            "priceChange1h": -20.82957431,
+                            "priceChange24h": -47.72478223,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 212449.84989715
+                        }
+                    },
+                    {
+                        "id": 9752,
+                        "name": "AFEN Blockchain",
+                        "symbol": "AFEN",
+                        "slug": "afen-blockchain",
+                        "rank": 3458,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00783359895931,
+                            "priceChange1h": -39.29888953,
+                            "priceChange24h": -47.20163522,
+                            "priceChange7d": -44.54722942,
+                            "priceChange30d": 19.8833287,
+                            "volume24h": 161193.75015839
+                        }
+                    },
+                    {
+                        "id": 9780,
+                        "name": "Snowball",
+                        "symbol": "SNOB",
+                        "slug": "snowball-finance",
+                        "rank": 2799,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.18734066971496,
+                            "priceChange1h": 0.3786951,
+                            "priceChange24h": -45.82166281,
+                            "priceChange7d": -32.89326882,
+                            "priceChange30d": 369.20287434,
+                            "volume24h": 2158283.04556991
+                        }
+                    }
+                ]
+            },
+            "status": {
+                "timestamp": "2021-08-30T21:39:23.327Z",
+                "error_code": "0",
+                "error_message": "SUCCESS",
+                "elapsed": "10",
+                "credit_count": 0
+            }
+        },
+        "success": true
+    },
+    "success": true
+}

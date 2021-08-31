@@ -1,36 +1,89 @@
 package main
 
 import (
-	"os"
 	"fmt"
 	"log"
+	"os"
+	"time"
 	"os/exec"
-	"io/ioutil"
 	"encoding/json"
-    "github.com/gofiber/fiber/v2"
+	"io/ioutil"
+	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 )
 
-func main() {
-	
-	cmd := exec.Command("python","-c","from stockTrend import getNewJson; print(getNewJson())")	
-	output, err := cmd.Output()
+func hello(c *fiber.Ctx) error {
+	return c.SendString("Hello, World 👋!")
+}
+
+func fiveAM(c *fiber.Ctx) error{	
+
+	raw, err := ioutil.ReadFile("./5am.json")
 
 	if err != nil {
-		fmt.Printf("Python file execution error: %s",err.Error())
+		fmt.Println("opening Json error",err)
 	}else{
-		fmt.Printf("Python file output \n\n%s",output)
+		fmt.Println("Successfully Opened json")
 	}
 	
+
+	var jsonFile map[string]interface{}
+	err = json.Unmarshal(raw, &jsonFile)
+	if err != nil {
+        log.Fatal("Error during Unmarshal(): ", err)
+    }
+
+	return c.JSON(jsonFile)
+}
+
+func shouldMakeRequest() bool{
+	timeFile, er := os.Stat("./5am.json")
+
+	if er != nil {
+		log.Fatal(er)
+	}
+
+	lastModified := timeFile.ModTime()
+	currentTime := time.Now()
+	sixHoursAgo := currentTime.Add(-6 * time.Hour)
+	makeNewRequest := sixHoursAgo.After(lastModified)
+
+
+	fmt.Println("File was last modified: ",lastModified.Format("2006-01-02 3:4:5pm"))
+	fmt.Println("Time [6 Hours Ago]: ",sixHoursAgo.Format("2006-01-02 3:4:5pm"))
+	fmt.Println("Make new Request? ",makeNewRequest)
+
+	return makeNewRequest
+}
+
+func pythonRequests(){
+
+	cmd := exec.Command("./stockTrend")	
+	err := cmd.Run()
+	
+	if err != nil {
+		fmt.Printf("Python exec run error: %s\n",err)
+	}else{
+		fmt.Println("Python exec ran successfully! New Requests Complete")
+	}
+}
+
+// MAIN GO-FIBER SERVER
+func main() {
+	
+	newRequest := shouldMakeRequest()
+	if (newRequest){
+		pythonRequests()
+	}
+	fmt.Println("New Request Made? ",newRequest)
+	
+
 	app := fiber.New()
 	app.Use(logger.New())
 
-
+	// api end-Points
 	app.Get("/",hello)
-
-	app.Get("/stocks", stocks)
-	app.Get("/safe-crypto", safeCypto)
-	app.Get("/risky-crypto", riskyCypto)
+	app.Get("/5am",fiveAM)
 
 	port := os.Getenv("PORT")
 	if os.Getenv("PORT") == ""{
@@ -38,68 +91,4 @@ func main() {
 	}
     // handle server starting error
     log.Fatal(app.Listen(":" +port))
-}
-
-func hello(c *fiber.Ctx) error {
-	return c.SendString("Hello, World 👋!")
-}
-
-func stocks(c *fiber.Ctx) error{	
-
-	raw, err := ioutil.ReadFile("./5am/res/stocks.json")
-
-	if err != nil {
-		fmt.Println("opening Json error",err)
-	}else{
-		fmt.Println("Successfully Opened json")
-	}
-	
-
-	var jsonFile map[string]interface{}
-	err = json.Unmarshal(raw, &jsonFile)
-	if err != nil {
-        log.Fatal("Error during Unmarshal(): ", err)
-    }
-
-	return c.JSON(jsonFile)
-}
-
-func safeCypto(c *fiber.Ctx) error{	
-
-	raw, err := ioutil.ReadFile("./5am/res/safe-crypto.json")
-
-	if err != nil {
-		fmt.Println("opening Json error",err)
-	}else{
-		fmt.Println("Successfully Opened json")
-	}
-	
-
-	var jsonFile map[string]interface{}
-	err = json.Unmarshal(raw, &jsonFile)
-	if err != nil {
-        log.Fatal("Error during Unmarshal(): ", err)
-    }
-
-	return c.JSON(jsonFile)
-}
-
-func riskyCypto(c *fiber.Ctx) error{	
-
-	raw, err := ioutil.ReadFile("./5am/res/risky-crypto.json")
-
-	if err != nil {
-		fmt.Println("opening Json error",err)
-	}else{
-		fmt.Println("Successfully Opened json")
-	}
-	
-
-	var jsonFile map[string]interface{}
-	err = json.Unmarshal(raw, &jsonFile)
-	if err != nil {
-        log.Fatal("Error during Unmarshal(): ", err)
-    }
-
-	return c.JSON(jsonFile)
 }

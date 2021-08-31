@@ -1,0 +1,866 @@
+{
+    "stock": [
+        {
+            "name": "RenovoRx, Inc.",
+            "symbol": "RNXT",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "16.02",
+            "percentageChange": 107.78,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$8.31 in the past 24 hours.\nMarketValue: $132383288\nVolume: 25790954\nTurn Over Rate: 312.1%\nYear-High: $8.50\nYear-Low: $6.66\nLowest-Price Today:$6.81\nHighest-Price Today: $16.74."
+        },
+        {
+            "name": "GLOBALSTAR",
+            "symbol": "GSAT",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "2.350",
+            "percentageChange": 64.34,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.920 in the past 24 hours.\nMarketValue: $4213550000\nVolume: 541053821\nTurn Over Rate: 30.18%\nYear-High: $2.980\nYear-Low: $0.2920\nLowest-Price Today:$1.940\nHighest-Price Today: $2.420."
+        },
+        {
+            "name": "Affirm Holdings, Inc.",
+            "symbol": "AFRM",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "99.59",
+            "percentageChange": 46.67,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$31.69 in the past 24 hours.\nMarketValue: $24175150923\nVolume: 44337788\nTurn Over Rate: 18.27%\nYear-High: $146.90\nYear-Low: $46.50\nLowest-Price Today:$91.28\nHighest-Price Today: $101.00."
+        },
+        {
+            "name": "Katapult Holdings Inc",
+            "symbol": "KPLT",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "5.09",
+            "percentageChange": 40.61,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.47 in the past 24 hours.\nMarketValue: $492822020\nVolume: 86973385\nTurn Over Rate: 89.83%\nYear-High: $19.65\nYear-Low: $3.100\nLowest-Price Today:$4.090\nHighest-Price Today: $5.79."
+        },
+        {
+            "name": "Support.com",
+            "symbol": "SPRT",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "36.39",
+            "percentageChange": 38.21,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$10.06 in the past 24 hours.\nMarketValue: $882016307\nVolume: 72020776\nTurn Over Rate: 297.14%\nYear-High: $59.69\nYear-Low: $1.620\nLowest-Price Today:$29.34\nHighest-Price Today: $43.17."
+        },
+        {
+            "name": "Vinco Ventures Inc",
+            "symbol": "BBIG",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "7.06",
+            "percentageChange": 33.21,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.76 in the past 24 hours.\nMarketValue: $462884911\nVolume: 321518620\nTurn Over Rate: 490.39%\nYear-High: $9.40\nYear-Low: $1.110\nLowest-Price Today:$6.48\nHighest-Price Today: $10.00."
+        },
+        {
+            "name": "Valneva SE",
+            "symbol": "VALN",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "51.00",
+            "percentageChange": 32.47,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$12.50 in the past 24 hours.\nMarketValue: $2543946708\nVolume: 491639\nTurn Over Rate: 0.99%\nYear-High: $39.32\nYear-Low: $24.16\nLowest-Price Today:$44.50\nHighest-Price Today: $59.15."
+        },
+        {
+            "name": "ALTISOURCE ASSET",
+            "symbol": "AAMC",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "17.75",
+            "percentageChange": 25.44,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$3.60 in the past 24 hours.\nMarketValue: $36486207\nVolume: 81808\nTurn Over Rate: 3.98%\nYear-High: $31.24\nYear-Low: $12.54\nLowest-Price Today:$14.24\nHighest-Price Today: $17.75."
+        },
+        {
+            "name": "ASIA TIMES HOLDINGS LTD",
+            "symbol": "ATIF",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "3.380",
+            "percentageChange": 22.82,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.628 in the past 24 hours.\nMarketValue: $30965498\nVolume: 28988005\nTurn Over Rate: 316.39%\nYear-High: $11.70\nYear-Low: $2.105\nLowest-Price Today:$2.900\nHighest-Price Today: $5.65."
+        },
+        {
+            "name": "Sphere 3D",
+            "symbol": "ANY",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "6.40",
+            "percentageChange": 22.61,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.18 in the past 24 hours.\nMarketValue: $144524985\nVolume: 93312553\nTurn Over Rate: 413.22%\nYear-High: $6.58\nYear-Low: $1.230\nLowest-Price Today:$5.20\nHighest-Price Today: $7.68."
+        },
+        {
+            "name": "SeqLL",
+            "symbol": "SQL",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "5.51",
+            "percentageChange": 21.37,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.97 in the past 24 hours.\nMarketValue: $64452558\nVolume: 9135964\nTurn Over Rate: 78.1%\nYear-High: $4.730\nYear-Low: $3.300\nLowest-Price Today:$4.320\nHighest-Price Today: $5.80."
+        },
+        {
+            "name": "Edenor",
+            "symbol": "EDN",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "7.45",
+            "percentageChange": 21.14,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.30 in the past 24 hours.\nMarketValue: $164723366\nVolume: 505218\nTurn Over Rate: 2.28%\nYear-High: $6.24\nYear-Low: $2.811\nLowest-Price Today:$6.15\nHighest-Price Today: $7.79."
+        },
+        {
+            "name": "CREG",
+            "symbol": "CREG",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "8.45",
+            "percentageChange": 19.86,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.40 in the past 24 hours.\nMarketValue: $55629113\nVolume: 370722\nTurn Over Rate: 5.63%\nYear-High: $14.39\nYear-Low: $2.160\nLowest-Price Today:$6.97\nHighest-Price Today: $8.68."
+        },
+        {
+            "name": "Reneo Pharmaceuticals, Inc.",
+            "symbol": "RPHM",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "9.46",
+            "percentageChange": 19.75,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$1.56 in the past 24 hours.\nMarketValue: $230874393\nVolume: 670835\nTurn Over Rate: 2.75%\nYear-High: $17.18\nYear-Low: $6.10\nLowest-Price Today:$7.79\nHighest-Price Today: $10.69."
+        },
+        {
+            "name": "Independence Hld",
+            "symbol": "IHC",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "49.90",
+            "percentageChange": 18.78,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$7.89 in the past 24 hours.\nMarketValue: $730755011\nVolume: 176676\nTurn Over Rate: 1.21%\nYear-High: $48.75\nYear-Low: $33.73\nLowest-Price Today:$49.79\nHighest-Price Today: $50.96."
+        },
+        {
+            "name": "Cellect Bio",
+            "symbol": "APOP",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "4.970",
+            "percentageChange": 18.62,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.780 in the past 24 hours.\nMarketValue: $19491032\nVolume: 4029095\nTurn Over Rate: 102.27%\nYear-High: $7.15\nYear-Low: $1.650\nLowest-Price Today:$4.200\nHighest-Price Today: $4.970."
+        },
+        {
+            "name": "Big 5 Sporting",
+            "symbol": "BGFV",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "28.10",
+            "percentageChange": 18.12,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$4.31 in the past 24 hours.\nMarketValue: $630009587\nVolume: 5526279\nTurn Over Rate: 24.65%\nYear-High: $37.75\nYear-Low: $5.21\nLowest-Price Today:$23.80\nHighest-Price Today: $29.18."
+        },
+        {
+            "name": "Discovery",
+            "symbol": "DISCB",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "50.83",
+            "percentageChange": 18.02,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$7.76 in the past 24 hours.\nMarketValue: $25707049254\nVolume: 45107\nTurn Over Rate: 0.01%\nYear-High: $150.72\nYear-Low: $26.00\nLowest-Price Today:$44.46\nHighest-Price Today: $56.97."
+        },
+        {
+            "name": "DSP Group",
+            "symbol": "DSPG",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "21.99",
+            "percentageChange": 17.85,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$3.33 in the past 24 hours.\nMarketValue: $537841469\nVolume: 5277528\nTurn Over Rate: 21.58%\nYear-High: $18.75\nYear-Low: $12.42\nLowest-Price Today:$21.85\nHighest-Price Today: $22.00."
+        },
+        {
+            "name": "Mechel",
+            "symbol": "MTL",
+            "image": "https://images.unsplash.com/photo-1593672755342-741a7f868732?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "buyHere": [
+                "WeBull"
+            ],
+            "price": "3.390",
+            "percentageChange": 17.71,
+            "backers": [
+                "WeBull"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock has increased by +$0.510 in the past 24 hours.\nMarketValue: $703851716\nVolume: 1495013\nTurn Over Rate: 0.72%\nYear-High: $2.880\nYear-Low: $1.290\nLowest-Price Today:$3.090\nHighest-Price Today: $3.400."
+        }
+    ],
+    "safe-crypto": [
+        {
+            "name": "Celo",
+            "symbol": "CGLD",
+            "image": "https://dynamic-assets.coinbase.com/14d08a69247abed157b7855ced693ecece998f6aec67e03d91a2aaffef5ae667f31f8ecb086f76a731316019ed4099e40ddfbe05ad149f6cfe533d086385e0b3/asset_icons/bfb27bfb8e34f2a8d5fea4f191984b53b66d36d2196276409950434dcb434e8f.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "6.811",
+            "percentageChange": 58.86,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 12 months ago\nDescription: Celo is the core utility, reserve, staking, and governance asset for the Celo platform. The platform aims to make financial tools borderless, easy to use, and accessible for anyone with a mobile phone.\nMarket-Cap: $1966779616.48\nVolume(24hrs): $1221336940.81\nCirculating Supply: $28670256800.0\n.Percentage Changes:\n Hour: -3.37407%\n Day: 58.86214%\n Week: 111.06945%\n Month: 148.95826%\n Day: 80.18519%\n All Time: 756.08664%"
+        },
+        {
+            "name": "PlayDapp",
+            "symbol": "PLA",
+            "image": "https://dynamic-assets.coinbase.com/5bf74d2b6bc08aed7ce4e8e352e2d3ce9a6492393e8dfd0a002c0a06be28447a82d357c58f19b799439737561eaf5852488bc60c1b0e928dcbfbd2b4880da1be/asset_icons/96d843635f63e8da41d1daadf6338a5a46be0158fbd9fab182d9f43b09bc9ac1.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "1.2829",
+            "percentageChange": 23.78,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 3 weeks ago\nDescription: PLA is an Ethereum token that powers PlayDapp, a blockchain gaming platform and non-fungible token (NFT) marketplace. PLA acts as the primary token for processing transactions on PlayDapp. Game developers can also receive PLA when users make in-game purchases.\n\nMarket-Cap: $233949248.09\nVolume(24hrs): $700130401.80\nCirculating Supply: $18197670200.0\n.Percentage Changes:\n Hour: -3.5233%\n Day: 23.77582%\n Week: 21.60723%\n Month: 167.06652%\n Day: 634.6053%\n All Time: 634.6053%"
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "image": "https://dynamic-assets.coinbase.com/d2ba1ad058b9b0eb4de5f0ccbf0e4aecb8d73d3a183dbaeabbec2b6fd77b0a636598e08467a05da7e69f39c65693f627edf7414145ee6c61e01efc831652ca0f/asset_icons/8733712db93f857c04b7c58fb35eafb3be360a183966a1e57a6e22ee5f78c96d.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "113.227",
+            "percentageChange": 20.1,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 months ago\nDescription: Solana is a decentralized computing platform that uses SOL to pay for transactions. Solana aims to improve blockchain scalability by using a combination of proof of stake consensus and so-called proof of history. As a result, Solana claims to be able to support 50,000 transactions per second without sacrificing decentralization. \nMarket-Cap: $32616609886.27\nVolume(24hrs): $4868679671.75\nCirculating Supply: $29094437306.01\n.Percentage Changes:\n Hour: 2.70187%\n Day: 20.09639%\n Week: 55.52323%\n Month: 261.96573%\n Day: 2452.20014%\n All Time: 13508.93245%"
+        },
+        {
+            "name": "Elrond",
+            "symbol": "EGLD",
+            "image": "https://dynamic-assets.coinbase.com/ddb0a134f87419ccbc8ea7c630347c18dd4c024c68140f4bb13f18cd92b0af775b6460379f33740c4595c0e51175b26cfc0a5294bdd2a3ac1c64c945d12df0ef/asset_icons/7572261d622ff9ee9d78f04838a88100044c3cf1f7d1c389d6a9871558b21a45.png",
+            "buyHere": [
+                "not on Coinbase"
+            ],
+            "price": "162.20919932174692",
+            "percentageChange": 14.58,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: None\nMarket-Cap: $3142099644.99\nVolume(24hrs): $261976202.28\nCirculating Supply: $1937233100.78\n.Percentage Changes:\n Hour: -2.09395%\n Day: 14.5773%\n Week: 9.61308%\n Month: 90.78861%\n Day: 819.30086%\n All Time: 819.30086%"
+        },
+        {
+            "name": "Origin Token",
+            "symbol": "OGN",
+            "image": "https://dynamic-assets.coinbase.com/826567a9db1b6b4b0a40d1cd400e15ca2c9cd5844da758577c31df1d24f580594360b89f917ada943f8b4d0e99bbc8e0ed9c164287fbd71bba70f38dc1ab65eb/asset_icons/d6aa3e0689b599fc7e39073a18a63755ba272cf669ab090ecd74ecb2621084d6.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "1.213",
+            "percentageChange": 13.65,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 5 months ago\nDescription: Origin Token (OGN) is an Ethereum token that powers the Origin platform, which aims to power decentralized and peer-to-peer marketplaces. OGN can be used for staking, governance, and advertising on the Origin platform.\n\nMarket-Cap: $425450266.55\nVolume(24hrs): $233025182.66\nCirculating Supply: $35161179054.0\n.Percentage Changes:\n Hour: -0.97959%\n Day: 13.65348%\n Week: 1.93284%\n Month: 55.29908%\n Day: 187.1602%\n All Time: 456.70965%"
+        },
+        {
+            "name": "Waves",
+            "symbol": "WAVES",
+            "image": "https://dynamic-assets.coinbase.com/0e47d3ab6e601aae0d75c4d44613681f5bbe88022a4deb0787aa4af8875b731140ebaa6c0853dabf5596bc80450c23ccb06f1feecaa809c26224809ecbf6e396/asset_icons/1f8489bb280fb0a0fd643c1161312ba49655040e9aaaced5f9ad3eeaf868eadc.png",
+            "buyHere": [
+                "not on Coinbase"
+            ],
+            "price": "27.88570370326598",
+            "percentageChange": 11.3,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: Waves is a cryptocurrency that describes itself as a “decentralized blockchain platform focusing on custom blockchain tokens operations.”\nMarket-Cap: $2943772981.08\nVolume(24hrs): $472577202.58\nCirculating Supply: $10603873600.0\n.Percentage Changes:\n Hour: -0.56702%\n Day: 11.30336%\n Week: 7.11154%\n Month: 77.35381%\n Day: 722.69837%\n All Time: 2066.25005%"
+        },
+        {
+            "name": "Cosmos",
+            "symbol": "ATOM",
+            "image": "https://dynamic-assets.coinbase.com/b92276a1f003b87191983dab71970a9a6d522dde514176e5880a75055af1e67ce5f153b96a2ee5ecd22729a73d3a8739b248d853bde74ab6e643bef2d1b4f88d/asset_icons/9c760bf25bca9823f9ef8d651681b779aadc71a2f543f931070034e59ef10120.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "23.278",
+            "percentageChange": 8.48,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 1 year ago\nDescription: Cosmos (ATOM) is a cryptocurrency that powers an ecosystem of blockchains designed to scale and interoperate with each other. The team aims to \"create an Internet of Blockchains, a network of blockchains able to communicate with each other in a decentralized way.\" Cosmos is a proof-of-stake chain. ATOM holders can stake their tokens in order to maintain the network and receive more ATOM as a reward.\nMarket-Cap: $5142059298.14\nVolume(24hrs): $753540093.29\nCirculating Supply: $22058510137.45\n.Percentage Changes:\n Hour: -0.61588%\n Day: 8.47607%\n Week: 6.39912%\n Month: 97.27119%\n Day: 205.04521%\n All Time: 491.53524%"
+        },
+        {
+            "name": "Fetch.ai",
+            "symbol": "FET",
+            "image": "https://dynamic-assets.coinbase.com/206053988eba479e6f73693b61fe5d7298988e22f744ac617cd59769f63d0fbac9de461c146e1e41127c7c9f109f28c85cf809f21f00d7f3e671eac25d68dba7/asset_icons/26bc100e25a6a1425811e48b7ba77e11f4cb4b35d272a8e32c8ebe72a71e2c7f.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "0.6469",
+            "percentageChange": 8.26,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 1 month ago\nDescription: FET is an Ethereum token that powers Fetch.ai, a decentralized machine learning platform for applications such as asset trading, gig economy work, and energy grid optimization. Fetch.ai’s first decentralized finance application helps Uniswap users automate trading according to predefined conditions.\nMarket-Cap: $480273376.46\nVolume(24hrs): $107652633.77\nCirculating Supply: $74611368100.0\n.Percentage Changes:\n Hour: -0.53896%\n Day: 8.25503%\n Week: 15.76263%\n Month: 66.68688%\n Day: 423.50518%\n All Time: 221.48296%"
+        },
+        {
+            "name": "Clover Finance",
+            "symbol": "CLV",
+            "image": "https://dynamic-assets.coinbase.com/2a43e81b3aa4ed326b3403253912cde99823a7bfab1e3df4aa42783a0e418c689663455524e679b892871a0c304a1025ec831c7eec619a7dca4b43a2e7df0b34/asset_icons/556d89987c2bf38e5b8d2a71636215c78cb3398ff7cf99219f67741b36a892cd.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "1.78",
+            "percentageChange": 7.32,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 months ago\nDescription: Clover Finance is a blockchain infrastructure platform that’s focused on cross-chain compatibility for DeFi applications. The CLV token is used to pay for Clover transactions and to vote for network upgrades. Clover also aims to enable interoperability between Bitcoin and other blockchains. Note: Coinbase currently supports CLV running on Ethereum (ERC-20).\nMarket-Cap: $226648889.28\nVolume(24hrs): $183444402.75\nCirculating Supply: $12877777800.0\n.Percentage Changes:\n Hour: -5.88235%\n Day: 7.31707%\n Week: 17.48231%\n Month: 38.5837%\n Day: -95.78345%\n All Time: -95.78345%"
+        },
+        {
+            "name": "NuCypher",
+            "symbol": "NU",
+            "image": "https://dynamic-assets.coinbase.com/462fb777ebe2252a550afc2b60bfe8e2722d913f00c2f5c307bce173f0a2587fd6d185bf8ba349e133b150305373fcd4a516ce7566ee312c718595d73a585f22/asset_icons/8c183b0f4f9865818c59bb1e7070176eb1088f2d8ec3e868494a61450946395a.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "0.3417",
+            "percentageChange": 7.04,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 9 months ago\nDescription: NuCypher (NU) is an Ethereum token that can be staked to run a node on the NuCypher network. NuCypher describes itself as a threshold cryptography network that provides data privacy and key management for decentralized applications and protocols.\nMarket-Cap: $229824000.00\nVolume(24hrs): $120547445.28\nCirculating Supply: $67200000000.0\n.Percentage Changes:\n Hour: -2.00918%\n Day: 7.04489%\n Week: 7.92798%\n Month: 61.17925%\n Day: 69.17947%\n All Time: 69.17947%"
+        },
+        {
+            "name": "iExec RLC",
+            "symbol": "RLC",
+            "image": "https://dynamic-assets.coinbase.com/4661f84397db59e962bde8d9eed5797a48fb09808c6679ba437b3967abbfea76ecbed6ba241288b7a7b1f63d9f8710f44d3c8e833a9b24605f5b1f3ed2d40b39/asset_icons/78b320621de824739ae01d0c8fcddee8fa3f086107f447ac71b24720098825dd.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "4.828",
+            "percentageChange": 6.79,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 4 months ago\nDescription: RLC is an Ethereum token for the iExec cloud platform in which users can monetize and rent computing power and data. iExec enables developers to power applications on what is described as “a decentralized marketplace for cloud resources.\"\nMarket-Cap: $385140515.48\nVolume(24hrs): $47764002.22\nCirculating Supply: $8007079323.88\n.Percentage Changes:\n Hour: -0.1452%\n Day: 6.79095%\n Week: -6.25226%\n Month: 73.55349%\n Day: 197.02036%\n All Time: 1288.99677%"
+        },
+        {
+            "name": "Orion Protocol",
+            "symbol": "ORN",
+            "image": "https://dynamic-assets.coinbase.com/602aca1faf08b70546fd83518922212b9522e3e328ad8a6392493230e3c0faf5857967fadec2647c258928f04e374a07f9e5f0de399430fbe83651c344d803b7/asset_icons/47c5e1bef1a54accd6971448b636ec693ab5c990edfda11dfe146377328492db.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "9.11",
+            "percentageChange": 5.85,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 weeks ago\nDescription: ORN is an Ethereum token that powers Orion Protocol, which aims to aggregate liquidity from centralized and decentralized exchanges into one platform. ORN can be used to receive discounted trading fees, for staking, and to access advanced features within the Orion Protocol.\n\nMarket-Cap: $271757850.00\nVolume(24hrs): $43922398.87\nCirculating Supply: $3009500000.0\n.Percentage Changes:\n Hour: -1.30011%\n Day: 5.84795%\n Week: -1.31011%\n Month: 49.56426%\n Day: 162.87863%\n All Time: 1598.6926%"
+        },
+        {
+            "name": "Bitcoin SV",
+            "symbol": "BSV",
+            "image": "https://dynamic-assets.coinbase.com/dbf675ba34815d8c76f42a481729953d83c0665c4ed4a38b68074b84b65bbd7be179817b818dfc490175e9061b3471d2375e23ae726a7d07cfe88c734d2e09e1/asset_icons/1d23bd6ffcbb743c32d080b850684215ec089964c7c12c6ccc40c4032ecf7c28.png",
+            "buyHere": [
+                "not on Coinbase"
+            ],
+            "price": "180.1835435349616",
+            "percentageChange": 5.44,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: Bitcoin SV is a fork of Bitcoin Cash (BCH). It attempts to restore the original Bitcoin protocol as defined by version 0.1 of Bitcoin.\nMarket-Cap: $3392923365.13\nVolume(24hrs): $577104739.09\nCirculating Supply: $1882908914.42\n.Percentage Changes:\n Hour: -0.10349%\n Day: 5.43875%\n Week: 8.61457%\n Month: 29.82983%\n Day: -8.30742%\n All Time: 67.38531%"
+        },
+        {
+            "name": "Compound",
+            "symbol": "COMP",
+            "image": "https://dynamic-assets.coinbase.com/b0d22ef41d2fa2ecbb6c116ab9aa5f0ec6541cc63cffd922dd1f1564eda40e20e69cdafd8044c0d512e906b99dcdf0eade4251fe0ca3edd4dfa1ba2e6145cdf4/asset_icons/fed5c36d72b459ebe60c190c315bde2266ae24ff445f5cf599f124ac4fa21713.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "441.12",
+            "percentageChange": 5.11,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 2,
+            "reason": "----",
+            "moreInfo": "This stock was launched 1 year ago\nDescription: Compound (COMP) is an Ethereum token that enables community governance of the Compound protocol. The protocol is a series of decentralized interest rate markets that allow users to supply and borrow Ethereum tokens at variable interest rates. COMP token holders and their delegates can also debate, propose, and vote on changes to the protocol.\nMarket-Cap: $2424545046.87\nVolume(24hrs): $280462351.57\nCirculating Supply: $550307559.78\n.Percentage Changes:\n Hour: -0.78715%\n Day: 5.11407%\n Week: -4.10643%\n Month: 11.18336%\n Day: 103.35608%\n All Time: 619.94591%"
+        },
+        {
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "image": "https://dynamic-assets.coinbase.com/a1f4b7b34069888e313f284b49012a01b3bbc37b5113319c7105170a8fe268de8f60be5a0af7a8dafa8aba31fcc21ef44bc30c1e8bbb8379064ac94965bccf26/asset_icons/aafc2f5fff21664213e2a5a2c6e31aa055f277d1069b16745d54f84c0e94f1f3.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "27.9877",
+            "percentageChange": 4.22,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 12 months ago\nDescription: Uniswap (UNI) is an Ethereum token that powers Uniswap, an automated liquidity provider that’s designed to make it easy to exchange Ethereum (ERC-20) tokens. There is no orderbook or central facilitator on Uniswap. Instead, tokens are exchanged through liquidity pools that are defined by smart contracts.\nMarket-Cap: $17074881712.93\nVolume(24hrs): $388732300.18\nCirculating Supply: $61163682358.33\n.Percentage Changes:\n Hour: 0.47006%\n Day: 4.22093%\n Week: -1.56491%\n Month: 42.82958%\n Day: 804.11567%\n All Time: 804.11567%"
+        },
+        {
+            "name": "Terra",
+            "symbol": "LUNA",
+            "image": "https://dynamic-assets.coinbase.com/349c78bb0cca8d9a48d660f500b43a88417337074e4948b964c005252a999548b514b9d06b177b5392421996329ef3b944e80638151f21ae445e8c7a19a78d4f/asset_icons/2925e68c9ec25fc3cffa661d2f5d88798a10c191ea613dd4c3951ab86904ad69.png",
+            "buyHere": [
+                "not on Coinbase"
+            ],
+            "price": "35.04608525696406",
+            "percentageChange": 4.08,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched None\nDescription: None\nMarket-Cap: $14048959811.82\nVolume(24hrs): $1528075114.44\nCirculating Supply: $40216991383.63\n.Percentage Changes:\n Hour: -1.3756%\n Day: 4.08345%\n Week: 25.016%\n Month: 217.3275%\n Day: 6482.25515%\n All Time: 0.0%"
+        },
+        {
+            "name": "Wrapped LUNA Token",
+            "symbol": "WLUNA",
+            "image": "https://dynamic-assets.coinbase.com/4472c4542dd9946dda9948ef32e46825a9e39d9e10db6a87e740131f9f2ebd60b21d80b0922d3c36cde4d8e3930373091b3ab6ba8d8df768c985d25fd7e342aa/asset_icons/0879d9ac5e4f735d4c4c628461f887df8983dbe6322af4f1bd373a38a0d79d02.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "35.02",
+            "percentageChange": 3.98,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 2 weeks ago\nDescription: Wrapped Luna (WLUNA) is an Ethereum token that’s intended to represent Terra (LUNA) on the Ethereum blockchain. It is not LUNA, but rather a separate ERC-20 token that’s designed to track LUNA’s value. WLUNA was created to allow LUNA holders to trade, hold, and participate in decentralized finance (“DeFi”) apps on Ethereum. Through a WLUNA partner, 1 LUNA can be exchanged for 1 WLUNA, and vice-versa.\nMarket-Cap: $0.00\nVolume(24hrs): $22308918.17\nCirculating Supply: $0.0\n.Percentage Changes:\n Hour: -1.57259%\n Day: 3.97862%\n Week: 25.74944%\n Month: 138.16406%\n Day: 138.16406%\n All Time: 138.16406%"
+        },
+        {
+            "name": "Polkadot",
+            "symbol": "DOT",
+            "image": "https://dynamic-assets.coinbase.com/e69bfafd90cc11d33bec57383c354ec1d99f29fdb1a8c3822bf438a58ca6dd032d19e9f5b89fd3dbfb3af45af96610da2f253ad225cd83fcabc3db8e5e52f20d/asset_icons/cb500931800355a865fb919a692a03c346df838e594c408b033f0b91a99cf1ba.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "27.14",
+            "percentageChange": 3.8,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 3 months ago\nDescription: Polkadot is a protocol that enables cross-blockchain transfers of any type of data or asset. By uniting multiple blockchains, Polkadot aims to achieve high degrees of security and scalability. DOT serves as the protocol’s governance token and can be used for staking to secure the network or to connect (“bond”) new chains.\nMarket-Cap: $26605386744.94\nVolume(24hrs): $1644749667.73\nCirculating Supply: $98757931495.71\n.Percentage Changes:\n Hour: -0.80899%\n Day: 3.79527%\n Week: -2.15191%\n Month: 78.11966%\n Day: 363.11621%\n All Time: 907.83703%"
+        },
+        {
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "image": "https://dynamic-assets.coinbase.com/1a3044e2dd810daff9d161226f7e726d2fab298bceeb49ce82610d216135f9f148fe06db0fc7eec74eb291dbaac9df33535ee745bd54a4492562c45ab51d72be/asset_icons/81390746f1a5e68b0f121f9c11f3875d2755f8a11085dc91c0e81e6c1ed40957.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "2.2",
+            "percentageChange": 2.91,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 4,
+            "reason": "----",
+            "moreInfo": "This stock was launched 5 months ago\nDescription: Enjin Coin (ENJ) is an Ethereum token that aims to “make it easy for individuals, businesses, and brands to use non-fungible tokens (NFTs).” ENJ is used to directly back the value of NFTs minted within the Enjin ecosystem.\nMarket-Cap: $1833859804.84\nVolume(24hrs): $541568192.72\nCirculating Supply: $83433112139.9\n.Percentage Changes:\n Hour: -1.47783%\n Day: 2.91217%\n Week: 19.08341%\n Month: 57.75864%\n Day: 907.00937%\n All Time: 13984.86773%"
+        },
+        {
+            "name": "SushiSwap",
+            "symbol": "SUSHI",
+            "image": "https://dynamic-assets.coinbase.com/cede43e837596061c7e2290c725be20ee0eb000eb76937c879289ccf08f5941f9c1d76e3f3dd8cb0e67f53d0f4adc48286516200e7db5bd6bc403fcd9d318449/asset_icons/483b36b14a995b07c7883d0647903f77d8feafe1f685b55a0334b8788b151194.png",
+            "buyHere": [
+                "Coinbase"
+            ],
+            "price": "12.076",
+            "percentageChange": 2.79,
+            "backers": [
+                "Coinbase"
+            ],
+            "consistency": 3,
+            "reason": "----",
+            "moreInfo": "This stock was launched 6 months ago\nDescription: SushiSwap (SUSHI) is an Ethereum token that powers SushiSwap, a decentralized cryptocurrency exchange and automated market maker built on Ethereum. Holders of SUSHI can participate in community governance and stake their tokens to receive a portion of SushiSwap’s transaction fees.\n\nMarket-Cap: $1524261182.70\nVolume(24hrs): $279072755.56\nCirculating Supply: $12724444300.0\n.Percentage Changes:\n Hour: 0.35729%\n Day: 2.79397%\n Week: -12.26506%\n Month: 47.94778%\n Day: 284.62636%\n All Time: 255.17621%"
+        }
+    ],
+    "risky-crypto": [
+        {
+            "name": "NFTL Token",
+            "symbol": "NFTL",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/8784.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.03881651475822,
+            "percentageChange": 306.78,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1145964.55\n.Percentage Changes:\n Hour: -11.38398%\n Day: 306.78444%\n Week: 573.91904%\n Month: 441.88743%"
+        },
+        {
+            "name": "Aragon Court",
+            "symbol": "ANJ",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5523.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.55356916796705,
+            "percentageChange": 240.0,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $245708.15\n.Percentage Changes:\n Hour: -1.17607%\n Day: 239.99739%\n Week: 356.799%\n Month: 833.61109%"
+        },
+        {
+            "name": "Etheroll",
+            "symbol": "DICE",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1677.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 5.27133358402373,
+            "percentageChange": 197.94,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $187649.16\n.Percentage Changes:\n Hour: -0.29495%\n Day: 197.93616%\n Week: 176.55694%\n Month: 370.82792%"
+        },
+        {
+            "name": "TokenPay",
+            "symbol": "TPAY",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/2627.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.16234773327815,
+            "percentageChange": 141.36,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $173850.73\n.Percentage Changes:\n Hour: -7.45879%\n Day: 141.36232%\n Week: 92.56853%\n Month: 237.6396%"
+        },
+        {
+            "name": "Yearn Finance Passive Income",
+            "symbol": "YFPI",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7249.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 39.7069431427265,
+            "percentageChange": 126.6,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 1,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $448242.61\n.Percentage Changes:\n Hour: -0.44471%\n Day: 126.59794%\n Week: 304.9518%\n Month: 554.155%"
+        },
+        {
+            "name": "Humaniq",
+            "symbol": "HMQ",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1669.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.00690493341667,
+            "percentageChange": 120.19,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $56080.25\n.Percentage Changes:\n Hour: -30.4585%\n Day: 120.1879%\n Week: -1.71262%\n Month: -4.05048%"
+        },
+        {
+            "name": "1MillionNFTs",
+            "symbol": "1MIL",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9344.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 3.68513958739148,
+            "percentageChange": 117.06,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $1442126.64\n.Percentage Changes:\n Hour: -3.70167%\n Day: 117.0615%\n Week: 158.58997%\n Month: 244.84055%"
+        },
+        {
+            "name": "Bananatok",
+            "symbol": "BNA",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5792.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.03133918561673,
+            "percentageChange": 115.63,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $66197.79\n.Percentage Changes:\n Hour: 4.94462%\n Day: 115.62927%\n Week: -19.2521%\n Month: 160.11732%"
+        },
+        {
+            "name": "Coalculus",
+            "symbol": "COAL",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/6248.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.02333992569327,
+            "percentageChange": 112.57,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $90205.16\n.Percentage Changes:\n Hour: 0.2359%\n Day: 112.57131%\n Week: 13.56923%\n Month: 230.52652%"
+        },
+        {
+            "name": "Metis",
+            "symbol": "MTS",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/7778.png",
+            "buyHere": [
+                "Binance / Uniswap"
+            ],
+            "price": 0.01662672416335,
+            "percentageChange": 109.17,
+            "backers": [
+                "Binance"
+            ],
+            "consistency": 0,
+            "reason": "----",
+            "moreInfo": "More Pricing Details:\nVolume(24hrs): $247973.01\n.Percentage Changes:\n Hour: -0.32611%\n Day: 109.16597%\n Week: -23.0334%\n Month: 100.23941%"
+        }
+    ],
+    "statuses": [
+        {
+            "Name": "webull-year",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "webull-week",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "webull-day",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "webull-month",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "coinbase-day",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "binance-week",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "coinbase-week",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "binance-day",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "binance-month",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "coinbase-year",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        },
+        {
+            "Name": "coinbase-month",
+            "Status": "200",
+            "Agent": "Mozilla/5.0 (X11; OpenBSD amd64; rv:43.0) Gecko/20100101 Firefox/43.0 SeaMonkey/2.40"
+        }
+    ],
+    "Time Taken": "2.795011399"
+}

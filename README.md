@@ -20,13 +20,17 @@ advanced youtube/tiktok/ analytics/thumbnails for fictional character growth
 - Deep fucking value
 > https://www.youtube.com/watch?v=2Zus6SyQhW4
 
+## Steps to create and use python virtual environment
 ```
-windows
-activate env before using it = ./env/Scripts/activate
-    - then use py normally
+python3 -m venv env
+source env/bin/activate
+which python
+pip install -r requirements.txt
+pyinstaller --onefile -w stockTrend.py && mv dist/stockTrend . && rm -r build dist && rm stockTrend.spec
 
-deactivate env = deactivate 
+leave environment - "deactivate"
 ```
+
 ## Steps to replicate go fiber server
 - go mod init {name of project / or github repo url}
 - go get -u github.com/gofiber/fiber/v2

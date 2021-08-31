@@ -1,7 +1,9 @@
 import json 
 
+finalJson = {}
+
 def parseWebull():
-    webullJsonList =  ["5am/webull-day.json","5am/webull-week.json","5am/webull-month.json","5am/webull-year.json"]
+    webullJsonList =  ["apiJson/webull-day.json","apiJson/webull-week.json","apiJson/webull-month.json","apiJson/webull-year.json"]
     payload = {}
     count = 1
     for webull in webullJsonList:
@@ -15,7 +17,7 @@ def parseWebull():
                     payload[stockSymbol]["consistency"]+=1
 
         else:
-            for stock in data[0:10]:
+            for stock in data[0:20]:
                 listing = {}
                 stockData = stock["ticker"]
                 stockValues = stock["values"]
@@ -32,12 +34,11 @@ def parseWebull():
                 payload[stockData["symbol"]]=listing        
         count+=1
 
-    with open("5am/res/stocks.json", "w") as outputFile:
-        json.dump({"listings":[payload[stock] for stock in payload]}, outputFile, indent = 4, ensure_ascii=False)
+    finalJson["stock"] = [payload[stock] for stock in payload]
 
 def parseCoinbase():
 
-    coinbaseList =  ["5am/coinbase-day.json","5am/coinbase-week.json","5am/coinbase-month.json","5am/coinbase-year.json"]
+    coinbaseList =  ["apiJson/coinbase-day.json","apiJson/coinbase-week.json","apiJson/coinbase-month.json","apiJson/coinbase-year.json"]
     payload = {}
     count = 1
     for coin in coinbaseList:
@@ -51,7 +52,7 @@ def parseCoinbase():
                     payload[stockSymbol]["consistency"]+=1
 
         else:
-            for stock in data[0:10]:
+            for stock in data[0:20]:
                 listing = {}
 
                 listing["name"],listing["symbol"]= stock["name"],stock["symbol"]
@@ -73,11 +74,10 @@ def parseCoinbase():
         print(payload[load]["symbol"],payload[load]["consistency"])
     """
 
-    with open("5am/res/safe-crypto.json", "w") as outputFile:
-        json.dump({"listings":[payload[stock] for stock in payload]}, outputFile, indent = 4, ensure_ascii=False)
+    finalJson["safe-crypto"] = [payload[stock] for stock in payload]   
 
 def parseBinance():
-    binanceList =  ["5am/binance-day.json","5am/binance-week.json","5am/binance-month.json"]
+    binanceList =  ["apiJson/binance-day.json","apiJson/binance-week.json","apiJson/binance-month.json"]
     payload = {}
     count = 1
     for coin in binanceList:
@@ -113,5 +113,12 @@ def parseBinance():
                 payload[stock["symbol"]]=listing        
         count+=1
 
-    with open("5am/res/risky-crypto.json", "w") as outputFile:
-        json.dump({"listings":[payload[stock] for stock in payload]}, outputFile, indent = 4, ensure_ascii=False)
+    finalJson["risky-crypto"] = [payload[stock] for stock in payload]
+
+def requestData():
+    parseWebull() # add ["stock"] to finalJson
+    parseCoinbase() # adds ["safe-crypto"] to the finalJson
+    parseBinance() # adds ["risky-crypto"] to the finalJson
+
+    return finalJson
+    

@@ -1,0 +1,344 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": {
+        "body": {
+            "data": {
+                "gainerList": [
+                    {
+                        "id": 8054,
+                        "name": "XLMDOWN",
+                        "symbol": "XLMDOWN",
+                        "slug": "xlmdown",
+                        "rank": 3407,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 10.87764584197164,
+                            "priceChange1h": 1.28101359,
+                            "priceChange24h": 5.45710217,
+                            "priceChange7d": 12808226.71082148,
+                            "priceChange30d": 5458537.59066505,
+                            "volume24h": 171348.26692587
+                        }
+                    },
+                    {
+                        "id": 9854,
+                        "name": "Tiger King",
+                        "symbol": "TKING",
+                        "slug": "tiger-king",
+                        "rank": 993,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.564858988e-05,
+                            "priceChange1h": -9.6852029,
+                            "priceChange24h": 4.85996634,
+                            "priceChange7d": 2649.03844466,
+                            "priceChange30d": -21.26305588,
+                            "volume24h": 108690.28697199
+                        }
+                    },
+                    {
+                        "id": 8784,
+                        "name": "NFTL Token",
+                        "symbol": "NFTL",
+                        "slug": "nftl-token",
+                        "rank": 2911,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.03881651475822,
+                            "priceChange1h": -11.38398406,
+                            "priceChange24h": 306.78443546,
+                            "priceChange7d": 573.91904253,
+                            "priceChange30d": 441.88743363,
+                            "volume24h": 1145964.54541049
+                        }
+                    },
+                    {
+                        "id": 9046,
+                        "name": "8PAY",
+                        "symbol": "8PAY",
+                        "slug": "8pay",
+                        "rank": 1451,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.21808816503627,
+                            "priceChange1h": 13.12129522,
+                            "priceChange24h": 86.53922039,
+                            "priceChange7d": 541.56504945,
+                            "priceChange30d": 974.76105771,
+                            "volume24h": 3998556.14608602
+                        }
+                    },
+                    {
+                        "id": 10366,
+                        "name": "Cake Monster",
+                        "symbol": "MONSTA",
+                        "slug": "cake-monster",
+                        "rank": 2844,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00351749634893,
+                            "priceChange1h": -1.943318,
+                            "priceChange24h": 19.03756514,
+                            "priceChange7d": 472.64108921,
+                            "priceChange30d": 1023.03917228,
+                            "volume24h": 1592083.01810098
+                        }
+                    },
+                    {
+                        "id": 10046,
+                        "name": "Dotmoovs",
+                        "symbol": "MOOV",
+                        "slug": "dotmoovs",
+                        "rank": 2683,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.06467373447624,
+                            "priceChange1h": -9.04701156,
+                            "priceChange24h": -29.79736657,
+                            "priceChange7d": 364.46081978,
+                            "priceChange30d": 1033.01962014,
+                            "volume24h": 8139898.66895823
+                        }
+                    },
+                    {
+                        "id": 5523,
+                        "name": "Aragon Court",
+                        "symbol": "ANJ",
+                        "slug": "aragon-court",
+                        "rank": 461,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.55356916796705,
+                            "priceChange1h": -1.17606795,
+                            "priceChange24h": 239.99738682,
+                            "priceChange7d": 356.79899533,
+                            "priceChange30d": 833.61108681,
+                            "volume24h": 245708.1513401
+                        }
+                    },
+                    {
+                        "id": 9865,
+                        "name": "Ispolink",
+                        "symbol": "ISP",
+                        "slug": "ispolink",
+                        "rank": 883,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00850557610852,
+                            "priceChange1h": -3.29417039,
+                            "priceChange24h": -28.00452016,
+                            "priceChange7d": 317.83687769,
+                            "priceChange30d": 1050.04290254,
+                            "volume24h": 11930037.50292637
+                        }
+                    },
+                    {
+                        "id": 7249,
+                        "name": "Yearn Finance Passive Income",
+                        "symbol": "YFPI",
+                        "slug": "yearn-finance-passive-income",
+                        "rank": 3121,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 39.7069431427265,
+                            "priceChange1h": -0.44471451,
+                            "priceChange24h": 126.59794428,
+                            "priceChange7d": 304.95179716,
+                            "priceChange30d": 554.15500441,
+                            "volume24h": 448242.61077504
+                        }
+                    },
+                    {
+                        "id": 11250,
+                        "name": "VIRVIA ONLINE SHOPPING",
+                        "symbol": "VDV",
+                        "slug": "virvia-online-shopping",
+                        "rank": 3062,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00063102961707,
+                            "priceChange1h": 0.88968102,
+                            "priceChange24h": 38.85235404,
+                            "priceChange7d": 304.42838113,
+                            "priceChange30d": 0.0,
+                            "volume24h": 552809.60583111
+                        }
+                    }
+                ],
+                "loserList": [
+                    {
+                        "id": 9971,
+                        "name": "TCGcoin",
+                        "symbol": "TCGCOIN",
+                        "slug": "tcgcoin",
+                        "rank": 3593,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 9.338e-11,
+                            "priceChange1h": -1.0608585,
+                            "priceChange24h": -23.55402231,
+                            "priceChange7d": -96.12748363,
+                            "priceChange30d": -94.61672873,
+                            "volume24h": 100781.0747282
+                        }
+                    },
+                    {
+                        "id": 11257,
+                        "name": "Republic of Dogs",
+                        "symbol": "ROD",
+                        "slug": "republic-of-dogs",
+                        "rank": 3320,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.1663e-10,
+                            "priceChange1h": -0.19817438,
+                            "priceChange24h": -85.60044119,
+                            "priceChange7d": -95.27239264,
+                            "priceChange30d": 0.0,
+                            "volume24h": 224170.69626201
+                        }
+                    },
+                    {
+                        "id": 372,
+                        "name": "Bytecoin",
+                        "symbol": "BCN",
+                        "slug": "bytecoin-bcn",
+                        "rank": 465,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00035762661677,
+                            "priceChange1h": -4.79178774,
+                            "priceChange24h": -5.96247357,
+                            "priceChange7d": -83.51595945,
+                            "priceChange30d": -68.46612228,
+                            "volume24h": 96956.90615675
+                        }
+                    },
+                    {
+                        "id": 5858,
+                        "name": "QANplatform",
+                        "symbol": "QANX",
+                        "slug": "qanplatform",
+                        "rank": 1987,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.02092533967336,
+                            "priceChange1h": -2.61577065,
+                            "priceChange24h": -1.63215897,
+                            "priceChange7d": -82.76702347,
+                            "priceChange30d": -82.18018772,
+                            "volume24h": 257946.48384697
+                        }
+                    },
+                    {
+                        "id": 7030,
+                        "name": "Betherchip",
+                        "symbol": "BEC",
+                        "slug": "betherchip",
+                        "rank": 3277,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.4303710849824,
+                            "priceChange1h": -0.14949595,
+                            "priceChange24h": -14.4616115,
+                            "priceChange7d": -76.4866224,
+                            "priceChange30d": -88.91346911,
+                            "volume24h": 255627.31229647
+                        }
+                    },
+                    {
+                        "id": 9533,
+                        "name": "GreenTrust",
+                        "symbol": "GNT",
+                        "slug": "greentrust",
+                        "rank": 3063,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 3.90514514e-06,
+                            "priceChange1h": -1.02612704,
+                            "priceChange24h": -11.88527042,
+                            "priceChange7d": -75.53858515,
+                            "priceChange30d": -56.79337829,
+                            "volume24h": 554127.05693408
+                        }
+                    },
+                    {
+                        "id": 4842,
+                        "name": "Folgory Coin",
+                        "symbol": "FLG",
+                        "slug": "folgory-coin",
+                        "rank": 566,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.46452136574677,
+                            "priceChange1h": 0.14550551,
+                            "priceChange24h": 0.24537573,
+                            "priceChange7d": -74.98926915,
+                            "priceChange30d": 324.58756438,
+                            "volume24h": 347146.59238714
+                        }
+                    },
+                    {
+                        "id": 10963,
+                        "name": "Wolfystreetbets",
+                        "symbol": "WOLFY",
+                        "slug": "wolfystreetbets",
+                        "rank": 3703,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00169659000091,
+                            "priceChange1h": -25.77362023,
+                            "priceChange24h": -32.41855106,
+                            "priceChange7d": -74.30319299,
+                            "priceChange30d": -39.75897559,
+                            "volume24h": 83448.67013624
+                        }
+                    },
+                    {
+                        "id": 5840,
+                        "name": "Insight Protocol",
+                        "symbol": "INX",
+                        "slug": "insight-protocol",
+                        "rank": 2191,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00094326078558,
+                            "priceChange1h": -0.25413199,
+                            "priceChange24h": -17.88687363,
+                            "priceChange7d": -73.18853232,
+                            "priceChange30d": 71.61533666,
+                            "volume24h": 63620.50901734
+                        }
+                    },
+                    {
+                        "id": 11254,
+                        "name": "Minifootball",
+                        "symbol": "MINIFOOTBALL",
+                        "slug": "minifootball",
+                        "rank": 2759,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.9634e-10,
+                            "priceChange1h": -0.11694174,
+                            "priceChange24h": -16.81560495,
+                            "priceChange7d": -73.09229695,
+                            "priceChange30d": 0.0,
+                            "volume24h": 3049730.10347325
+                        }
+                    }
+                ]
+            },
+            "status": {
+                "timestamp": "2021-08-30T21:39:22.787Z",
+                "error_code": "0",
+                "error_message": "SUCCESS",
+                "elapsed": "7",
+                "credit_count": 0
+            }
+        },
+        "success": true
+    },
+    "success": true
+}
