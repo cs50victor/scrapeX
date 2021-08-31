@@ -1,3 +1,5 @@
+# https://early-stocks.herokuapp.com/5am
+
 # Personal scrapper Go Graphql API 
 > what I want to use it for
 ```
