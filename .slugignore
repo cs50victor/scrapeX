@@ -2,6 +2,8 @@
 *
 
 # except these files
+!*.go
+!go.*
+!Procfile
 !stockTrend
-!scrapper
 !5am.json
