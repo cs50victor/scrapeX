@@ -50,8 +50,9 @@ func checkStatus(c *fiber.Ctx) error{
 	currentTime := time.Now()
 	sixHoursAgo := currentTime.Add(-6 * time.Hour)
 	makeNewRequest := sixHoursAgo.After(lastModified)
+	pythonExecStatus := pythonRequests()
 
-	status := map[string]string{"File-last-modified": lastModified.Format("2006-01-02 3:4:5pm"),"Time_[6_Hours_Ago]": sixHoursAgo.Format("2006-01-02 3:4:5pm"),"Make_new_Request?": strconv.FormatBool(makeNewRequest)}
+	status := map[string]string{"PythonRequestStatus":pythonExecStatus,"File-last-modified": lastModified.Format("2006-01-02 3:4:5pm"),"Time_[6_Hours_Ago]": sixHoursAgo.Format("2006-01-02 3:4:5pm"),"Make_new_Request?": strconv.FormatBool(makeNewRequest)}
 	
 	return c.JSON(status)
 }
@@ -77,16 +78,19 @@ func shouldMakeRequest() bool{
 	return makeNewRequest
 }
 
-func pythonRequests(){
+func pythonRequests()string {
 
 	cmd := exec.Command("./stockTrend")	
 	err := cmd.Run()
+	runStatus := ".."
 	
 	if err != nil {
-		fmt.Printf("Python exec run error: %s\n",err)
+		runStatus = fmt.Sprintf("Python exec run error: %s", err)
 	}else{
-		fmt.Println("Python exec ran successfully! New Requests Complete")
+		runStatus = "Python exec ran successfully! New Requests Complete"
 	}
+
+	return runStatus
 }
 
 // MAIN GO-FIBER SERVER
