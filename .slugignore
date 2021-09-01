@@ -1,6 +1,7 @@
-/apiJson
-/scrapperBee
-/utils
+apiJson/
+scrapperBee/
+utils/
+requirements.txt
 *.py
 
 
