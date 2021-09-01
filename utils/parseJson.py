@@ -29,6 +29,7 @@ def parseWebull():
                 listing["percentageChange"]= round(float(stockValues["changeRatio"])*100,2)
                 listing["backers"]= ["WeBull"]
                 listing["consistency"]= 1
+                listing["listingsCompared"]=4
                 listing["reason"]="----"
                 listing["moreInfo"]= f"This stock has increased by +${stockData['change']} in the past 24 hours.\nMarketValue: ${stockData['marketValue']}\nVolume: {stockData['volume']}\nTurn Over Rate: {round(float(stockData['turnoverRate'])*100,2)}%\nYear-High: ${stockData.get('fiftyTwoWkHigh')}\nYear-Low: ${stockData.get('fiftyTwoWkLow')}\nLowest-Price Today:${stockData['low']}\nHighest-Price Today: ${stockData['high']}."
                 payload[stockData["symbol"]]=listing        
@@ -46,7 +47,9 @@ def parseCoinbase():
         data = json.load(f).get("data")
         
         if count > 1:
+            
             for stock in data:
+                listing["listingsCompared"]+=1
                 stockSymbol = stock["symbol"]
                 if payload.get(stockSymbol):
                     payload[stockSymbol]["consistency"]+=1
@@ -62,6 +65,7 @@ def parseCoinbase():
                 listing["percentageChange"]= round(float(stock["percent_change"])*100,2)
                 listing["backers"]= ["Coinbase"]
                 listing["consistency"]= 1
+                listing["listingsCompared"]=4
                 listing["reason"]="----"
                 lastestPrice = stock['latest_price']['percent_change']
                 listing["moreInfo"]= f"This stock was launched {stock['launched_at']}\nDescription: {stock['description']}\nMarket-Cap: ${stock['market_cap']}\nVolume(24hrs): ${stock['volume_24h']}\nCirculating Supply: ${round(float(stock['circulating_supply'])*100,2)}\n.Percentage Changes:\n Hour: {round(float(lastestPrice['hour'])*100,5)}%\n Day: {round(float(lastestPrice['day'])*100,5)}%\n Week: {round(float(lastestPrice['week'])*100,5)}%\n Month: {round(float(lastestPrice['month'])*100,5)}%\n Day: {round(float(lastestPrice['year'])*100,5)}%\n All Time: {round(float(lastestPrice['all'])*100,5)}%"
@@ -85,6 +89,7 @@ def parseBinance():
         data = json.load(f)["data"]["body"]["data"]
         
         if count > 1:
+            
             for stock in data["gainerList"]:
                 stockSymbol = stock["symbol"]
                 if payload.get(stockSymbol):
@@ -93,7 +98,7 @@ def parseBinance():
             for stock in data["loserList"]:
                 stockSymbol = stock["symbol"]
                 if payload.get(stockSymbol):
-                    payload[stockSymbol]["consistency"]-=2
+                    payload[stockSymbol]["consistency"]-=1
 
         else:
             for stock in data["gainerList"][0:10]:
@@ -106,7 +111,8 @@ def parseBinance():
                 listing["price"] = pricing["price"]
                 listing["percentageChange"]= round(float(pricing["priceChange24h"]),2)
                 listing["backers"]= ["Binance"]
-                listing["consistency"]= 0
+                listing["consistency"]= 1
+                listing["listingsCompared"]=3
                 listing["reason"]="----"
                 
                 listing["moreInfo"]= f"More Pricing Details:\nVolume(24hrs): ${round(float(pricing['volume24h']),2)}\n.Percentage Changes:\n Hour: {round(float(pricing['priceChange1h']),5)}%\n Day: {round(float(pricing['priceChange24h']),5)}%\n Week: {round(float(pricing['priceChange7d']),5)}%\n Month: {round(float(pricing['priceChange30d']),5)}%"

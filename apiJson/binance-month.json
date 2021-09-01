@@ -11,15 +11,15 @@
                         "name": "LTCDOWN",
                         "symbol": "LTCDOWN",
                         "slug": "ltcdown",
-                        "rank": 3281,
+                        "rank": 3387,
                         "status": "active",
                         "priceChange": {
-                            "price": 5.60439363622966,
-                            "priceChange1h": 2.01253002,
-                            "priceChange24h": 2.74341491,
-                            "priceChange7d": 19.69254023,
-                            "priceChange30d": 6531626.45522921,
-                            "volume24h": 257377.57444862
+                            "price": 5.74226539696425,
+                            "priceChange1h": -3.26204543,
+                            "priceChange24h": -5.47777596,
+                            "priceChange7d": 3.79163269,
+                            "priceChange30d": 6200611.24842842,
+                            "volume24h": 201073.51946891
                         }
                     },
                     {
@@ -27,15 +27,15 @@
                         "name": "XLMDOWN",
                         "symbol": "XLMDOWN",
                         "slug": "xlmdown",
-                        "rank": 3407,
+                        "rank": 3317,
                         "status": "active",
                         "priceChange": {
-                            "price": 10.87764584197164,
-                            "priceChange1h": 1.28101359,
-                            "priceChange24h": 5.45710217,
-                            "priceChange7d": 12808226.71082148,
-                            "priceChange30d": 5458537.59066505,
-                            "volume24h": 171348.26692587
+                            "price": 10.71209153857801,
+                            "priceChange1h": -3.07264537,
+                            "priceChange24h": -7.51651658,
+                            "priceChange7d": 10809985.81617438,
+                            "priceChange30d": 4994238.8536587,
+                            "volume24h": 252092.36349763
                         }
                     },
                     {
@@ -43,15 +43,15 @@
                         "name": "UNIDOWN",
                         "symbol": "UNIDOWN",
                         "slug": "unidown",
-                        "rank": 3039,
+                        "rank": 2878,
                         "status": "active",
                         "priceChange": {
-                            "price": 4.19078988614175,
-                            "priceChange1h": -1.51054465,
-                            "priceChange24h": -12.08556898,
-                            "priceChange7d": 3.52716338,
-                            "priceChange30d": 3945233.24341829,
-                            "volume24h": 631120.63593068
+                            "price": 3.54342289501909,
+                            "priceChange1h": -7.87951869,
+                            "priceChange24h": -23.10391023,
+                            "priceChange7d": -26.27541507,
+                            "priceChange30d": 3412254.51243489,
+                            "volume24h": 1402598.57684089
                         }
                     },
                     {
@@ -59,15 +59,15 @@
                         "name": "Zugacoin",
                         "symbol": "SZCB",
                         "slug": "zugacoin",
-                        "rank": 2989,
+                        "rank": 3015,
                         "status": "active",
                         "priceChange": {
-                            "price": 189915.0588576028,
-                            "priceChange1h": 1.68024384,
-                            "priceChange24h": -4.60054034,
-                            "priceChange7d": 2.63264761,
-                            "priceChange30d": 377353.30012051,
-                            "volume24h": 741553.18944026
+                            "price": 185788.87762418165,
+                            "priceChange1h": 1.29049076,
+                            "priceChange24h": 1.02291755,
+                            "priceChange7d": 2.01810678,
+                            "priceChange30d": 365781.7283231,
+                            "volume24h": 719764.26376619
                         }
                     },
                     {
@@ -75,15 +75,15 @@
                         "name": "TacoCat Token",
                         "symbol": "TCT",
                         "slug": "tacocat-token",
-                        "rank": 3120,
+                        "rank": 3137,
                         "status": "active",
                         "priceChange": {
-                            "price": 4.97849674e-06,
-                            "priceChange1h": 0.30211835,
-                            "priceChange24h": 9.34626982,
-                            "priceChange7d": 7.31533654,
-                            "priceChange30d": 5901.94403281,
-                            "volume24h": 450730.93746555
+                            "price": 4.53577561e-06,
+                            "priceChange1h": -0.28762524,
+                            "priceChange24h": -7.78297961,
+                            "priceChange7d": -0.42037453,
+                            "priceChange30d": 5409.49178672,
+                            "volume24h": 451874.9414618
                         }
                     },
                     {
@@ -91,31 +91,15 @@
                         "name": "OptionRoom",
                         "symbol": "ROOM",
                         "slug": "optionroom",
-                        "rank": 1497,
+                        "rank": 1509,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.16045099287076,
-                            "priceChange1h": -0.90014935,
-                            "priceChange24h": 0.34275201,
-                            "priceChange7d": -31.53022807,
-                            "priceChange30d": 4169.72585621,
-                            "volume24h": 233508.48581167
-                        }
-                    },
-                    {
-                        "id": 10329,
-                        "name": "TasteNFT",
-                        "symbol": "TASTE",
-                        "slug": "tastenft",
-                        "rank": 2999,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 1.676698e-08,
-                            "priceChange1h": -0.41551329,
-                            "priceChange24h": -2.62568731,
-                            "priceChange7d": -50.75522178,
-                            "priceChange30d": 2584.56382407,
-                            "volume24h": 702538.87167818
+                            "price": 0.15280051206524,
+                            "priceChange1h": 0.26406377,
+                            "priceChange24h": -3.07765829,
+                            "priceChange7d": -17.89715663,
+                            "priceChange30d": 3980.95860109,
+                            "volume24h": 115950.76935706
                         }
                     },
                     {
@@ -123,15 +107,15 @@
                         "name": "Alchemy Pay",
                         "symbol": "ACH",
                         "slug": "alchemy-pay",
-                        "rank": 242,
+                        "rank": 241,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.10201411966377,
-                            "priceChange1h": -0.85023511,
-                            "priceChange24h": -6.45253922,
-                            "priceChange7d": -15.6729443,
-                            "priceChange30d": 2059.72344899,
-                            "volume24h": 115602320.57823578
+                            "price": 0.09870755618964,
+                            "priceChange1h": 0.84363851,
+                            "priceChange24h": -1.47939108,
+                            "priceChange7d": -10.83590002,
+                            "priceChange30d": 2178.38211513,
+                            "volume24h": 122510796.9994957
                         }
                     },
                     {
@@ -139,65 +123,65 @@
                         "name": "Jade Currency",
                         "symbol": "JADE",
                         "slug": "jade-currency",
-                        "rank": 931,
+                        "rank": 862,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.21212863980713,
-                            "priceChange1h": 0.73368635,
-                            "priceChange24h": 5.51881416,
-                            "priceChange7d": -50.09359689,
-                            "priceChange30d": 1310.44402597,
-                            "volume24h": 748942.52781775
+                            "price": 0.27245575908152,
+                            "priceChange1h": 7.59558003,
+                            "priceChange24h": 24.59387142,
+                            "priceChange7d": -14.760202,
+                            "priceChange30d": 1852.75337676,
+                            "volume24h": 1023623.28706128
                         }
                     },
                     {
-                        "id": 9865,
-                        "name": "Ispolink",
-                        "symbol": "ISP",
-                        "slug": "ispolink",
-                        "rank": 883,
+                        "id": 10329,
+                        "name": "TasteNFT",
+                        "symbol": "TASTE",
+                        "slug": "tastenft",
+                        "rank": 3057,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00850557610852,
-                            "priceChange1h": -3.29417039,
-                            "priceChange24h": -28.00452016,
-                            "priceChange7d": 317.83687769,
-                            "priceChange30d": 1050.04290254,
-                            "volume24h": 11930037.50292637
+                            "price": 1.335424e-08,
+                            "priceChange1h": 0.5411323,
+                            "priceChange24h": -15.72977499,
+                            "priceChange7d": -58.3584684,
+                            "priceChange30d": 1823.07755259,
+                            "volume24h": 591860.7675312
+                        }
+                    },
+                    {
+                        "id": 10185,
+                        "name": "Moonlana",
+                        "symbol": "MOLA",
+                        "slug": "moonlana",
+                        "rank": 3294,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00110940992994,
+                            "priceChange1h": -3.28838103,
+                            "priceChange24h": 27.43318197,
+                            "priceChange7d": 26.03596817,
+                            "priceChange30d": 1286.24948608,
+                            "volume24h": 272071.86970995
                         }
                     }
                 ],
                 "loserList": [
                     {
-                        "id": 10471,
-                        "name": "Bitcoin Networks",
-                        "symbol": "BTCN",
-                        "slug": "bitcoin-networks",
-                        "rank": 3798,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.00480877483526,
-                            "priceChange1h": -2.41642855,
-                            "priceChange24h": -4.11577322,
-                            "priceChange7d": -27.22686421,
-                            "priceChange30d": -98.79837036,
-                            "volume24h": 53722.21303228
-                        }
-                    },
-                    {
                         "id": 7419,
                         "name": "DAOFi",
                         "symbol": "DAOFI",
                         "slug": "daofi",
-                        "rank": 3677,
+                        "rank": 3805,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00360153821678,
-                            "priceChange1h": 24.1324144,
-                            "priceChange24h": 2.77909357,
-                            "priceChange7d": -45.34087798,
-                            "priceChange30d": -97.29810088,
-                            "volume24h": 68316.64699622
+                            "price": 0.00370210523937,
+                            "priceChange1h": 53.68793074,
+                            "priceChange24h": 2.76782454,
+                            "priceChange7d": -54.2224102,
+                            "priceChange30d": -96.19136243,
+                            "volume24h": 81783.26059877
                         }
                     },
                     {
@@ -205,31 +189,15 @@
                         "name": "Idea Chain Coin",
                         "symbol": "ICH",
                         "slug": "idea-chain-coin",
-                        "rank": 3360,
+                        "rank": 3485,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.15710535673015,
-                            "priceChange1h": -0.56125186,
-                            "priceChange24h": -1.88557255,
-                            "priceChange7d": -37.81901373,
-                            "priceChange30d": -94.67931408,
-                            "volume24h": 194067.69950652
-                        }
-                    },
-                    {
-                        "id": 9971,
-                        "name": "TCGcoin",
-                        "symbol": "TCGCOIN",
-                        "slug": "tcgcoin",
-                        "rank": 3593,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 9.338e-11,
-                            "priceChange1h": -1.0608585,
-                            "priceChange24h": -23.55402231,
-                            "priceChange7d": -96.12748363,
-                            "priceChange30d": -94.61672873,
-                            "volume24h": 100781.0747282
+                            "price": 0.14720239597764,
+                            "priceChange1h": 1.0670194,
+                            "priceChange24h": -4.11535767,
+                            "priceChange7d": -32.88072018,
+                            "priceChange30d": -94.72365065,
+                            "volume24h": 159085.74455884
                         }
                     },
                     {
@@ -237,47 +205,47 @@
                         "name": "3X Short Cosmos Token",
                         "symbol": "ATOMBEAR",
                         "slug": "3x-short-cosmos-token",
-                        "rank": 3356,
+                        "rank": 3043,
                         "status": "active",
                         "priceChange": {
-                            "price": 3.4678248e-07,
-                            "priceChange1h": 10.77589638,
-                            "priceChange24h": -17.90809181,
-                            "priceChange7d": -31.16316128,
-                            "priceChange30d": -92.6019907,
-                            "volume24h": 173364.48175243
+                            "price": 3.1580559e-07,
+                            "priceChange1h": -6.82123194,
+                            "priceChange24h": -23.75450372,
+                            "priceChange7d": -50.16562537,
+                            "priceChange30d": -93.57546922,
+                            "volume24h": 619384.71787998
                         }
                     },
                     {
-                        "id": 10844,
-                        "name": "Zerogoki",
-                        "symbol": "REI",
-                        "slug": "zerogoki",
-                        "rank": 3358,
+                        "id": 10794,
+                        "name": "$OFC Coin",
+                        "symbol": "OFC",
+                        "slug": "ofc-coin",
+                        "rank": 3678,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.4128169444162,
-                            "priceChange1h": -0.85954393,
-                            "priceChange24h": -3.63620433,
-                            "priceChange7d": -44.98783256,
-                            "priceChange30d": -92.40226844,
-                            "volume24h": 197062.16473519
+                            "price": 3.973386e-08,
+                            "priceChange1h": 1.96678526,
+                            "priceChange24h": -65.49682523,
+                            "priceChange7d": -94.8031111,
+                            "priceChange30d": -93.56023638,
+                            "volume24h": 57933.9704253
                         }
                     },
                     {
-                        "id": 5463,
-                        "name": "3x Short Tezos Token",
-                        "symbol": "XTZBEAR",
-                        "slug": "3x-short-tezos-token",
-                        "rank": 3490,
+                        "id": 7630,
+                        "name": "Ethereum Lightning",
+                        "symbol": "ETLT",
+                        "slug": "ethereumlightning",
+                        "rank": 3361,
                         "status": "active",
                         "priceChange": {
-                            "price": 1.68879614e-05,
-                            "priceChange1h": 3.26030876,
-                            "priceChange24h": 20.11771702,
-                            "priceChange7d": -71.1086802,
-                            "priceChange30d": -91.11787438,
-                            "volume24h": 131609.01811217
+                            "price": 0.30650445994115,
+                            "priceChange1h": 0.20271645,
+                            "priceChange24h": -86.27895866,
+                            "priceChange7d": -86.23592704,
+                            "priceChange30d": -92.47291441,
+                            "volume24h": 228085.00434454
                         }
                     },
                     {
@@ -285,31 +253,31 @@
                         "name": "ADADOWN",
                         "symbol": "ADADOWN",
                         "slug": "adadown",
-                        "rank": 2784,
+                        "rank": 2830,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00327739977727,
-                            "priceChange1h": 1.04424479,
-                            "priceChange24h": 6.45026913,
-                            "priceChange7d": -4.30112627,
-                            "priceChange30d": -90.46132443,
-                            "volume24h": 2483079.9291815
+                            "price": 0.00336691462986,
+                            "priceChange1h": -3.45839378,
+                            "priceChange24h": -3.4249677,
+                            "priceChange7d": -11.31096129,
+                            "priceChange30d": -90.3922769,
+                            "volume24h": 1934439.71279349
                         }
                     },
                     {
-                        "id": 7030,
-                        "name": "Betherchip",
-                        "symbol": "BEC",
-                        "slug": "betherchip",
-                        "rank": 3277,
+                        "id": 10648,
+                        "name": "EIFI FINANCE",
+                        "symbol": "EIFI",
+                        "slug": "eifi-finance",
+                        "rank": 3083,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.4303710849824,
-                            "priceChange1h": -0.14949595,
-                            "priceChange24h": -14.4616115,
-                            "priceChange7d": -76.4866224,
-                            "priceChange30d": -88.91346911,
-                            "volume24h": 255627.31229647
+                            "price": 17.36096183456654,
+                            "priceChange1h": -1.41343002,
+                            "priceChange24h": -30.58104152,
+                            "priceChange7d": -78.05025861,
+                            "priceChange30d": -89.34400808,
+                            "volume24h": 541542.54063064
                         }
                     },
                     {
@@ -317,21 +285,53 @@
                         "name": "CryptoBank",
                         "symbol": "CBANK",
                         "slug": "cryptobank",
-                        "rank": 3327,
+                        "rank": 3453,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00926530543543,
-                            "priceChange1h": -0.00952388,
-                            "priceChange24h": -8.90582007,
-                            "priceChange7d": -46.07299932,
-                            "priceChange30d": -87.96439351,
-                            "volume24h": 218477.16895313
+                            "price": 0.00845261569793,
+                            "priceChange1h": -0.11313087,
+                            "priceChange24h": -8.77756371,
+                            "priceChange7d": -40.99024725,
+                            "priceChange30d": -89.31489137,
+                            "volume24h": 173994.58424901
+                        }
+                    },
+                    {
+                        "id": 7030,
+                        "name": "Betherchip",
+                        "symbol": "BEC",
+                        "slug": "betherchip",
+                        "rank": 3442,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.38818694792518,
+                            "priceChange1h": 0.56224759,
+                            "priceChange24h": -9.81530047,
+                            "priceChange7d": -76.67372882,
+                            "priceChange30d": -88.87163536,
+                            "volume24h": 178175.89553105
+                        }
+                    },
+                    {
+                        "id": 10844,
+                        "name": "Zerogoki",
+                        "symbol": "REI",
+                        "slug": "zerogoki",
+                        "rank": 3331,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.43972278350745,
+                            "priceChange1h": -1.14660239,
+                            "priceChange24h": 5.35063895,
+                            "priceChange7d": -34.80806141,
+                            "priceChange30d": -88.84894889,
+                            "volume24h": 242563.1083101
                         }
                     }
                 ]
             },
             "status": {
-                "timestamp": "2021-08-30T21:39:23.337Z",
+                "timestamp": "2021-08-31T23:38:52.523Z",
                 "error_code": "0",
                 "error_message": "SUCCESS",
                 "elapsed": "9",
