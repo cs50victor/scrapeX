@@ -82,7 +82,7 @@ func pythonRequests()string {
 
 	cmd := exec.Command("./stockTrend")	
 	err := cmd.Run()
-	runStatus := ".."
+	runStatus := "..."
 	
 	if err != nil {
 		runStatus = fmt.Sprintf("Python exec run error: %s", err)
