@@ -1,1 +1,1 @@
-web: mv ./stockTrend ./bin/ && ./bin/scrapper
+web: ./bin/scrapper && mv ./stockTrend ./bin/
