@@ -1,1 +1,1 @@
-web: sh -c 'ls && mv ./stockTrend ./bin/ &&  ./scrapper '
+web: sh -c 'ls && go run application.go && ./scrapper'
