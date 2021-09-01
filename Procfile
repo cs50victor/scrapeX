@@ -1,1 +1,1 @@
-web: ./bin/scrapper && mv ./stockTrend ./bin/
+web: sh -c './bin/scrapper && mv ./stockTrend ./bin/'
