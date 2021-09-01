@@ -1,1 +1,1 @@
-web: sh -c 'mv ./stockTrend ./bin/ &&  ls && cd bin && ls && cd .. && ./bin/scrapper'
+web: sh -c 'mv ./stockTrend ./bin &&  ls * && ./bin/scrapper'
