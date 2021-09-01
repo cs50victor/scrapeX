@@ -93,9 +93,10 @@ func pythonRequests(){
 func main() {
 	
 	newRequest := shouldMakeRequest()
-	if (newRequest){
-		pythonRequests()
-	}
+	//if (newRequest){
+	//	pythonRequests()
+	//}
+	pythonRequests()
 	fmt.Println("New Request Made? ",newRequest)
 	
 

@@ -1,4 +1,5 @@
 import time, json
+from datetime import datetime
 from utils.makeRequests import MakeRequest
 from utils.parseJson import requestData
 import concurrent.futures
@@ -49,7 +50,8 @@ def getNewJson():
 
     #end timer
     end = time.perf_counter() - start
-    mainResJson["Time Taken"] = f"{end}"
+    date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    mainResJson["Time Taken"] = f"{end} | {date}"
 
     with open("./5am.json", "w") as outputFile:
         json.dump(mainResJson, outputFile, indent = 4, ensure_ascii=False)
