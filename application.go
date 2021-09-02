@@ -80,7 +80,7 @@ func shouldMakeRequest() bool{
 
 func pythonRequests()string {
 
-	cmd := exec.Command("./stockTrend")	
+	cmd := exec.Command("python","-c","from stockTrend import getNewJson; getNewJson()")
 	err := cmd.Run()
 	runStatus := "..."
 	
@@ -97,10 +97,10 @@ func pythonRequests()string {
 func main() {
 	
 	newRequest := shouldMakeRequest()
-	//if (newRequest){
-	//	pythonRequests()
-	//}
-	pythonRequests()
+	if (newRequest){
+		pythonRequests()
+	}
+	
 	fmt.Println("New Request Made? ",newRequest)
 	
 

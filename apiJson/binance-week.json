@@ -11,15 +11,15 @@
                         "name": "XLMDOWN",
                         "symbol": "XLMDOWN",
                         "slug": "xlmdown",
-                        "rank": 3416,
+                        "rank": 3377,
                         "status": "active",
                         "priceChange": {
-                            "price": 9.87421800291007,
-                            "priceChange1h": -1.45918191,
-                            "priceChange24h": -10.461769,
-                            "priceChange7d": 10199941.78405386,
-                            "priceChange30d": 4531360.97277249,
-                            "volume24h": 201339.15602436
+                            "price": 9.83421090555862,
+                            "priceChange1h": 1.34316966,
+                            "priceChange24h": -7.66423691,
+                            "priceChange7d": 9929791.54127383,
+                            "priceChange30d": 4253357.81319392,
+                            "volume24h": 206887.60529413
                         }
                     },
                     {
@@ -27,31 +27,15 @@
                         "name": "Doge Token",
                         "symbol": "DOGET",
                         "slug": "doge-token",
-                        "rank": 999,
+                        "rank": 1003,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00121897857343,
-                            "priceChange1h": 0.25741105,
-                            "priceChange24h": -0.31030421,
-                            "priceChange7d": 282663.57831363,
-                            "priceChange30d": -36.75643482,
-                            "volume24h": 51938.9661182
-                        }
-                    },
-                    {
-                        "id": 8323,
-                        "name": "PieDAO Balanced Crypto Pie",
-                        "symbol": "BCP",
-                        "slug": "piedao-balanced-crypto-pie",
-                        "rank": 3817,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 3.94297483839473,
-                            "priceChange1h": 0.63343927,
-                            "priceChange24h": 1.49629064,
-                            "priceChange7d": 14252.65807887,
-                            "priceChange30d": 38.86035601,
-                            "volume24h": 65659.49268888
+                            "price": 0.00121168745413,
+                            "priceChange1h": -1.67151695,
+                            "priceChange24h": -3.49303162,
+                            "priceChange7d": 288720.76033121,
+                            "priceChange30d": -36.99494111,
+                            "volume24h": 57373.3225813
                         }
                     },
                     {
@@ -59,63 +43,15 @@
                         "name": "W Green Pay",
                         "symbol": "WGP",
                         "slug": "w-green-pay",
-                        "rank": 1637,
+                        "rank": 1635,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.07386583418474,
-                            "priceChange1h": 0.50960469,
-                            "priceChange24h": 145.25624252,
-                            "priceChange7d": 562.11672009,
-                            "priceChange30d": 694.41624913,
-                            "volume24h": 78492.20793379
-                        }
-                    },
-                    {
-                        "id": 8676,
-                        "name": "Pasta Finance",
-                        "symbol": "PASTA",
-                        "slug": "pasta-finance",
-                        "rank": 3318,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.34871554367314,
-                            "priceChange1h": 0.03580376,
-                            "priceChange24h": 35.25518878,
-                            "priceChange7d": 522.47040836,
-                            "priceChange30d": 564.5243154,
-                            "volume24h": 125143.72723766
-                        }
-                    },
-                    {
-                        "id": 10158,
-                        "name": "SpaceGrime",
-                        "symbol": "GRIMEX",
-                        "slug": "spacegrime",
-                        "rank": 2994,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 7.479e-11,
-                            "priceChange1h": -0.26369658,
-                            "priceChange24h": -8.10633501,
-                            "priceChange7d": 518.1178011,
-                            "priceChange30d": 72.89009231,
-                            "volume24h": 221811.50944124
-                        }
-                    },
-                    {
-                        "id": 10804,
-                        "name": "Floki Inu",
-                        "symbol": "FLOKI",
-                        "slug": "floki-inu",
-                        "rank": 2697,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 2.373869786e-05,
-                            "priceChange1h": 11.5548032,
-                            "priceChange24h": 30.48574737,
-                            "priceChange7d": 386.68040838,
-                            "priceChange30d": 225.152443,
-                            "volume24h": 9766699.92566255
+                            "price": 0.08613123235037,
+                            "priceChange1h": 2.04074653,
+                            "priceChange24h": 185.55963597,
+                            "priceChange7d": 674.20885808,
+                            "priceChange30d": 727.11938994,
+                            "volume24h": 99047.00042411
                         }
                     },
                     {
@@ -123,15 +59,63 @@
                         "name": "BAEPAY",
                         "symbol": "BAEPAY",
                         "slug": "baepay",
-                        "rank": 3118,
+                        "rank": 3060,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.39738227954245,
-                            "priceChange1h": -13.62956664,
-                            "priceChange24h": 431.61246766,
-                            "priceChange7d": 370.37107088,
-                            "priceChange30d": 400.29344593,
-                            "volume24h": 524983.27368849
+                            "price": 0.58826459546619,
+                            "priceChange1h": 26.29903404,
+                            "priceChange24h": 676.75212583,
+                            "priceChange7d": 609.13927256,
+                            "priceChange30d": 682.92563885,
+                            "volume24h": 566418.5219787
+                        }
+                    },
+                    {
+                        "id": 8676,
+                        "name": "Pasta Finance",
+                        "symbol": "PASTA",
+                        "slug": "pasta-finance",
+                        "rank": 3525,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.3471027751566,
+                            "priceChange1h": -0.20016787,
+                            "priceChange24h": 33.5211606,
+                            "priceChange7d": 529.56796124,
+                            "priceChange30d": 567.33736477,
+                            "volume24h": 129765.10144675
+                        }
+                    },
+                    {
+                        "id": 10158,
+                        "name": "SpaceGrime",
+                        "symbol": "GRIMEX",
+                        "slug": "spacegrime",
+                        "rank": 3302,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 6.879e-11,
+                            "priceChange1h": -3.12384222,
+                            "priceChange24h": -16.10761019,
+                            "priceChange7d": 475.6632606,
+                            "priceChange30d": 70.31879089,
+                            "volume24h": 263096.40246912
+                        }
+                    },
+                    {
+                        "id": 10804,
+                        "name": "Floki Inu",
+                        "symbol": "FLOKI",
+                        "slug": "floki-inu",
+                        "rank": 2701,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 2.075240439e-05,
+                            "priceChange1h": -5.06190658,
+                            "priceChange24h": 12.71833188,
+                            "priceChange7d": 418.68390359,
+                            "priceChange30d": 251.44255025,
+                            "volume24h": 9861115.94388609
                         }
                     },
                     {
@@ -139,49 +123,81 @@
                         "name": "PROXI",
                         "symbol": "CREDIT",
                         "slug": "proxi",
-                        "rank": 2768,
+                        "rank": 2776,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.15448805651577,
-                            "priceChange1h": 8.05129197,
-                            "priceChange24h": 45.69406257,
-                            "priceChange7d": 358.77448631,
-                            "priceChange30d": 494.92549694,
-                            "volume24h": 4340021.55659132
+                            "price": 0.13842325052496,
+                            "priceChange1h": 1.50745922,
+                            "priceChange24h": -14.1080388,
+                            "priceChange7d": 309.74973108,
+                            "priceChange30d": 437.17774242,
+                            "volume24h": 3524177.2219977
                         }
                     },
                     {
-                        "id": 7249,
-                        "name": "Yearn Finance Passive Income",
-                        "symbol": "YFPI",
-                        "slug": "yearn-finance-passive-income",
-                        "rank": 3123,
+                        "id": 9344,
+                        "name": "1MillionNFTs",
+                        "symbol": "1MIL",
+                        "slug": "1millionnfts",
+                        "rank": 1874,
                         "status": "active",
                         "priceChange": {
-                            "price": 34.08702390675422,
-                            "priceChange1h": 1.73559294,
-                            "priceChange24h": -16.78028214,
-                            "priceChange7d": 338.19045145,
-                            "priceChange30d": 441.11569242,
-                            "volume24h": 517796.48895715
+                            "price": 6.05142789123943,
+                            "priceChange1h": -2.06021499,
+                            "priceChange24h": 3.27778991,
+                            "priceChange7d": 261.79197583,
+                            "priceChange30d": 482.15288063,
+                            "volume24h": 859876.34555403
+                        }
+                    },
+                    {
+                        "id": 11250,
+                        "name": "VIRVIA ONLINE SHOPPING",
+                        "symbol": "VDV",
+                        "slug": "virvia-online-shopping",
+                        "rank": 3125,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00065976463303,
+                            "priceChange1h": 0.03387392,
+                            "priceChange24h": -2.84124064,
+                            "priceChange7d": 260.06725344,
+                            "priceChange30d": 0.0,
+                            "volume24h": 443140.78024169
                         }
                     }
                 ],
                 "loserList": [
                     {
+                        "id": 5986,
+                        "name": "Liquidity Dividends Protocol",
+                        "symbol": "LID",
+                        "slug": "liquidity-dividends-protocol",
+                        "rank": 3861,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.06603593812594,
+                            "priceChange1h": 0.325,
+                            "priceChange24h": 6.61653602,
+                            "priceChange7d": -98.89798843,
+                            "priceChange30d": -62.17889292,
+                            "volume24h": 52639.39937925
+                        }
+                    },
+                    {
                         "id": 10648,
                         "name": "EIFI FINANCE",
                         "symbol": "EIFI",
                         "slug": "eifi-finance",
-                        "rank": 2766,
+                        "rank": 2755,
                         "status": "active",
                         "priceChange": {
-                            "price": 1.93536612959581,
-                            "priceChange1h": 1.83429563,
-                            "priceChange24h": -88.79329405,
-                            "priceChange7d": -97.61623859,
-                            "priceChange30d": -98.60920752,
-                            "volume24h": 3675410.27368266
+                            "price": 2.02135695987891,
+                            "priceChange1h": 12.97581627,
+                            "priceChange24h": -86.51130127,
+                            "priceChange7d": -97.41676173,
+                            "priceChange30d": -98.46383326,
+                            "volume24h": 4280685.67543645
                         }
                     },
                     {
@@ -189,15 +205,47 @@
                         "name": "Chainpay",
                         "symbol": "CPAY",
                         "slug": "chainpay",
-                        "rank": 3720,
+                        "rank": 3689,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.01551930710334,
-                            "priceChange1h": -0.99056899,
-                            "priceChange24h": -9.5282053,
-                            "priceChange7d": -86.55158302,
-                            "priceChange30d": -94.29409837,
-                            "volume24h": 91626.54775627
+                            "price": 0.01558103549013,
+                            "priceChange1h": 5.03941081,
+                            "priceChange24h": 1.62099066,
+                            "priceChange7d": -95.41927142,
+                            "priceChange30d": -95.03252786,
+                            "volume24h": 82497.49591096
+                        }
+                    },
+                    {
+                        "id": 7419,
+                        "name": "DAOFi",
+                        "symbol": "DAOFI",
+                        "slug": "daofi",
+                        "rank": 3735,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00350160611848,
+                            "priceChange1h": -2.78345156,
+                            "priceChange24h": 6.06973101,
+                            "priceChange7d": -94.32457583,
+                            "priceChange30d": -95.21740994,
+                            "volume24h": 72072.30117272
+                        }
+                    },
+                    {
+                        "id": 6801,
+                        "name": "TriumphX",
+                        "symbol": "TRIX",
+                        "slug": "triumphx",
+                        "rank": 2466,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00338651085729,
+                            "priceChange1h": 14.3544861,
+                            "priceChange24h": 19.32038037,
+                            "priceChange7d": -93.48990457,
+                            "priceChange30d": 20.44102487,
+                            "volume24h": 70017.66959812
                         }
                     },
                     {
@@ -205,31 +253,15 @@
                         "name": "Binapet",
                         "symbol": "BPET",
                         "slug": "binapet",
-                        "rank": 2808,
+                        "rank": 3279,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.02200538730675,
-                            "priceChange1h": -0.55381243,
-                            "priceChange24h": 0.00081708,
-                            "priceChange7d": -85.39082863,
+                            "price": 0.0221046258343,
+                            "priceChange1h": -2.00876256,
+                            "priceChange24h": 3.68323813,
+                            "priceChange7d": -87.9306386,
                             "priceChange30d": 0.0,
-                            "volume24h": 257169.45884717
-                        }
-                    },
-                    {
-                        "id": 11386,
-                        "name": "BabyEth",
-                        "symbol": "BABYETH",
-                        "slug": "babyeth",
-                        "rank": 3510,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 1.397685507e-05,
-                            "priceChange1h": 1.68949848,
-                            "priceChange24h": -12.96289932,
-                            "priceChange7d": -80.87530019,
-                            "priceChange30d": 0.0,
-                            "volume24h": 58316.41033353
+                            "volume24h": 280219.22241622
                         }
                     },
                     {
@@ -237,15 +269,31 @@
                         "name": "ElonPeg",
                         "symbol": "ELONPEG",
                         "slug": "elonpeg",
-                        "rank": 3525,
+                        "rank": 3810,
                         "status": "active",
                         "priceChange": {
-                            "price": 3.6219394e-07,
-                            "priceChange1h": 1.41549073,
-                            "priceChange24h": -35.59959145,
-                            "priceChange7d": -79.99702165,
-                            "priceChange30d": -76.08437057,
-                            "volume24h": 57678.56061246
+                            "price": 2.8300631e-07,
+                            "priceChange1h": -0.31556183,
+                            "priceChange24h": -46.78420094,
+                            "priceChange7d": -83.65498113,
+                            "priceChange30d": -80.72351803,
+                            "volume24h": 60205.20908005
+                        }
+                    },
+                    {
+                        "id": 11386,
+                        "name": "BabyEth",
+                        "symbol": "BABYETH",
+                        "slug": "babyeth",
+                        "rank": 3782,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 1.384967573e-05,
+                            "priceChange1h": -1.19774382,
+                            "priceChange24h": -4.65353268,
+                            "priceChange7d": -78.5291898,
+                            "priceChange30d": 0.0,
+                            "volume24h": 64148.74804402
                         }
                     },
                     {
@@ -253,88 +301,40 @@
                         "name": "Ethereum Lightning",
                         "symbol": "ETLT",
                         "slug": "ethereumlightning",
-                        "rank": 3331,
+                        "rank": 3303,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.52778797188834,
-                            "priceChange1h": 0.92500968,
-                            "priceChange24h": 72.13823467,
-                            "priceChange7d": -76.57565928,
-                            "priceChange30d": -87.02415787,
-                            "volume24h": 266788.95322458
+                            "price": 0.48207368283796,
+                            "priceChange1h": -8.54903287,
+                            "priceChange24h": 54.86516371,
+                            "priceChange7d": -78.34507212,
+                            "priceChange30d": -88.06256533,
+                            "volume24h": 262577.28089047
                         }
                     },
                     {
-                        "id": 5986,
-                        "name": "Liquidity Dividends Protocol",
-                        "symbol": "LID",
-                        "slug": "liquidity-dividends-protocol",
-                        "rank": 3896,
+                        "id": 6225,
+                        "name": "Blockchain Exchange Alliance",
+                        "symbol": "BXA",
+                        "slug": "blockchain-exchange-alliance",
+                        "rank": 3787,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.06814947989324,
-                            "priceChange1h": 1.74538719,
-                            "priceChange24h": 13.63341889,
-                            "priceChange7d": -75.92967144,
-                            "priceChange30d": -62.97505466,
-                            "volume24h": 53947.29112776
-                        }
-                    },
-                    {
-                        "id": 4842,
-                        "name": "Folgory Coin",
-                        "symbol": "FLG",
-                        "slug": "folgory-coin",
-                        "rank": 568,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 2.45839669704539,
-                            "priceChange1h": 0.04626505,
-                            "priceChange24h": 2.82020313,
-                            "priceChange7d": -74.71493487,
-                            "priceChange30d": 353.23698372,
-                            "volume24h": 351006.66268491
-                        }
-                    },
-                    {
-                        "id": 10212,
-                        "name": "Piggy Bank Token",
-                        "symbol": "PIGGY",
-                        "slug": "piggy-bank-token",
-                        "rank": 3002,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 2.29257e-09,
-                            "priceChange1h": 1.36928105,
-                            "priceChange24h": 31.70907432,
-                            "priceChange7d": -73.98150488,
-                            "priceChange30d": -63.71371225,
-                            "volume24h": 139857.11873208
-                        }
-                    },
-                    {
-                        "id": 2153,
-                        "name": "Aeron",
-                        "symbol": "ARNX",
-                        "slug": "aeron",
-                        "rank": 2622,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.00013456017873,
-                            "priceChange1h": 2.21991465,
-                            "priceChange24h": -30.45437914,
-                            "priceChange7d": -73.06469295,
-                            "priceChange30d": -68.97792522,
-                            "volume24h": 55964.0497599
+                            "price": 0.00072671314512,
+                            "priceChange1h": -0.14333452,
+                            "priceChange24h": -12.87358818,
+                            "priceChange7d": -74.86191635,
+                            "priceChange30d": -53.97783935,
+                            "volume24h": 63744.48284934
                         }
                     }
                 ]
             },
             "status": {
-                "timestamp": "2021-09-02T00:04:44.433Z",
+                "timestamp": "2021-09-02T05:18:07.932Z",
                 "error_code": "0",
                 "error_message": "SUCCESS",
-                "elapsed": "11",
+                "elapsed": "9",
                 "credit_count": 0
             }
         },

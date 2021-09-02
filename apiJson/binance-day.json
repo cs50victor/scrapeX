@@ -7,131 +7,19 @@
             "data": {
                 "gainerList": [
                     {
-                        "id": 11481,
-                        "name": "BURNACE",
-                        "symbol": "ACE",
-                        "slug": "burnace",
-                        "rank": 3637,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.09038183397169,
-                            "priceChange1h": 6.0248273,
-                            "priceChange24h": 548.98796315,
-                            "priceChange7d": 0.0,
-                            "priceChange30d": 0.0,
-                            "volume24h": 67434.55636088
-                        }
-                    },
-                    {
                         "id": 7657,
                         "name": "BAEPAY",
                         "symbol": "BAEPAY",
                         "slug": "baepay",
-                        "rank": 3118,
+                        "rank": 3060,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.39738227954245,
-                            "priceChange1h": -13.62956664,
-                            "priceChange24h": 431.61246766,
-                            "priceChange7d": 370.37107088,
-                            "priceChange30d": 400.29344593,
-                            "volume24h": 524983.27368849
-                        }
-                    },
-                    {
-                        "id": 5189,
-                        "name": "AK12",
-                        "symbol": "AK12",
-                        "slug": "ak12",
-                        "rank": 4048,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.161094054912,
-                            "priceChange1h": 91.66165184,
-                            "priceChange24h": 227.98749582,
-                            "priceChange7d": 190.23208351,
-                            "priceChange30d": 231.43260723,
-                            "volume24h": 59222.40869774
-                        }
-                    },
-                    {
-                        "id": 4249,
-                        "name": "Findora",
-                        "symbol": "FRA",
-                        "slug": "findora",
-                        "rank": 3323,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.04557515645949,
-                            "priceChange1h": -0.28774277,
-                            "priceChange24h": 202.44370961,
-                            "priceChange7d": 161.22613628,
-                            "priceChange30d": 119.35172192,
-                            "volume24h": 273427.77588491
-                        }
-                    },
-                    {
-                        "id": 11376,
-                        "name": "Cake Bank",
-                        "symbol": "CAKEBANK",
-                        "slug": "cake-bank",
-                        "rank": 3453,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 5.562341139e-05,
-                            "priceChange1h": -8.0446933,
-                            "priceChange24h": 156.97819474,
-                            "priceChange7d": -61.04733984,
-                            "priceChange30d": 0.0,
-                            "volume24h": 152607.61449207
-                        }
-                    },
-                    {
-                        "id": 7322,
-                        "name": "Stream Protocol",
-                        "symbol": "STPL",
-                        "slug": "stream-protocol",
-                        "rank": 969,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.07912270283626,
-                            "priceChange1h": -0.01502556,
-                            "priceChange24h": 156.79671039,
-                            "priceChange7d": 174.90204066,
-                            "priceChange30d": 232.5370141,
-                            "volume24h": 290982.22899822
-                        }
-                    },
-                    {
-                        "id": 3912,
-                        "name": "W Green Pay",
-                        "symbol": "WGP",
-                        "slug": "w-green-pay",
-                        "rank": 1637,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.07386583418474,
-                            "priceChange1h": 0.50960469,
-                            "priceChange24h": 145.25624252,
-                            "priceChange7d": 562.11672009,
-                            "priceChange30d": 694.41624913,
-                            "volume24h": 78492.20793379
-                        }
-                    },
-                    {
-                        "id": 10427,
-                        "name": "Polker",
-                        "symbol": "PKR",
-                        "slug": "polker",
-                        "rank": 1320,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.14830398684922,
-                            "priceChange1h": 3.164601,
-                            "priceChange24h": 136.07036977,
-                            "priceChange7d": 269.9268839,
-                            "priceChange30d": 327.45809096,
-                            "volume24h": 4763047.24502878
+                            "price": 0.58826459546619,
+                            "priceChange1h": 26.29903404,
+                            "priceChange24h": 676.75212583,
+                            "priceChange7d": 609.13927256,
+                            "priceChange30d": 682.92563885,
+                            "volume24h": 566418.5219787
                         }
                     },
                     {
@@ -139,15 +27,127 @@
                         "name": "Mainstream For The Underground",
                         "symbol": "MFTU",
                         "slug": "mainstream-for-the-underground",
-                        "rank": 2409,
+                        "rank": 2372,
                         "status": "active",
                         "priceChange": {
-                            "price": 4.995631743e-05,
-                            "priceChange1h": -7.25190381,
-                            "priceChange24h": 125.11015131,
-                            "priceChange7d": 161.48206527,
-                            "priceChange30d": 101.82941084,
-                            "volume24h": 73752.73450681
+                            "price": 6.496901052e-05,
+                            "priceChange1h": 8.20763122,
+                            "priceChange24h": 250.48460643,
+                            "priceChange7d": 239.99238999,
+                            "priceChange30d": 130.11420972,
+                            "volume24h": 77276.1131537
+                        }
+                    },
+                    {
+                        "id": 3912,
+                        "name": "W Green Pay",
+                        "symbol": "WGP",
+                        "slug": "w-green-pay",
+                        "rank": 1635,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.08613123235037,
+                            "priceChange1h": 2.04074653,
+                            "priceChange24h": 185.55963597,
+                            "priceChange7d": 674.20885808,
+                            "priceChange30d": 727.11938994,
+                            "volume24h": 99047.00042411
+                        }
+                    },
+                    {
+                        "id": 4249,
+                        "name": "Findora",
+                        "symbol": "FRA",
+                        "slug": "findora",
+                        "rank": 3287,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.04319287343087,
+                            "priceChange1h": -0.69943527,
+                            "priceChange24h": 183.31113016,
+                            "priceChange7d": 140.39374719,
+                            "priceChange30d": 107.12534733,
+                            "volume24h": 276195.28855939
+                        }
+                    },
+                    {
+                        "id": 11380,
+                        "name": "Dogecoin 2.0",
+                        "symbol": "DOGE2",
+                        "slug": "dogecoin-2",
+                        "rank": 3702,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.04728913088456,
+                            "priceChange1h": 11.83638859,
+                            "priceChange24h": 168.65529487,
+                            "priceChange7d": -7.92448557,
+                            "priceChange30d": 0.0,
+                            "volume24h": 84136.39614376
+                        }
+                    },
+                    {
+                        "id": 11481,
+                        "name": "BURNACE",
+                        "symbol": "ACE",
+                        "slug": "burnace",
+                        "rank": 3230,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.03097457611631,
+                            "priceChange1h": -16.16756423,
+                            "priceChange24h": 158.3479328,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 328152.42017429
+                        }
+                    },
+                    {
+                        "id": 10924,
+                        "name": "Black Diamond",
+                        "symbol": "DIAMONDS",
+                        "slug": "black-diamond",
+                        "rank": 3228,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 9.6003013e-07,
+                            "priceChange1h": -0.58821544,
+                            "priceChange24h": 136.06028033,
+                            "priceChange7d": -59.07583609,
+                            "priceChange30d": -41.91012577,
+                            "volume24h": 325259.32792968
+                        }
+                    },
+                    {
+                        "id": 5189,
+                        "name": "AK12",
+                        "symbol": "AK12",
+                        "slug": "ak12",
+                        "rank": 3483,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.126118425204,
+                            "priceChange1h": -5.29074311,
+                            "priceChange24h": 125.41303785,
+                            "priceChange7d": 159.78593899,
+                            "priceChange30d": 201.7698619,
+                            "volume24h": 151821.38226123
+                        }
+                    },
+                    {
+                        "id": 11126,
+                        "name": "Hypersign identity",
+                        "symbol": "HID",
+                        "slug": "hypersign-identity",
+                        "rank": 3154,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.325426168752,
+                            "priceChange1h": 19.2480851,
+                            "priceChange24h": 113.70928312,
+                            "priceChange7d": 190.57644534,
+                            "priceChange30d": 132.38836706,
+                            "volume24h": 446969.45184225
                         }
                     },
                     {
@@ -155,15 +155,15 @@
                         "name": "Flourish Coin",
                         "symbol": "FLRS",
                         "slug": "flourish-coin",
-                        "rank": 3739,
+                        "rank": 3684,
                         "status": "active",
                         "priceChange": {
-                            "price": 1.11812e-09,
-                            "priceChange1h": -0.09379339,
-                            "priceChange24h": 117.90619981,
-                            "priceChange7d": 0.0,
+                            "price": 1.08853e-09,
+                            "priceChange1h": 0.08871896,
+                            "priceChange24h": 109.3014307,
+                            "priceChange7d": -70.46407014,
                             "priceChange30d": 0.0,
-                            "volume24h": 76250.41385801
+                            "volume24h": 84319.58667696
                         }
                     }
                 ],
@@ -173,95 +173,63 @@
                         "name": "EIFI FINANCE",
                         "symbol": "EIFI",
                         "slug": "eifi-finance",
-                        "rank": 2766,
+                        "rank": 2755,
                         "status": "active",
                         "priceChange": {
-                            "price": 1.93536612959581,
-                            "priceChange1h": 1.83429563,
-                            "priceChange24h": -88.79329405,
-                            "priceChange7d": -97.61623859,
-                            "priceChange30d": -98.60920752,
-                            "volume24h": 3675410.27368266
+                            "price": 2.02135695987891,
+                            "priceChange1h": 12.97581627,
+                            "priceChange24h": -86.51130127,
+                            "priceChange7d": -97.41676173,
+                            "priceChange30d": -98.46383326,
+                            "volume24h": 4280685.67543645
                         }
                     },
                     {
-                        "id": 293,
-                        "name": "Bitcoin Plus",
-                        "symbol": "XBC",
-                        "slug": "bitcoin-plus",
-                        "rank": 1591,
+                        "id": 10671,
+                        "name": "ElonPeg",
+                        "symbol": "ELONPEG",
+                        "slug": "elonpeg",
+                        "rank": 3810,
                         "status": "active",
                         "priceChange": {
-                            "price": 10.3238652708434,
-                            "priceChange1h": -1.19812951,
-                            "priceChange24h": -48.59873386,
-                            "priceChange7d": -42.52025143,
-                            "priceChange30d": 6.04671286,
-                            "volume24h": 146821.89132011
+                            "price": 2.8300631e-07,
+                            "priceChange1h": -0.31556183,
+                            "priceChange24h": -46.78420094,
+                            "priceChange7d": -83.65498113,
+                            "priceChange30d": -80.72351803,
+                            "volume24h": 60205.20908005
                         }
                     },
                     {
-                        "id": 9987,
-                        "name": "OpenSwap",
-                        "symbol": "OSWAP",
-                        "slug": "openswap",
-                        "rank": 2778,
+                        "id": 7249,
+                        "name": "Yearn Finance Passive Income",
+                        "symbol": "YFPI",
+                        "slug": "yearn-finance-passive-income",
+                        "rank": 3081,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.12922549836405,
-                            "priceChange1h": 3.49019275,
-                            "priceChange24h": -44.6466589,
-                            "priceChange7d": 0.0,
+                            "price": 23.42774285259367,
+                            "priceChange1h": 0.50795325,
+                            "priceChange24h": -44.17511068,
+                            "priceChange7d": 224.06707932,
+                            "priceChange30d": 292.1612208,
+                            "volume24h": 509876.8945301
+                        }
+                    },
+                    {
+                        "id": 11253,
+                        "name": "Doont Buy",
+                        "symbol": "DBUY",
+                        "slug": "doont-buy",
+                        "rank": 2764,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.0678591567499,
+                            "priceChange1h": 0.49915038,
+                            "priceChange24h": -41.49890217,
+                            "priceChange7d": 144.12401413,
                             "priceChange30d": 0.0,
-                            "volume24h": 1488213.00196995
-                        }
-                    },
-                    {
-                        "id": 10104,
-                        "name": "YaySwap",
-                        "symbol": "YAY",
-                        "slug": "yayswap",
-                        "rank": 3223,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.12561405945521,
-                            "priceChange1h": 0.98900171,
-                            "priceChange24h": -44.01747152,
-                            "priceChange7d": -60.58015845,
-                            "priceChange30d": 66.6587509,
-                            "volume24h": 342390.92042514
-                        }
-                    },
-                    {
-                        "id": 11520,
-                        "name": "Kaiken Inu",
-                        "symbol": "KAIKEN",
-                        "slug": "kaiken-inu",
-                        "rank": 3731,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 2.403068e-08,
-                            "priceChange1h": 0.63344617,
-                            "priceChange24h": -43.15528345,
-                            "priceChange7d": 0.0,
-                            "priceChange30d": 0.0,
-                            "volume24h": 88217.16010335
-                        }
-                    },
-                    {
-                        "id": 5418,
-                        "name": "Latamcash",
-                        "symbol": "LMCH",
-                        "slug": "latamcash",
-                        "rank": 3656,
-                        "status": "active",
-                        "priceChange": {
-                            "price": 0.00144415492396,
-                            "priceChange1h": 0.23958522,
-                            "priceChange24h": -39.0912808,
-                            "priceChange7d": -36.20700015,
-                            "priceChange30d": 7.53866153,
-                            "volume24h": 108724.053332
+                            "volume24h": 3949398.33246134
                         }
                     },
                     {
@@ -269,31 +237,47 @@
                         "name": "Zin Finance",
                         "symbol": "ZIN",
                         "slug": "zin-finance",
-                        "rank": 3570,
+                        "rank": 3514,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.00644452669694,
-                            "priceChange1h": 0.6502706,
-                            "priceChange24h": -38.93773517,
+                            "price": 0.00637729015202,
+                            "priceChange1h": -0.45068145,
+                            "priceChange24h": -40.63648202,
                             "priceChange7d": 0.0,
                             "priceChange30d": 0.0,
-                            "volume24h": 138394.95501677
+                            "volume24h": 136373.5103494
                         }
                     },
                     {
-                        "id": 8698,
-                        "name": "Ruler Protocol",
-                        "symbol": "RULER",
-                        "slug": "ruler-protocol",
-                        "rank": 2453,
+                        "id": 11514,
+                        "name": "Holographic Doge",
+                        "symbol": "HODO",
+                        "slug": "holographic-doge",
+                        "rank": 3681,
                         "status": "active",
                         "priceChange": {
-                            "price": 10.8616304026227,
-                            "priceChange1h": 0.63343927,
-                            "priceChange24h": -38.33255406,
-                            "priceChange7d": -48.7155244,
-                            "priceChange30d": -64.80486797,
-                            "volume24h": 385025.3510823
+                            "price": 6.3819e-10,
+                            "priceChange1h": -5.95235155,
+                            "priceChange24h": -38.75820159,
+                            "priceChange7d": 0.0,
+                            "priceChange30d": 0.0,
+                            "volume24h": 80827.08837187
+                        }
+                    },
+                    {
+                        "id": 10613,
+                        "name": "Empire Token",
+                        "symbol": "EMPIRE",
+                        "slug": "empire-token",
+                        "rank": 3691,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 0.00070275030033,
+                            "priceChange1h": -12.76086679,
+                            "priceChange24h": -38.72617812,
+                            "priceChange7d": -45.58405865,
+                            "priceChange30d": 39.944635,
+                            "volume24h": 83008.36506214
                         }
                     },
                     {
@@ -301,40 +285,56 @@
                         "name": "SpacePenguin",
                         "symbol": "PNGN",
                         "slug": "spacepenguin",
-                        "rank": 3805,
+                        "rank": 3759,
                         "status": "active",
                         "priceChange": {
-                            "price": 1.84696e-09,
-                            "priceChange1h": 0.16855616,
-                            "priceChange24h": -38.26207551,
-                            "priceChange7d": -44.04649903,
-                            "priceChange30d": 56.96481789,
-                            "volume24h": 67260.18196533
+                            "price": 1.86038e-09,
+                            "priceChange1h": 0.17480297,
+                            "priceChange24h": -37.80314604,
+                            "priceChange7d": -43.64596474,
+                            "priceChange30d": 67.13770065,
+                            "volume24h": 67732.66182721
                         }
                     },
                     {
-                        "id": 5738,
-                        "name": "Amun Ether 3x Daily Short",
-                        "symbol": "ETH3S",
-                        "slug": "amun-ether-3x-daily-short",
-                        "rank": 2700,
+                        "id": 9057,
+                        "name": "VYNK CHAIN",
+                        "symbol": "VYNC",
+                        "slug": "vynk-chain",
+                        "rank": 3783,
                         "status": "active",
                         "priceChange": {
-                            "price": 0.28824023745532,
-                            "priceChange1h": -7.86269916,
-                            "priceChange24h": -36.94534039,
-                            "priceChange7d": -49.94852958,
-                            "priceChange30d": 514.52429066,
-                            "volume24h": 10950223.15694085
+                            "price": 0.0969977609996,
+                            "priceChange1h": -0.05334277,
+                            "priceChange24h": -34.90224403,
+                            "priceChange7d": -51.49442787,
+                            "priceChange30d": 0.0,
+                            "volume24h": 63946.97069895
+                        }
+                    },
+                    {
+                        "id": 4257,
+                        "name": "Bitball Treasure",
+                        "symbol": "BTRS",
+                        "slug": "bitball-treasure",
+                        "rank": 637,
+                        "status": "active",
+                        "priceChange": {
+                            "price": 73.79936262596689,
+                            "priceChange1h": 0.17829827,
+                            "priceChange24h": -34.53589745,
+                            "priceChange7d": -3.69162158,
+                            "priceChange30d": -11.57263265,
+                            "volume24h": 743068.63753491
                         }
                     }
                 ]
             },
             "status": {
-                "timestamp": "2021-09-02T00:04:44.572Z",
+                "timestamp": "2021-09-02T05:18:07.933Z",
                 "error_code": "0",
                 "error_message": "SUCCESS",
-                "elapsed": "10",
+                "elapsed": "9",
                 "credit_count": 0
             }
         },
