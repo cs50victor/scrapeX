@@ -2,6 +2,7 @@ apiJson/
 scrapperBee/
 utils/
 requirements.txt
+Procfile
 *.py
 
 

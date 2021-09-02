@@ -80,7 +80,7 @@ func shouldMakeRequest() bool{
 
 func pythonRequests()string {
 
-	cmd := exec.Command("stockTrend")	
+	cmd := exec.Command("./stockTrend")	
 	err := cmd.Run()
 	runStatus := "..."
 	
