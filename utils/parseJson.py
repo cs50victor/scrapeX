@@ -122,7 +122,6 @@ def parseBinance():
     finalJson["risky-crypto"] = [payload[stock] for stock in payload]
 
 def requestData():
-    parseWebull() # add ["stock"] to finalJson
     parseCoinbase() # adds ["safe-crypto"] to the finalJson
     parseBinance() # adds ["risky-crypto"] to the finalJson
 

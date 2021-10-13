@@ -14,11 +14,6 @@ apis = [
     {"name":"binance-day","url":"https://www.binance.com/bapi/composite/v1/public/promo/cmc/cryptocurrency/spotlight?dataType=2&timeframe=24h"},
     {"name":"binance-week","url":"https://www.binance.com/bapi/composite/v1/public/promo/cmc/cryptocurrency/spotlight?dataType=2&timeframe=7d"},
     {"name":"binance-month","url":"https://www.binance.com/bapi/composite/v1/public/promo/cmc/cryptocurrency/spotlight?dataType=2&timeframe=30d"},
-    # webull top gainer -> rankType=1d/5d/1m/3m/52w , changeRatio*100=% percentage increase
-    {"name":"webull-day","url":"https://quotes-gw.webullfintech.com/api/wlas/ranking/topGainers?regionId=6&rankType=1d&pageIndex=1&pageSize=50"},
-    {"name":"webull-week","url":"https://quotes-gw.webullfintech.com/api/wlas/ranking/topGainers?regionId=6&rankType=5d&pageIndex=1&pageSize=50"},
-    {"name":"webull-month","url":"https://quotes-gw.webullfintech.com/api/wlas/ranking/topGainers?regionId=6&rankType=1m&pageIndex=1&pageSize=50"},
-    {"name":"webull-year","url":"https://quotes-gw.webullfintech.com/api/wlas/ranking/topGainers?regionId=6&rankType=52w&pageIndex=1&pageSize=50"},
 ]
 
 requestStatuses = []
