@@ -29,7 +29,6 @@ COPY requirements.txt .
 RUN pip3 install -r requirements.txt
 
 COPY --from=builder /app/scrapper /
-COPY --from=builder /app/5am.json /
 COPY --from=builder /app/stockTrend.py /
 COPY --from=builder /app/utils /utils/
 COPY --from=builder /app/apiJson /apiJson/
