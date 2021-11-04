@@ -133,8 +133,10 @@ def parseBinance():
     finalJson["risky-crypto"] = [payload[stock] for stock in payload]
 
 def requestData():
-    parseCoinbase() # adds ["safe-crypto"] to the finalJson
-    parseBinance() # adds ["risky-crypto"] to the finalJson
+    # adds ["safe-crypto"] to the finalJson
+    parseCoinbase() 
+    # adds ["risky-crypto"] to the finalJson
+    parseBinance() 
 
     return finalJson
     
