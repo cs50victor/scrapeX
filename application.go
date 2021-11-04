@@ -101,7 +101,8 @@ func main() {
 	// }
 	//fmt.Println("New Request Made? ",newRequest)
 	
-	pythonRequests()
+	requestStat := pythonRequests()
+	fmt.Println("New Request Made? ",requestStat)
 
 	app := fiber.New()
 	app.Use(logger.New())
@@ -114,7 +115,7 @@ func main() {
 	//app.Get("/5am/status", checkStatus)
 
 	port := os.Getenv("PORT")
-	if os.Getenv("PORT") == ""{
+	if port == ""{
 		port = "3000"
 	}
     // handle server starting error
