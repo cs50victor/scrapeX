@@ -81,10 +81,11 @@ func fiveAM(c *fiber.Ctx) error{
 func pythonRequests()string {
 
 	cmd := exec.Command("python","-c","from stockTrend import getNewJson; getNewJson()")
-	err := cmd.Run()
+	output , err := cmd.CombinedOutput()
 	runStatus := "..."
 	
 	if err != nil {
+		fmt.Println(fmt.Sprint(err) + ": " + string(output))
 		runStatus = fmt.Sprintf("Python exec run error: %s", err)
 	}else{
 		runStatus = "Python exec ran successfully! New Requests Complete"
