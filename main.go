@@ -54,7 +54,7 @@ func main() {
 		port = "3000"
 	}
     // handle server starting error
-    log.Fatal(app.Listen(":" +port))
+    log.Fatal(app.Listen(":" + port))
 }
 
 func goFiberApiSetup() *fiber.App{

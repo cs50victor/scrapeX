@@ -21,6 +21,7 @@ FROM scratch
 COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
 COPY --from=build /build/app /app
 
+ENV PORT 3000
 EXPOSE 3000
 
 ENTRYPOINT ["/app"]
