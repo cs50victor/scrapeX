@@ -70,11 +70,11 @@ func goFiberApiSetup() *fiber.App{
 		Next: func(c *fiber.Ctx) bool {
 			return c.Query("refresh") == "true"
 		},
-		Expiration: 15*60 * time.Second, // (15 minutes)
+		Expiration: 10*60 * time.Second, // (15 minutes)
 		CacheControl: true,
 	}))
 
-	// 5 requests per 10 seconds max
+	// max of 5 requests every 10 seconds 
 	app.Use(limiter.New(limiter.Config{
 		Expiration: 10 * time.Second,
 		Max:5,
