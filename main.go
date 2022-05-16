@@ -70,7 +70,7 @@ func goFiberApiSetup() *fiber.App{
 		Next: func(c *fiber.Ctx) bool {
 			return c.Query("refresh") == "true"
 		},
-		Expiration: 10*60 * time.Second, // (15 minutes)
+		Expiration: 10*60 * time.Second, // (10 minutes)
 		CacheControl: true,
 	}))
 
