@@ -3,6 +3,7 @@ name: Build and deploy a container to an Azure Web App
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: scrapper
+  VERSION: latest # ${{ github.sha }} | latest
   AZURE_WEBAPP_NAME: scrppr1  # name of Azure Web App
 
 on:
@@ -35,7 +36,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: "${{ env.REGISTRY }}/${{ github.actor }}/${{ env.IMAGE_NAME }}:${{ github.sha }}"
+          tags: "${{ env.REGISTRY }}/${{ github.actor }}/${{ env.IMAGE_NAME }}:${{ env.VERSION }}"
 
   deploy:
     permissions:
@@ -53,4 +54,4 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          images: 'ghcr.io/cs50victor/scrapper:${{ github.sha }}'
+          images: 'ghcr.io/cs50victor/scrapper:${{ env.VERSION }}'

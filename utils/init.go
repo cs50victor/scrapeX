@@ -166,7 +166,7 @@ func SendRequest(wg *sync.WaitGroup, client *http.Client, url string, c chan<- [
 	// Close the connection to reuse it
 	defer resp.Body.Close()
 
-	fmt.Println(resp.Status + ":\n\t" + url)
+	fmt.Println("\n" + resp.Status + ":\n\t" + url)
 	body, err := ioutil.ReadAll(resp.Body)
 
 	if err != nil {
@@ -241,10 +241,10 @@ func CommonCoinbaseTkns() []TokenData {
 			}
 		case tokenPrices, open := <-tokenPricesChan:
 			tkn := ParseCoinbaseTknInfo(tokenPrices, tknIds)
-			if !tkn.IsEmpty(){
+			if !tkn.IsEmpty() {
 				topTokens = append(topTokens, tkn)
 			}
-			
+
 			if !open {
 				tokenPricesChan = nil
 			}
@@ -255,7 +255,6 @@ func CommonCoinbaseTkns() []TokenData {
 		}
 	}
 
-	fmt.Println("here")
 	return topTokens
 }
 

@@ -2,22 +2,23 @@ package utils
 
 import (
 	"math"
-	"time"
 	"reflect"
+	"time"
+
 	"github.com/tidwall/gjson"
 )
 
 type bestTokenTiming struct {
 	BestBuy struct {
-		Price float64         `json:"price"`
-		Time  time.Time       `json:"time"`
+		Price float64   `json:"price"`
+		Time  time.Time `json:"time"`
 	} `json:"bestBuy"`
 	BestSell struct {
-		Price float64         `json:"price"`
-		Time  time.Time       `json:"time"`
+		Price float64   `json:"price"`
+		Time  time.Time `json:"time"`
 	} `json:"bestSell"`
-	MaxProfit       float64   `json:"maxProfit"`
-	PercentIncrease float64   `json:"percentIncrease"`
+	MaxProfit       float64 `json:"maxProfit"`
+	PercentIncrease float64 `json:"percentIncrease"`
 }
 
 type TokenData struct {
@@ -26,7 +27,7 @@ type TokenData struct {
 	Symbol      string        `json:"symbol"`
 	Image       string        `json:"image"`
 	Price       float64       `json:"price"`
-	Color       string       `json:"color"`
+	Color       string        `json:"color"`
 	Time        time.Time     `json:"timestamp"`
 	CreatedOn   string        `json:"created"`
 	MoreInfo    []interface{} `json:"moreInfo"`
@@ -34,23 +35,22 @@ type TokenData struct {
 	Supply      float64       `json:"circulatingSupply"`
 	Volume24h   float64       `json:"volume24h"`
 	MarketCap   float64       `json:"marketCap"`
-	BestTimes   struct {      
-		Hour  bestTokenTiming  `json:"hour"`
-		Day   bestTokenTiming  `json:"day"`  
-		Week  bestTokenTiming  `json:"week"`
-		Month bestTokenTiming  `json:"month"`
-		Year  bestTokenTiming  `json:"year"`
-		All   bestTokenTiming  `json:"all"`
+	BestTimes   struct {
+		Hour  bestTokenTiming `json:"hour"`
+		Day   bestTokenTiming `json:"day"`
+		Week  bestTokenTiming `json:"week"`
+		Month bestTokenTiming `json:"month"`
+		Year  bestTokenTiming `json:"year"`
+		All   bestTokenTiming `json:"all"`
 	} `json:"bestTimes"`
 }
-func (t TokenData) IsEmpty() bool {
-	return reflect.DeepEqual(t,TokenData{})
-}
 
+func (t TokenData) IsEmpty() bool {
+	return reflect.DeepEqual(t, TokenData{})
+}
 
 func ParseCoinbaseTknInfo(tokenPrices []byte, tknIds map[string]gjson.Result) TokenData {
 
-	
 	var listing TokenData
 
 	if tokenPrices != nil {
@@ -58,7 +58,7 @@ func ParseCoinbaseTknInfo(tokenPrices []byte, tknIds map[string]gjson.Result) To
 		uuid := moreTknInfo.Get("uuid").String()
 
 		token, uuidExists := tknIds[uuid]
-		if(uuidExists){
+		if uuidExists {
 			listing.Uuid = token.Get("id").String()
 			listing.Name = token.Get("name").String()
 			listing.Symbol = token.Get("symbol").String()
@@ -70,10 +70,10 @@ func ParseCoinbaseTknInfo(tokenPrices []byte, tknIds map[string]gjson.Result) To
 			listing.CreatedOn = token.Get("launched_at").String()
 			listing.Description = token.Get("description").String()
 			listing.Supply = token.Get("circulating_supply").Float()
-	
+
 			listing.Price = moreTknInfo.Get("latestQuote.price").Float()
 			listing.Time = moreTknInfo.Get("latestQuote.timestamp").Time()
-	
+
 			listing.BestTimes.Hour = maxProfit(moreTknInfo.Get("priceDataForHour.quotes").Array())
 			listing.BestTimes.Day = maxProfit(moreTknInfo.Get("priceDataForDay.quotes").Array())
 			listing.BestTimes.Week = maxProfit(moreTknInfo.Get("priceDataForWeek.quotes").Array())
