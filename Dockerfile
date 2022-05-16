@@ -1,40 +1,26 @@
-FROM golang:alpine AS builder
+# multistage build to shrink docker image size
+FROM golang:alpine as build
 
-# Set necessary environmet variables needed for our image
-ENV GO111MODULE=on \
-    CGO_ENABLED=0 \
-    GOOS=linux \
-    GOARCH=amd64 \ 
-    PORT=3000
+# to support http get requests
+RUN apk --no-cache add ca-certificates
 
-# Move to working directory /app
-WORKDIR /app
+WORKDIR /build 
 
-# Download necessary Go modules
-COPY go.mod .
-COPY go.sum .
-RUN go mod download
-
-# Copy all current files into the container
 COPY . .
 
-# Build the application with dafault name - scrapper
-RUN go build
+# create binary but remove debug information from binary
+RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags "-s -w -extldflags '-static'" -o ./app
 
-# Build a small image
-FROM python:3.9.7
+# use upx to compress binary
+RUN apk add upx
+RUN upx ./app
 
-COPY requirements.txt .
 
-RUN pip3 install -r requirements.txt
+FROM scratch
 
-COPY --from=builder /app/scrapper /
-COPY --from=builder /app/stockTrend.py /
-COPY --from=builder /app/utils /utils/
-COPY --from=builder /app/apiJson /apiJson/
+COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
+COPY --from=build /build/app /app
 
-# Export necessary port
-EXPOSE $PORT
+EXPOSE 3000
 
-# Command to run when starting the container
-ENTRYPOINT ["./scrapper"]
+ENTRYPOINT ["/app"]

@@ -1,1 +1,0 @@
-web: sh -c 'mv ./stockTrend ./bin &&  ls * && ./bin/scrapper'
