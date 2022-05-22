@@ -5,8 +5,9 @@ Aggregates the most profitable tokens on Coinbase at the time of request
 api endpoint for token: /tokens
 
 ## Future plans 
-[] possibly integrate Graphql
-[] allow cloud based web scrapping
+
+- [ ] possibly integrate Graphql
+- [ ] allow cloud based web scrapping
 - possible uses
 - youtube thumbnails, shopping etc
   
