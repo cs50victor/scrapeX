@@ -8,10 +8,14 @@ use std::env;
 
 #[actix_rt::main]
 async fn main() -> std::io::Result<()> {
-    let port = 3000;
+    let port = env::var("PORT")
+        .unwrap_or_else(|_| "8080".to_string())
+        .parse::<u16>()
+        .expect("PORT must be a number");
+
     println!("\n=== STARTING SERVER ===\nhttp://localhost:{port}\n");
 
-    env::set_var("RUST_LOG", "info");
+    env::set_var("RUST_LOG", "info,scrape=debug");
     pretty_env_logger::init();
 
     HttpServer::new(|| {
@@ -20,7 +24,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(middleware::DefaultHeaders::new().add(("Content-Type", "application/json")))
             .service(index())
     })
-    .bind(("127.0.0.1", port))?
+    .bind(("0.0.0.0", port))?
     .run()
     .await
 }
